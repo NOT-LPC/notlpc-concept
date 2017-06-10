@@ -1,0 +1,38 @@
+<footer class="fixed relative-l bg-primary-color-dark bottom-0 w-100 pa3 pa4-l" role="contentinfo">
+  <!-- TODO: Make sure we don't lose all the footer content on mobile -->
+  <!-- TODO: Add icons https://github.com/rdwatters/hugo-docs-concept/issues/3#issuecomment-287194777
+-->
+    <div class="dn db-l flex-ns flex-wrap w-80 center mw9 justify-between">
+      <div class="w-third pv3 dn db-l">
+          <div class="w4 center">
+             {{ partialCached "svg/notlpc-logo-wide.svg" (dict "size" "100") }}
+          </div>
+          <p class="f6 silver tc w-70 center">North of Tyne Local Pharmaceutical Committee (LPC) is the statutory organisation which represents all community pharmacies in Northumberland, Newcastle and North Tyneside.</p>
+         <div class="mb3 silver tc nested-links">
+           By <a href="https://www.summit360.co.uk" class="link">Summit 360</a>
+         </div>
+      </div>
+
+      <div class="w-third pv3 dn db-l">
+        <ul class="list ma0 pa0 w-50 center">
+          <!--<li><a href="{{ .Site.Params.gitter }}" class="link white dim pv2 db">Discuss the Source Code</a></li>-->
+          <li><a href="" class="link white dim pv2 db">Link One</a></li>
+          <li><a href="" class="link white dim pv2 db">Link Two</a></li>
+          <li><a href="" class="link white dim pv2 db">Link Three</a></li>
+
+        </ul>
+      </div>
+
+      <div class="w-third pv3 dn db-l">
+        <ul class="list ma0 pa0">
+         <li><a href="" class="link white dim pv2 db">Link Four</a></li>
+          <li><a href="" class="link white dim pv2 db">Link Five</a></li>
+          <li><a href="" class="link white dim pv2 db">Link Six</a></li>
+        </ul>
+      </div>
+    </div>
+
+
+    {{ partial "nav-mobile.html" . }}
+
+</footer>
