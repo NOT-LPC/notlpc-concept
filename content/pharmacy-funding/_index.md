@@ -1,20 +1,20 @@
 ---
-title: Training & Support
-linktitle: Training Overview
+title: Pharmacy Funding
+linktitle: Pharmacy Funding Overview
 description: North of TYne LPC, who, what, we are and working with us
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ["training"]
+categories: ["services"]
 tags: []
 menu:
   docs:
-    parent: "training"
+    parent: "pharmacy-funding"
     weight: 1
 weight: 1
 draft: false
-aliases: []
+aliases: [/pharmacy-funding/]
 toc: false
 ---
 
-Training intro text goes here.
+ Range of services intro text goes here

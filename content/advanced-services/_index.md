@@ -1,19 +1,20 @@
 ---
-title: Pharmacy Contracts & Services
-linktitle: Services Overview
+title: Advanced Services
+linktitle: Advanced Services Overview
 description: North of TYne LPC, who, what, we are and working with us
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ["services"]
+categories: ["advanced-services"]
 tags: []
 menu:
   docs:
-    parent: "services"
+    parent: "advanced-services"
     weight: 1
 weight: 1
 draft: false
-aliases: [/services/,/docs/]
+aliases: [/advanced-services/]
 toc: false
 ---
+
  Range of services intro text goes here

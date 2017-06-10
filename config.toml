@@ -33,7 +33,7 @@ theme = "notlpc-theme"
 
 # Set to true to convert mysite/section/ to mysite/section.html
 uglyURLs = false
-verbose = false
+verbose = true
 verboseLog = false
 # Setting this to false will keep hugo from watching for changes during local development
 watch = true
@@ -77,27 +77,41 @@ twitter = "GoHugoIO"
 
 # High level items
 
+
 [[menu.docs]]
-  name = "About North of Tyne LPC"
-  weight = 1
-  identifier = "about"
-  url = "/about/"
+  name = "Local Services"
+  weight = 15
+  identifier = "local-services"
+  post = ""
+  url = "/local-services/"
+
+
+[[menu.docs]]
+  name = "Advanced Services"
+  weight = 40
+  identifier = "advanced-services"
+  post = ""
+  url = "/advanced-services/"
+[[menu.docs]]
+  name = "Pharmacy Funding"
+  weight = 50
+  identifier = "pharmacy-funding"
+  post = "break"
+  url = "/pharmacy-funding/"
 
 [[menu.docs]]
   name = "Training & Support"
-  weight = 5
+  weight = 90
+  post = "break"
   identifier = "training"
   url = "/training/"
 
-
 [[menu.docs]]
-  name = "Pharmacy Services"
-  weight = 15
-  identifier = "services"
-  post = "break"
-  url = "/services/"
-
-
+  name = "About North of Tyne LPC"
+  weight = 100
+  post= "break"
+  identifier = "about"
+  url = "/about/"
 
 ######## GLOBAL ITEMS TO BE SHARED WITH THE HUGO siteaddress
 
@@ -113,17 +127,22 @@ twitter = "GoHugoIO"
     identifier = "events"
     url = "/events/"
 
-  [[menu.global]]
-    name = "Training & Support"
-    weight = 10
-    identifier = "training-support"
-    url = "/training/"
+  # [[menu.global]]
+  #   name = "Training & Support"
+  #   weight = 10
+  #   identifier = "training-support"
+  #   url = "/training/"
 
-  [[menu.global]]
-    name = "Pharmacy Services"
+  # [[menu.global]]
+  #   name = "Pharmacy Services"
+  #   weight = 20
+  #   identifier = "pharmacy-services"
+  #   url = "/services/"
+ [[menu.global]]
+    name = "Resources"
     weight = 20
-    identifier = "pharmacy-services"
-    url = "/services/"
+    identifier = "resources"
+    url = "/resources/"
 
 
   # Anything with a weight > 100 gets an external icon
