@@ -1,10 +1,10 @@
 :root {
-  --primary-color:        #0594CB;
+  --primary-color:        #00912e;
   --primary-color-dark:   #0A1922;
   --primary-color-light:  #f9f9f9;
-  --accent-color:         #EBB951;
-  --accent-color-light:   #FF4088;
-  --accent-color-dark:    #33ba91;
+  --accent-color:         color(#0091ff a(70%));
+  --accent-color-light:   #0091ff;
+  --accent-color-dark:    #00912e;
   --text-color-primary:   #373737;
   --text-on-primary-color: #fff;
   --text-color-secondary: #ccc;
@@ -12,5 +12,35 @@
   --divider-color:        #f6f6f6;
   --warn-color: red;
 
-  --blue: var(--primary-color);
+
+
+
+
+  --dark-red:  #e7040f;
+  --red:  #ff4136;
+  --light-red:  #ff725c;
+  --orange:  #ff6300;
+  --gold:  #ffb700;
+  --yellow:  #ffd700;
+  --light-yellow:  #fbf1a9;
+  --purple:  #5e2ca5;
+  --light-purple:  #a463f2;
+  --dark-pink:  #d5008f;
+  --hot-pink: #ff41b4;
+  --pink:  #ff80cc;
+  --light-pink:  #ffa3d7;
+  --dark-green:  #00921e;
+  --green:  #33b551;
+  --light-green:  #9eebcf;
+  --navy:  #001b44;
+  --dark-blue:  #0047e0;
+  --blue:  #0091ff;
+  --light-blue:  #0091ff;
+  --lightest-blue:  #cdecff;
+  --washed-blue:  #f6fffe;
+  --washed-green:  #e8fdf5;
+  --washed-yellow:  #fffceb;
+  --washed-red:  #ffdfdf;
+
+
 }

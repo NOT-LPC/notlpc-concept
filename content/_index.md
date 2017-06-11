@@ -20,26 +20,29 @@ features:
 
   - heading: Support
     image_path: /images/SVG/question-circle.svg
-    tagline: Hugo has common patterns to get your work done quickly.
+    tagline: Enim voluptate laborum officia magna aliquip in magna.
     copy: Dolor amet veniam magna sit nisi voluptate velit. Sunt velit anim elit cupidatat ipsum commodo id enim. Consectetur quis eiusmod reprehenderit mollit. Ipsum id ad cupidatat nulla elit.
 
   - heading: Events
     image_path: /images/SVG/calendar.svg
     tagline: Local meetings for your needs.
     copy: Eu consequat id deserunt est reprehenderit dolore cillum. Do sint in pariatur duis et eiusmod labore qui do nisi magna non eu nisi.
+
 sections:
-  - heading: "100s of Themes"
-    cta: Check out the Hugo's themes.
-    link: http://themes.gohugo.io/
+
+  - heading: "In store abcs"
+    cta: View the Local Pharmacy Organisation Support Services (LPOSS).
+    link: https://psnc.org.uk/lpcs/lposs/
     color_classes: bg-accent-color white
-    image: /images/homepage-screenshot-hugo-themes.jpg
-    copy: "Hugo provides a robust theming system that is easy to implement but capable of producing even the most complicated websites."
-  - heading: "Capable Templating"
-    cta: Get Started.
-    link: https://hugodocs.info/templates/
+    image: /images/homepage-example-1.jpg
+    copy: "In response to the changing demands and increasing challenges LPCs are facing in the reformed NHS environment, PSNC has been working with LPCs to ensure needs are met."
+
+  - heading: "The Healthcare Landscape"
+    cta: Read briefings.
+    link: http://psnc.org.uk/the-healthcare-landscape/psnc-briefings-the-healthcare-landscape/
     color_classes: bg-primary-color-light black
-    image: /images/home-page-templating-example.png
-    copy: "Hugo's Go-based templating provides just the right amount of logic to build anything from the simple to complex. If you prefer Jade/Pug-like syntax, you can also use Amber, Ace, or any combination of the three."
+    image: /images/homepage-example-2.jpg
+    copy: "As part of the of support services it offers, PSNC often sends out briefings to LPCs and pharmacy contractors."
 ---
 
 Building a healthy future through community pharmacy.

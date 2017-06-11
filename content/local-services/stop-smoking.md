@@ -7,7 +7,7 @@ date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
 categories: ["services"]
-tags: []
+tags: [smoking]
 menu:
   docs:
     parent: "local-services"

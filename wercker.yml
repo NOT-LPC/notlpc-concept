@@ -1,0 +1,17 @@
+box: golang
+build:
+  steps:
+      - arjen/hugo-build:
+        version: "HEAD"
+        theme: hugo-agency-theme
+        flags: --buildDrafts=true -D -F -v
+        config: config.toml
+        disable_pygments: true
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        # domain: not-lpc.github.io/notlpc-hugo
+        basedir: public

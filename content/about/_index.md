@@ -13,8 +13,8 @@ menu:
     weight: 1
 weight: 1
 draft: false
-aliases: [/about/,/docs/]
+aliases: [/about/]
 toc: false
 ---
 
-Hugo is not your average static site generator.
+North of Tyne LPC is ...

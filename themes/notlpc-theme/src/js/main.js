@@ -2,6 +2,10 @@ import styles from './../css/main.css';
 
 import './menutoggle.js';
 
+import './scrolldir.js';
+import './smoothscroll.js';
+
+import './no-js.js';
 
 
 // TO use Jquery, just call the modules you want
