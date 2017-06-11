@@ -3,7 +3,7 @@ build:
   steps:
       - arjen/hugo-build:
         version: "HEAD"
-        theme: hugo-agency-theme
+        theme: notlpc-theme
         flags: --buildDrafts=true -D -F -v
         config: config.toml
         disable_pygments: true
