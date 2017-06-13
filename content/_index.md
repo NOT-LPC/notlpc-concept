@@ -1,6 +1,6 @@
 ---
 title: Your LPC
-date: 2017-02-01T00:00:00.000Z
+date: {}
 features:
   - heading: Local Services
     icon: fa-snowflake-o
@@ -58,6 +58,8 @@ sections:
 published: true
 ---
 
-Building a healthy future through community pharmacy.
-Strong and Stable.
+Building a healthy future through community pharmacy. 
+
+Strong and Stable. 
+
 Proident duis aliquip mollit mollit magna sit in aliqua veniam duis voluptate.
