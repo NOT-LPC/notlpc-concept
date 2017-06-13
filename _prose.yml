@@ -3,12 +3,11 @@ prose:
   media: 'static/images'
   metadata:
     content/news:
-      - name: "date"
+       - name: "date"
         field:
           element: "text"
           label: "Date"
           placeholder: "Date in format yyyy-mm-dd."
-          value: CURRENT_DATETIME
       - name: "title"
         field:
           element: "text"
