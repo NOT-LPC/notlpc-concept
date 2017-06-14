@@ -3,20 +3,19 @@ title: Your LPC
 date: 2017-02-01
 features:
   - heading: Local Services
-    icon: fa-snowflake-o
     image_path: /images/SVG/heartbeat.svg
     tagline: Specialist services in your area
     copy: >-
       North of Tyne LPC brings you local services and information for
       Northumberland, Newcastle and North Tyneside.
   - heading: Community Pharmacy
-    image_path: /images/SVG/hospital-o.svg
+    image_path: /images/SVG/group.svg
     tagline: Advanced Services line
     copy: >-
       Excepteur magna qui proident sit fugiat esse ex incididunt minim magna
       proident.
   - heading: Training
-    image_path: /images/SVG/user-md.svg
+    image_path: /images/SVG/clipboard.svg
     tagline: 'Documents, Videos and IT training'
     copy: >-
       Deserunt exercitation nisi in minim. Consequat in commodo veniam labore

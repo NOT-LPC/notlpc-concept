@@ -3,18 +3,18 @@ prose:
   media: 'static/images'
   metadata:
     content:
-      
-
       - name: "title"
         field:
           element: "text"
           label: "Title"
           placeholder: "The title that readers see on the page."
+
       - name: "linktitle"
         field:
           element: "text"
           label: "Link Title"
           placeholder: "The title for use in links."
+
       - name: "description"
         field:
           element: "textarea"
