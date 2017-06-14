@@ -45,7 +45,7 @@ twitter = "NOTLPC"
 
 #CUSTOM PARAMS
 [params]
-  description = "North of Tyne Local Pharmacy Services"
+  description = "North of Tyne Local Pharmaceutical Committee"
   ## Used for views in rendered HTML (i.e., rather than using the .Hugo variable)
   release = "0.20"
   ## Setting this to true will add a "noindex" to *EVERY* page on the site
