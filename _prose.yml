@@ -3,11 +3,14 @@ prose:
   media: 'static/images'
   metadata:
     content:
-       - name: "date"
+      - name: "date"
         field:
           element: "text"
           label: "Date"
           placeholder: "Date in format yyyy-mm-dd."
+          value: CURRENT_DATETIME
+          type: "datetime"
+
       - name: "title"
         field:
           element: "text"
@@ -23,16 +26,7 @@ prose:
           element: "textarea"
           label: "Description"
           placeholder: "The meta description - often used by Google in search results page."
-      - name: "author"
-        field:
-          element: "textarea"
-          label: "Author"
-          placeholder: "Must be in format FirstnameLastname - e.g. JohnGriffin"
-      - name: "header_image"
-        field:
-          element: "text"
-          label: "Header Image"
-          placeholder: "Full-width header image - e.g. /images/myfile.png"
+
       - name: "categories"
         field:
           element: "multiselect"
@@ -41,6 +35,7 @@ prose:
             - name: "Services"
               value: "services"
           alterable: True
+
       - name: "tags"
         field:
           element: "multiselect"
