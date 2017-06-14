@@ -6,7 +6,7 @@ description: Pariatur cillum ex adipisicing do sint quis dolore id pariatur sit 
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ["training", "support-videos"]
+categories: ["support-videos"]
 tags: ["training"]
 menu:
   docs:
@@ -27,7 +27,7 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 
 ## Video embed example
 
-Lorem proident consequat exercitation commodo non elit. Deserunt anim veniam velit ex. Cillum sunt non nisi reprehenderit. Voluptate eiusmod commodo aliquip incididunt magna deserunt enim cillum enim. Excepteur voluptate labore eiusmod velit pariatur amet. Labore reprehenderit adipisicing in occaecat tempor Lorem culpa.
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/TwBVaAH7q-k/0.jpg)](http://www.youtube.com/watch?v=TwBVaAH7q-k "Video Title")
 
 
 ## More info

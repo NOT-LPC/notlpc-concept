@@ -76,16 +76,12 @@ twitter = "NOTLPC"
 
 
 # High level items
-
-
 [[menu.docs]]
   name = "Local Services"
   weight = 15
   identifier = "local-services"
   post = ""
   url = "/local-services/"
-
-
 [[menu.docs]]
   name = "Advanced Services"
   weight = 40
@@ -98,18 +94,16 @@ twitter = "NOTLPC"
   identifier = "pharmacy-funding"
   post = "break"
   url = "/pharmacy-funding/"
-
 [[menu.docs]]
   name = "Training & Support"
   weight = 90
   post = "break"
   identifier = "training"
   url = "/training/"
-
 [[menu.docs]]
   name = "About North of Tyne LPC"
   weight = 100
-  post= "break"
+  post= "spacer"
   identifier = "about"
   url = "/about/"
 
@@ -120,35 +114,25 @@ twitter = "NOTLPC"
     weight = 1
     identifier = "news"
     url = "/news/"
-
-  [[menu.global]]
-    name = "Events"
-    weight = 5
-    identifier = "events"
-    url = "/events/"
-
-  # [[menu.global]]
-  #   name = "Training & Support"
-  #   weight = 10
-  #   identifier = "training-support"
-  #   url = "/training/"
-
-  # [[menu.global]]
-  #   name = "Pharmacy Services"
-  #   weight = 20
-  #   identifier = "pharmacy-services"
-  #   url = "/services/"
- [[menu.global]]
-    name = "Resources"
-    weight = 20
-    identifier = "resources"
-    url = "/resources/"
-
-
-  # Anything with a weight > 100 gets an external icon
-  [[menu.global]]
-    name = "PSNC"
-    weight = 200
-    identifier = "psnc"
-    post = "external"
-    url = "https://psnc.org.uk/lpcs/"
+[[menu.global]]
+  name = "Events"
+  weight = 10
+  identifier = "events"
+  url = "/events/"
+[[menu.global]]
+  name = "Resources"
+  weight = 20
+  identifier = "resources"
+  url = "/resources/"
+[[menu.global]]
+  name = "About"
+  weight = 30
+  identifier = "about"
+  url = "/about/"
+# Anything with a weight > 100 gets an external icon
+[[menu.global]]
+  name = "PSNC"
+  weight = 200
+  identifier = "psnc"
+  post = "external"
+  url = "https://psnc.org.uk/lpcs/"

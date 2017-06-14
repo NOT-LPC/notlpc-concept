@@ -2,7 +2,7 @@ prose:
   rooturl: 'content'
   media: 'static/images'
   metadata:
-    content/news:
+    content:
        - name: "date"
         field:
           element: "text"
@@ -18,25 +18,21 @@ prose:
           element: "text"
           label: "Link Title"
           placeholder: "The title for use in links."
-
       - name: "description"
         field:
           element: "textarea"
           label: "Description"
           placeholder: "The meta description - often used by Google in search results page."
-
       - name: "author"
         field:
           element: "textarea"
           label: "Author"
           placeholder: "Must be in format FirstnameLastname - e.g. JohnGriffin"
-
       - name: "header_image"
         field:
           element: "text"
           label: "Header Image"
           placeholder: "Full-width header image - e.g. /images/myfile.png"
-
       - name: "categories"
         field:
           element: "multiselect"
