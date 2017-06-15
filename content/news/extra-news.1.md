@@ -3,6 +3,7 @@ date: 2016-05-06T12:54:06-04:00
 description: "Deserunt velit fugiat ut dolor."
 title: "Extra Site Release"
 categories: ["Releases"]
+tags: [acme]
 ---
 
 Ex eu quis deserunt excepteur tempor in eu laboris veniam. Pariatur voluptate sint ad proident ea ad ex et sunt cupidatat. Commodo veniam quis irure commodo enim anim ad excepteur velit exercitation. Pariatur irure pariatur nisi officia veniam do sit.
