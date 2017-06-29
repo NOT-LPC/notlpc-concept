@@ -1,3 +1,5 @@
+
+{{ partial "boxes-small-events" . }}
 {{ if .Params.sections }}
   {{ range .Params.sections }}
   {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
@@ -13,7 +15,7 @@
 
         <div class="w-100 w-50-l">
           <div class="w-80-ns center tc">
-            <h3 class="f1 fw4 black ma0 pt4 lh-title pt0-l">{{ .heading }}</h3>
+            <h3 class="f1 fw4 black ma0 pt4 lh-title pt0-l ">{{ .heading }}</h3>
             <p class="f3 lh-copy">
               {{ .copy }}
             </p>

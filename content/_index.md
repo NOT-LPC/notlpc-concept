@@ -36,15 +36,16 @@ features:
       Eu consequat id deserunt est reprehenderit dolore cillum. Do sint in
       pariatur duis et eiusmod labore qui do nisi magna non eu nisi.
 sections:
-  - heading: In store abcs
-    cta: View the Local Pharmacy Organisation Support Services (LPOSS).
-    link: 'https://psnc.org.uk/lpcs/lposs/'
-    color_classes: bg-accent-color white
+  - heading: Up coming events
+    cta: View the upcoming events for your area
+    link: '/events/'
+    color_classes: bg-primary-color white
     image: /images/homepage-example-1.jpg
     copy: >-
       In response to the changing demands and increasing challenges LPCs are
       facing in the reformed NHS environment, PSNC has been working with LPCs to
       ensure needs are met.
+
   - heading: The Healthcare Landscape
     cta: Read briefings.
     link: >-
