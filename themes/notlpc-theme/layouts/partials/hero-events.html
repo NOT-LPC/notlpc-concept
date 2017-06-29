@@ -1,0 +1,17 @@
+<header class="mt5-ns bg-primary-color-dark ph4 tc cover" role="banner"
+  style="background-image: url(../images/events-hero.jpg);">
+  <section class="w-100 w-60-l center ph4-l pt5 pb4 pb5-l">
+
+    {{ with .Site.Params.descriptionevents }}
+      <h2 class="f3 f1-l fw2 white-90 m0 lh-title pv3 pv0-ns">
+        {{ . }}
+      </h2>
+    {{ end }}
+    <div class="lh-copy f4 w-90-ns center fw2 white tc tc-ns">
+      {{ .Content }}
+    </div>
+    <div class="w4 mv4 center">
+      <a class="f5 db link grow tc v-mid bg-green white ba b--green ph3 pv2 br1" href="#content">Read more</a>
+    </div>
+  </section>
+</header>
