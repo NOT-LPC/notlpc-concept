@@ -1,14 +1,14 @@
 {{ $currentPage := . }}
-<nav class="fixed-ns top-0 z-999 bg-primary-color ph4 border-box pv4 w-100 flex justify-start items-center" role="navigation">
+<nav class="fixed-ns top-0 z-999 bg-nav-color ph4 border-box pv4 w-100 flex justify-start items-center" role="navigation">
   <h1 class="mv0 lh-solid f4 ml0-ns mr0 mr4-l">
-    <a href="{{ .Site.BaseURL }}" class="link white">
+    <a href="{{ .Site.BaseURL }}" class="link primary-color">
        North of Tyne
     </a>
   </h1>
   <ul class="list ma0 pa0 dn dib-l">
     {{ range .Site.Menus.global }}
       <li class="f5 dib mr4" role="menuitem">
-          <a href="{{ .URL }}" class="link dim{{ if $currentPage.IsMenuCurrent "global" . }} washed-blue {{else}} white {{ end }}">
+          <a href="{{ .URL }}" class="link dim{{ if $currentPage.IsMenuCurrent "global" . }}  primary-color {{else}} primary-color {{ end }}">
           {{ .Name }}
             {{/* using ".Post" from the menu system to determine if we should show an icon for external links */}}
           {{ $post_status := printf "%s" .Post }}

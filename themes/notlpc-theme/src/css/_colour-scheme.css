@@ -36,3 +36,5 @@
   text-decoration: none;
 
 }
+
+.bg-nav-color                   {background-color: var(--primary-color-light)}
