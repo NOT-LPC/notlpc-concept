@@ -33,7 +33,7 @@
     {{ $interior_classes := $.Site.Params.flex_box_interior_classes }}
     <section class="flex-ns flex-wrap justify-between w-100 w-80-nsTK v-top">
       {{ $paginator := .Paginate (where .Data.Pages "Type" "events")}}
-      {{ range $paginator.Pages }}
+      {{ range $paginator.Pages.ByDate }}
         {{ partial "boxes-section-summaries" (dict "context" . "classes" $interior_classes "fullcontent" false) }}
       {{ end }}
     </section>
