@@ -2,8 +2,8 @@
 date: 2017-08-21T19:00:01-00:00
 description: "Flu Training Session"
 title: "Flu Training"
-categories: ["training"]
-tags: ["flu"]
+categories: ["Training"]
+tags: ["Flu"]
 ---
 
 <b>Date:</b> Wednesday 21st August 2017
