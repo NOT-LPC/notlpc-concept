@@ -62,6 +62,6 @@ sections:
 published: true
 ---
 
-**_Building a healthy future through community pharmacy._**
+**_Building a healthy future through community pharmacy_**
 
 Representing  Supporting  Developing  Promoting Community Pharmacy
