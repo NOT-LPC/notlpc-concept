@@ -46,15 +46,16 @@ sections:
       As part of the of support services it offers, PSNC often sends out
       briefings to LPCs and pharmacy contractors.
       
-       - heading: Up coming events
-    cta: View the upcoming events for your area
+       - heading: Forthcoming Events
+    cta: View our events
     link: '/events/'
     color_classes: bg-primary-color white
     image: /images/homepage-example-1.jpg
     copy: >-
-      In response to the changing demands and increasing challenges LPCs are
-      facing in the reformed NHS environment, PSNC has been working with LPCs to
-      ensure needs are met.
+      To support pharmacy contractors, North of Tyne LPC runs
+      regular training events including our regular HLP Champions
+      meetings.  Pharmacy contractors are also welcome to observe
+      Committee meetings and attend our AGM.
       
 published: true
 ---
