@@ -1,7 +1,7 @@
 {{ define "main" }}
   {{ $currentPageUrl := .URL }}
 
-  <article class="cf ph4">
+  <article class="cf ph4 mt4 mt6-ns">
       <!-- header spans the full width -->
     <header class="flex-none w-100 pb3">
       {{ if .Params.categories }}
@@ -47,7 +47,7 @@
 
         {{ .Content }}
     <div class="mt5 f4 gray nested-lh-copy bg-light-gray ph3 pv2 measure-wide-l">
-      For your diary:
+      <span class="dn di-ns">Diary:</span>
       <time class="f4 mt2 ttu tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
           {{ partial "svg/calendar.svg" (dict "size" "15") }}
           {{ .Date.Format "Mon, January 2, 2006" }}
