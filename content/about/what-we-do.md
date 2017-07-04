@@ -14,7 +14,7 @@ menu:
 weight: 40
 sections_weight: 20
 draft: false
-aliases: []
+aliases: [/about/who-we-are/]
 toc: false
 ---
 
@@ -35,7 +35,3 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 ## Committee Meetings
 
 ## Market Entry
-
-
-
-

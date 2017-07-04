@@ -12,7 +12,7 @@ menu:
 weight: 01	#rem
 draft: false
 slug:
-aliases: []
+aliases: [/resources/]
 toc: false
 layout: resources-home
 ---

@@ -288,7 +288,7 @@
 		<path fill="#010101" d="M15.997,29.326c0,0.09-0.689,0.156-1.54,0.156c-0.849,0-1.536-0.066-1.536-0.156
 			c0-0.086,0.688-0.154,1.536-0.154C15.307,29.172,15.997,29.24,15.997,29.326z"/>
 	</g>
-	
+
 		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5.0513" y1="21.209" x2="20.5609" y2="9.0312" gradientTransform="matrix(1.0423 0 0 1.0317 0.954 -1.7689)">
 		<stop  offset="0" style="stop-color:#969696"/>
 		<stop  offset="0.0046" style="stop-color:#979897"/>
@@ -303,14 +303,14 @@
 		<stop  offset="1" style="stop-color:#C8C8C8"/>
 	</linearGradient>
 	<ellipse fill="url(#SVGID_1_)" cx="13.856" cy="14.178" rx="10.277" ry="10.172"/>
-	
+
 		<radialGradient id="SVGID_2_" cx="16.2808" cy="-518.3442" r="82.22" gradientTransform="matrix(0.1205 0 0 0.1196 12.2266 76.4428)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#E1E1E1"/>
 	</radialGradient>
 	<path fill="url(#SVGID_2_)" d="M23.37,13.987c0,5.11-4.174,9.255-9.323,9.255c-5.15,0-9.323-4.145-9.323-9.255
 		c0-5.104,4.173-9.249,9.323-9.249C19.196,4.738,23.37,8.883,23.37,13.987z"/>
-	
+
 		<radialGradient id="SVGID_3_" cx="-35.3135" cy="-562.2061" r="188.2038" gradientTransform="matrix(0.116 0 0 0.116 12.828 77.2681)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#0E9246"/>
 		<stop  offset="0.7397" style="stop-color:#37B551"/>
