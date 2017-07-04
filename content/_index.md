@@ -4,19 +4,19 @@ date: 2017-02-01
 features:
   - heading: Local Services
     image_path: /images/not-svg/local.svg
-    tagline: Specialist services in your area
+    tagline: Locally Commissioned Services
     copy: >-
-      North of Tyne LPC brings you local services and information for
+      Information, service agreements, PGDs, etc. for services across
       Northumberland, Newcastle and North Tyneside.
-  - heading: Community Pharmacy
+  - heading: Contractual Framework
     image_path: /images/not-svg/advanced.svg
-    tagline: Advanced Services line
+    tagline: Nationally Commissioned Services
     copy: >-
-      Excepteur magna qui proident sit fugiat esse ex incididunt minim magna
-      proident.
-  - heading: Training
+      Information on pharmacy funding, essential services, advanced services
+      market entry, quality payment scheme, NUMSAS, etc.
+  - heading: Training Resources
     image_path: /images/not-svg/documents.svg
-    tagline: 'Documents, Videos and IT training'
+    tagline: Documents, Videos and IT Training
     copy: >-
       Deserunt exercitation nisi in minim. Consequat in commodo veniam labore
       est sit cillum laboris laboris ad enim irure. Cillum labore laborum
