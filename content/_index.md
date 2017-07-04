@@ -35,18 +35,9 @@ features:
     copy: >-
       Eu consequat id deserunt est reprehenderit dolore cillum. Do sint in
       pariatur duis et eiusmod labore qui do nisi magna non eu nisi.
-sections:
-   - heading: The Healthcare Landscape
-    cta: Read briefings.
-    link: >-
-      http://psnc.org.uk/the-healthcare-landscape/psnc-briefings-the-healthcare-landscape/
-    color_classes: bg-primary-color-light black
-    image: /images/homepage-example-2.jpg
-    copy: >-
-      As part of the of support services it offers, PSNC often sends out
-      briefings to LPCs and pharmacy contractors.
-      
-       - heading: Forthcoming Events
+
+events:
+  - heading: Forthcoming Events
     cta: View our events
     link: '/events/'
     color_classes: bg-primary-color white
@@ -56,6 +47,19 @@ sections:
       regular training events including our regular HLP Champions
       meetings.  Pharmacy contractors are also welcome to observe
       Committee meetings and attend our AGM.
+
+sections:
+  - heading: The Healthcare Landscape
+    cta: Read briefings.
+    link: >-
+      http://psnc.org.uk/the-healthcare-landscape/psnc-briefings-the-healthcare-landscape/
+    color_classes: bg-primary-color-light black
+    image: /images/homepage-example-2.jpg
+    copy: >-
+      As part of the of support services it offers, PSNC often sends out
+      briefings to LPCs and pharmacy contractors.
+    
+
       
 published: true
 ---
