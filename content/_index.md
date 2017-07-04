@@ -1,6 +1,6 @@
 ---
 title: Your LPC
-date: 2017-02-01
+date: 2017-07-04
 features:
   - heading: Local Services
     image_path: /images/not-svg/local.svg
@@ -20,7 +20,7 @@ features:
     copy: >-
       Training and educational resources for locally commissioned services as well as 
       enhanced and essential services under the national contractual framework
-   - heading: Support
+  - heading: Support
     image_path: /images/not-svg/support.svg
     tagline: Guidance and Advice
     copy: >-
