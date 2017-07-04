@@ -1,5 +1,5 @@
 {{ $currentPage := . }}
-<nav class="fixed-ns top-0 z-999 bg-washed-green ph4 border-box pv2 pv1-ns w-100 flex justify-start items-center justify-center" role="navigation">
+<nav class="fixed-ns top-0 z-999 bg-black ph4 border-box pv2 pv1-ns w-100 flex justify-start items-center justify-center" role="navigation">
   <!-- <h1 class="mv0 lh-solid f4 ml0-ns mr0 mr4-l dn-ns tc">
     <a href="{{ .Site.BaseURL }}" class="link primary-color">
        North of Tyne LPC
@@ -13,7 +13,7 @@
   <ul class="ml4-l list ma0 pa0 dn dib-l">
     {{ range .Site.Menus.global }}
       <li class="f5 dib mr4" role="menuitem">
-          <a href="{{ .URL }}" class="link dim{{ if $currentPage.IsMenuCurrent "global" . }}  accent-color-dark {{else}} primary-color {{ end }}">
+          <a href="{{ .URL }}" class="link dim{{ if $currentPage.IsMenuCurrent "global" . }}  primary-color {{else}} primary-color {{ end }}">
           {{ .Name }}
             {{/* using ".Post" from the menu system to determine if we should show an icon for external links */}}
           {{ $post_status := printf "%s" .Post }}
