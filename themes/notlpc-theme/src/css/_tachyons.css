@@ -47,7 +47,7 @@
 @import 'tachyons/src/_display';
 @import 'tachyons/src/_flexbox';
 @import 'tachyons/src/_floats';
-/*@import 'tachyons/src/_font-family';*/
+@import 'tachyons/src/_font-family';
 @import 'tachyons/src/_font-style';
 @import 'tachyons/src/_font-weight';
 @import 'tachyons/src/_forms';
