@@ -44,23 +44,42 @@ events:
     image: /images/homepage-example-1.jpg
     copy: >-
       To support pharmacy contractors, North of Tyne LPC runs
-      regular training events including our regular HLP Champions
-      meetings.  Pharmacy contractors are also welcome to observe
-      Committee meetings and attend our AGM.
+      regular training events including our Healthy Living Champions training
+      and locality meetings.
+      Pharmacy contractors are also welcome to observe
+      Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: The Healthcare Landscape
-    cta: Read briefings.
+  - heading: Community Pharmacy Awards 2017
+    cta: Information Pack
     link: >-
-      http://psnc.org.uk/the-healthcare-landscape/psnc-briefings-the-healthcare-landscape/
+      https://gallery.mailchimp.com/310b8c606711c91df50f7527c/files/7920f7bd-e5d8-42c9-9dd7-3386537d5c62/LPC_Awards_Rev_17_06_A.pdf
     color_classes: bg-primary-color-light black
     image: /images/homepage-example-2.jpg
     copy: >-
-      As part of the of support services it offers, PSNC often sends out
-      briefings to LPCs and pharmacy contractors.
-    
+      Following last years successful event, North of Tyne Local Pharmaceutical Committee is delighted to announce, the second
+      North of Tyne Community Pharmacy Awards, to be held on Wednesday 6th September 2017 at the Marriott Hotel, Gosforth Park,
+      Newcastle. The event will commence at 18:30.  We are hoping for a big event, with many nominees to celebrate the evening. 
+      Following the Awards there will be a talk by Mike Maquire, Teesside pharmacist and LPN Chair on pharmacy developments
+      and surviving the funding cuts.
+      Our Awards event is to recognise the excellent contribution to patient care, public health and community involvement that
+      community pharmacies in the North of Tyne area provide.  We will be presenting awards across six categories giving
+      opportunity for everyone in the pharmacy team to be recognised.
 
+      [b]Categories[/b]
       
+      Pharmacy Team of the year
+      Community Pharmacist of the Year
+      Pharmacy Technician / A.C.T of the Year
+      Pharmacy Team Member of the Year
+      Healthy Living Pharmacy of the Year
+      Special Recognition (nominated by the public)
+      The deadline for submission is 30th July 2017.
+
+      All NHS community pharmacies in the North of Tyne LPC region are eligible to enter the awards.  If you would like to submit
+      a nomination please download the information pack.
+    
+   
 published: true
 ---
 
