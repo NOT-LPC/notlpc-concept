@@ -55,7 +55,7 @@ sections:
     link: >-
       https://gallery.mailchimp.com/310b8c606711c91df50f7527c/files/7920f7bd-e5d8-42c9-9dd7-3386537d5c62/LPC_Awards_Rev_17_06_A.pdf
     color_classes: bg-primary-color-light black
-    image: /images/homepage-example-2.jpg
+    image: https://gallery.mailchimp.com/310b8c606711c91df50f7527c/images/3b4a03e8-e47f-4b85-b196-13493dc3aa44.jpg
     copy: >-
       Following last years successful event, North of Tyne Local Pharmaceutical Committee is delighted to announce, the second
       North of Tyne Community Pharmacy Awards, to be held on Wednesday 6th September 2017 at the Marriott Hotel, Gosforth Park,
