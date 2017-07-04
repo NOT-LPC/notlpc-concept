@@ -16,25 +16,21 @@ features:
       market entry, quality payment scheme, NUMSAS, etc.
   - heading: Training Resources
     image_path: /images/not-svg/documents.svg
-    tagline: Documents, Videos and IT Training
+    tagline: Training Documents, Videos and Links
     copy: >-
-      Deserunt exercitation nisi in minim. Consequat in commodo veniam labore
-      est sit cillum laboris laboris ad enim irure. Cillum labore laborum
-      ullamco in id minim veniam reprehenderit sunt. Esse dolore nulla tempor
-      sint cillum.
-  - heading: Support
+      Training and educational resources for locally commissioned services as well as 
+      enhanced and essential services under the national contractual framework
+   - heading: Support
     image_path: /images/not-svg/support.svg
-    tagline: Enim voluptate laborum officia magna aliquip in magna.
+    tagline: Guidance and Advice
     copy: >-
-      Dolor amet veniam magna sit nisi voluptate velit. Sunt velit anim elit
-      cupidatat ipsum commodo id enim. Consectetur quis eiusmod reprehenderit
-      mollit. Ipsum id ad cupidatat nulla elit.
+      The LPC aims to support all pharmacies in the delivery of the Community Pharmacy contractual framework
+      and the effective implementation of services
   - heading: Events
     image_path: /images/not-svg/events.svg
-    tagline: Local meetings for your needs.
+    tagline: LPC Meetings and Local Events
     copy: >-
-      Eu consequat id deserunt est reprehenderit dolore cillum. Do sint in
-      pariatur duis et eiusmod labore qui do nisi magna non eu nisi.
+      Calendar of LPC meetings and training events as well as other local events of interest to community pharmacy
 
 events:
   - heading: Forthcoming Events
@@ -43,7 +39,7 @@ events:
     color_classes: bg-primary-color white
     image: /images/homepage-example-1.jpg
     copy: >-
-      To support pharmacy contractors, North of Tyne LPC runs
+      To support pharmacy contractors, the LPC runs
       regular training events including our Healthy Living Champions training
       and locality meetings.
       Pharmacy contractors are also welcome to observe
