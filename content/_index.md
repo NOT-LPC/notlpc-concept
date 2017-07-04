@@ -36,17 +36,7 @@ features:
       Eu consequat id deserunt est reprehenderit dolore cillum. Do sint in
       pariatur duis et eiusmod labore qui do nisi magna non eu nisi.
 sections:
-  - heading: Up coming events
-    cta: View the upcoming events for your area
-    link: '/events/'
-    color_classes: bg-primary-color white
-    image: /images/homepage-example-1.jpg
-    copy: >-
-      In response to the changing demands and increasing challenges LPCs are
-      facing in the reformed NHS environment, PSNC has been working with LPCs to
-      ensure needs are met.
-
-  - heading: The Healthcare Landscape
+   - heading: The Healthcare Landscape
     cta: Read briefings.
     link: >-
       http://psnc.org.uk/the-healthcare-landscape/psnc-briefings-the-healthcare-landscape/
@@ -55,6 +45,17 @@ sections:
     copy: >-
       As part of the of support services it offers, PSNC often sends out
       briefings to LPCs and pharmacy contractors.
+      
+       - heading: Up coming events
+    cta: View the upcoming events for your area
+    link: '/events/'
+    color_classes: bg-primary-color white
+    image: /images/homepage-example-1.jpg
+    copy: >-
+      In response to the changing demands and increasing challenges LPCs are
+      facing in the reformed NHS environment, PSNC has been working with LPCs to
+      ensure needs are met.
+      
 published: true
 ---
 
