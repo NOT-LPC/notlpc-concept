@@ -66,14 +66,15 @@ sections:
       community pharmacies in the North of Tyne area provide.  We will be presenting awards across six categories giving
       opportunity for everyone in the pharmacy team to be recognised.
 
-      [b]Categories[/b]
+      *Categories*
       
-      Pharmacy Team of the year
-      Community Pharmacist of the Year
-      Pharmacy Technician / A.C.T of the Year
-      Pharmacy Team Member of the Year
-      Healthy Living Pharmacy of the Year
-      Special Recognition (nominated by the public)
+      * Pharmacy Team of the year
+      * Community Pharmacist of the Year
+      * Pharmacy Technician / A.C.T of the Year
+      * Pharmacy Team Member of the Year
+      * Healthy Living Pharmacy of the Year
+      * Special Recognition (nominated by the public)
+      
       The deadline for submission is 30th July 2017.
 
       All NHS community pharmacies in the North of Tyne LPC region are eligible to enter the awards.  If you would like to submit
