@@ -50,7 +50,7 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: Community Pharmacy Awards 2017
+  - heading: Community Pharmacy Awards
     cta: Further information here
     link: >-
       https://gallery.mailchimp.com/310b8c606711c91df50f7527c/files/7920f7bd-e5d8-42c9-9dd7-3386537d5c62/LPC_Awards_Rev_17_06_A.pdf
