@@ -6,8 +6,8 @@ description: Pariatur cillum ex adipisicing do sint quis dolore id pariatur sit 
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ["support-videos"]
-tags: ["training", acme]
+categories: ["Videos", "Training"]
+tags: ["HLP"]
 menu:
   docs:
     parent: "training"
