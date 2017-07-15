@@ -11,20 +11,49 @@
       </div>
 
       <div class="w-third pv3 dn db-l">
-        <ul class="list ma0 pa0 w-90 center">
-          <!--<li><a href="{{ .Site.Params.gitter }}" class="link white dim pv2 db">Discuss the Source Code</a></li>-->
-          <li><a href="" class="link white dim pv2 db">Link One</a></li>
-          <li><a href="" class="link white dim pv2 db">Link Two</a></li>
-          <li><a href="" class="link white dim pv2 db">Link Three</a></li>
-
-        </ul>
+        <h3 class="white">Tags</h3>
+        <p>
+          {{ $tags := $.Site.Taxonomies.tags.ByCount }}
+          {{ $v1 := where $tags "Count" ">=" 2 }}
+          {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
+          {{ range $v2 }}
+            {{ if .Term }}
+              {{ $tagURL := printf "tags/%s" .Term | relURL }}
+              <a href="{{ $tagURL }}" class="link white dim grow pr2" style="text-transform: uppercase;" >{{ .Term }} <span class="badge">({{ .Count }})</span></a>
+            {{ end }}
+          {{ end }}
+        </p>
+        <h3 class="white">Links</h3>
+         <ul class="list ma0 pa0">
+          {{ $currentPage := . }}
+          {{ $menu := .Site.Menus.global }}
+          <ul class="list dib ph0 ma0">
+            {{ range $menu }}
+              <li  class="tl dib ma0 w-100">
+                  <a href="{{.URL}}" class="link white dim pv1 db {{if $currentPage.IsMenuCurrent "main" . }} bg-primary-color{{end}}">
+                    {{ .Name | upper }}
+                  </a>
+              </li>
+            {{end}}
+          </ul>
+         </ul>
       </div>
 
       <div class="w-third pv3 dn db-l">
+        <h3 class="white">Categories</h3>
         <ul class="list ma0 pa0">
-         <li><a href="" class="link white dim pv2 db">Link Four</a></li>
-          <li><a href="" class="link white dim pv2 db">Link Five</a></li>
-          <li><a href="" class="link white dim pv2 db">Link Six</a></li>
+           {{ $categories := $.Site.Taxonomies.categories.ByCount }}
+           {{ $v1 := where $categories "Count" ">=" 2 }}
+            {{ range $v1 }}
+            {{ if .Term }}
+              {{ $catURL := printf "categories/%s" .Term | relURL }}
+              <li>
+                <a href="{{ $catURL }}" class="link white dim pr2 pv1 db">{{ humanize .Term | upper }} <span class="badge">({{ .Count }})</span></a>
+              </li>
+            {{ end }}
+          {{ end }}
+
+
         </ul>
       </div>
     </div>
