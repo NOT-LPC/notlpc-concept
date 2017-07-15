@@ -80,7 +80,6 @@ twitter = "NOTLPC"
 ## Contact Email
 [params.contact]
   title = "Contact Us"
-[params.contact.email]
   email = "hello@summit360.co.uk"
 
 

@@ -9,7 +9,7 @@
   </div>
   <section class="">
 
-    <form  action="//formspree.io/{{ with .Site.Params.contact.email}}{{.}}{{ end }}" method="POST" id="contactForm" class="measure center">
+    <form  action="https://formspree.io/{{  .Site.Params.contact.email}}" method="POST" id="contactForm" class="measure center">
       <fieldset id="contact-us" class="ba b--transparent ph0 mh0">
 
         {{ with .Site.Params.contact.form.name }}
