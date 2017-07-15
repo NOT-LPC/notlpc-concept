@@ -1,9 +1,17 @@
 ---
-title: Contact Us
-linktitle: Contact
-description: Ea eiusmod excepteur irure esse velit. Cillum ad esse reprehenderit elit ipsum labore sunt cupidatat exercitation sit. Anim eiusmod esse in laborum culpa eu nulla sit cillum ullamco. In tempor labore tempor ex aliquip culpa labore occaecat exercitation adipisicing cillum ea.
+linktitle: ""
+description: ""
 date: 2017-02-01
+publishdate: 2017-02-01
+lastmod: 2017-02-01
+categories: []
+tags: []
+weight: 00
+slug: ""
+aliases: []
 layout: contact-us
 ---
 
-Quick Contact notes
+Additional contact notes here, file is at content/contact.md
+
+See config.toml for setting up the form.

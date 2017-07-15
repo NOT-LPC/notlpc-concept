@@ -58,6 +58,7 @@ twitter = "NOTLPC"
   ## Google Tag Manager
   gtmid = ""
 
+
   flex_box_interior_classes = "flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height"
 
   #sidebar_direction = "sidebar_left"
@@ -76,6 +77,32 @@ twitter = "NOTLPC"
   tag = "tags"
   category = "categories"
 
+## Contact Email
+[params.contact]
+  title = "Contact Us"
+[params.contact.email]
+  email = "hello@summit360.co.uk"
+
+
+# 'error' defines error messages for invalid inputs
+[params.contact.form.name]
+  text = "Name"
+  error = "Please enter your name."
+
+[params.contact.form.email]
+  text = "Email Address"
+  error = "Please enter your email address."
+
+[params.contact.form.phone]
+  text = "Phone Number"
+  error = "Please enter your phone number."
+
+[params.contact.form.message]
+  text = "Message"
+  error = "Please enter a message."
+
+[params.contact.form.button]
+  text = "Send"
 
 # High level items
 [[menu.docs]]

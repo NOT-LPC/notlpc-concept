@@ -1,77 +1,73 @@
 
 {{ define "main" }}
-lorem
-{{ end }}
-<!--<div class="row">
-      <div class="col-lg-12">
-        {{ if not .Site.Params.contact.postURL }}
-        <form  action="//formspree.io/{{ with (or .Site.Params.contact.email .Site.Params.email)}}{{.}}{{ end }}" method="POST" name="sentMessage" id="contactForm">
-        {{ else }}
-        <form  action="{{ .Site.Params.contact.postURL }}" method="POST" name="sentMessage" id="contactForm">
+  <div class="fl w-100 ph4 pt2-ns">
+    <h1 class="primary-color-dark">
+        {{ with .Site.Params.contact.title }}{{.}}{{ end }}
+      </h1>
+
+    {{ .Content }}
+  </div>
+  <section class="">
+
+    <form  action="//formspree.io/{{ with .Site.Params.contact.email}}{{.}}{{ end }}" method="POST" id="contactForm" class="measure center">
+      <fieldset id="contact-us" class="ba b--transparent ph0 mh0">
+
+        {{ with .Site.Params.contact.form.name }}
+          <div class="mt3">
+            <label class="db fw6 lh-copy f6" for="name">{{ with .text }}{{.}}{{end}}</label>
+
+            <input class="pa2 input-reset ba bg-transparant hover-bg-black hover-white w-100"
+              type="text" name="name" id="name" required="required"
+              placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
+              data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
+          </div>
+        {{end}}
+        {{ with .Site.Params.contact.form.email }}
+          <div class="mt3">
+            <label class="db fw6 lh-copy f6" for="email">{{ with .text }}{{.}}{{end}}</label>
+
+            <input class="pa2 input-reset ba bg-transparant hover-bg-black hover-white w-100"
+              type="email" name="email" id="email" required="required"
+              placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
+              data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
+          </div>
         {{ end }}
 
-          <fieldset>
-            <div class="row">
-              <div class="col-md-6">
+        {{ with .Site.Params.contact.form.phone }}
+          <div class="mt3">
+            <label class="db fw6 lh-copy f6" for="email">{{ with .text }}{{.}}{{end}}</label>
 
-                {{ with .Site.Params.contact.form.name }}
-                <div class="form-group">
-                  <input class="form-control" id="name" required="required" type="text" name="name" placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}" data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
-                  <p class="help-block text-danger"></p>
-                </div>
-                {{ end }}
+            <input class="pa2 input-reset ba bg-transparant hover-bg-black hover-white w-100"
+              type="number" name="phone" id="phone" required="required"
+              placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
+              data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
+          </div>
+        {{ end }}
 
-                {{ with .Site.Params.contact.form.email }}
-                <div class="form-group">
-                  <input class="form-control" id="email" required="required" type="email" name="email" placeholder="{{ with .text }}{{ . | markdownify }}{{ end }}" data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
-                  <p class="help-block text-danger"></p>
-                </div>
-                {{ end }}
+        <div>
+            <input type="hidden"  name="_subject" value="New submission!">
+            <input type="text" name="_gotcha" style="display:none" />
+        </div>
 
-                {{ with .Site.Params.contact.form.phone }}
-                <div class="form-group">
-                  <input class="form-control" id="phone" required="required" type="number" name="phone" placeholder="{{ with .text }}{{ . | markdownify }}{{ end }}" data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}"></textarea>
-                  <p class="help-block text-danger"></p>
-                </div>
-                {{ end }}
-              </div>
+        {{ with .Site.Params.contact.form.message }}
+          <div class="mt3">
+            <label class="db fw6 lh-copy f6" for="email">{{ with .text }}{{.}}{{end}}</label>
+            <textarea class="pa2 input-reset ba bg-transparant hover-bg-black hover-white w-100"
+              rows="5"
+              id="message" required="required" name="message"
+              placeholder="{{ with .text }}{{ . | markdownify }}{{ end }}"
+              data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}"></textarea>
 
-              <div class="col-md-6">
-              {{ with .Site.Params.contact.form.message }}
-                <div class="form-group">
-                  <textarea class="form-control" id="message" required="required" name="message" placeholder="{{ with .text }}{{ . | markdownify }}{{ end }}" data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}"></textarea>
-                  <p class="help-block text-danger"></p>
-                </div>
-                {{ end }}
+          </div>
+          {{ end }}
 
-              </div>
-              <div class="clearfix"></div>
-              <div class="col-lg-12 text-center">
-                <div class="text-success" id="success" style="display:none;">
-                  {{ with .Site.Params.contact.thanks }}
-                    {{ . | markdownify }}
-                  {{ else }}
-                    Thank you for contacting us.
-                  {{ end }}
-                </div>
-                <div class="text-danger" id="error" style="display:none;">
-                  {{ with .Site.Params.contact.error }}
-                    {{ . | markdownify }}
-                  {{ else }}
-                    Message could not be send. Please contact us at {{ (or .Site.Params.contact.email .Site.Params.email) }} instead.
-                  {{ end }}
-                </div><br />
-                <button type="submit" value="Submit" class="btn btn-xl">{{ with .Site.Params.contact.buttonText }}{{ . }}{{ end }}</button>
-              </div>
-            </div>
-            {{ range .Site.Params.contact.form.hidden }}
-              {{ if eq .name "site" }}
-                <input type="hidden" name="{{ .name }}" value="{{ $.Permalink }}"/>
-              {{ else if eq .name "page" }}
-                <input type="hidden" name="{{ .name }}" value="{{ $.URL }}"/>
-              {{ else }}
-                <input type="hidden" name="{{ .name }}" value="{{ .value }}"/>
-              {{ end }}
-            {{ end }}
-          </fieldset>
-        </form>-->
+      </fieldset>
+
+      <div class="">
+        <input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib"
+          type="submit"
+          value="{{ with .Site.Params.contact.form.button.text }}{{.}}{{ end }}">
+      </div>
+    </form>
+  </div>
+{{ end }}
