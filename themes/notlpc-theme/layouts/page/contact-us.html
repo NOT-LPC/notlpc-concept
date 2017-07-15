@@ -17,7 +17,7 @@
             <label class="db fw6 lh-copy f6" for="name">{{ with .text }}{{.}}{{end}}</label>
 
             <input class="pa2 input-reset ba bg-transparant hover-bg-black hover-white w-100"
-              type="text" name="name" id="name" required="required"
+              type="text" name="_replyto" id="name" required="required"
               placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
               data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
           </div>
