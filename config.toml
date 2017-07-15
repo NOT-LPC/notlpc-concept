@@ -131,6 +131,11 @@ twitter = "NOTLPC"
   weight = 30
   identifier = "about"
   url = "/about/"
+[[menu.global]]
+  name = "Contact"
+  weight = 40
+  identifier = "contact"
+  url = "/contact/"
 # Anything with a weight > 100 gets an external icon
 [[menu.global]]
   name = "PSNC"
