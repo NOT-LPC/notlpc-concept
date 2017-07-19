@@ -1,5 +1,5 @@
 ---
-title: Your LPC
+title: North of Tyne LPC
 date: 2017-07-04
 features:
   - heading: Local Services
