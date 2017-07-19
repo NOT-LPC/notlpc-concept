@@ -17,9 +17,9 @@ Spaceworks
 Benton Park Road
 Newcastle-Upon-Tyne
 NE7 7LX
-
-<b>Email</b>  lpc[at]northoftynelpc.com
-
+<br>
+<p><b>Email</b>  lpc[at]northoftynelpc.com</p>
+<br>
 <b>Chair:</b>  Keith Kendall
 <b>Chief Officer:</b>  Stephen Blackman
 <b>Head of Services & Support:</b>  Ann Gunning
