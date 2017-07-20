@@ -12,7 +12,7 @@ aliases: []
 layout: contact-us
 ---
 
-<h3>North of Tyne Local Pharmaceutical Committee</h3>
+<h3 class="f3 primary-color">North of Tyne Local Pharmaceutical Committee</h3>
 Spaceworks
 Benton Park Road
 Newcastle-Upon-Tyne
