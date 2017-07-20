@@ -107,37 +107,37 @@ facebook = "NoTLPC"
 # High level items
 [[menu.docs]]
   name = "Local Services"
-  weight = 15
+  weight = 10
   identifier = "local-services"
   post = ""
   url = "/local-services/"
 [[menu.docs]]
   name = "Essential Services"
-  weight = 15
+  weight = 20
   identifier = "essential-services"
   post = ""
   url = "/essential-services/"
 [[menu.docs]]
   name = "Advanced Services"
-  weight = 40
+  weight = 30
   identifier = "advanced-services"
   post = ""
   url = "/advanced-services/"
 [[menu.docs]]
   name = "Pharmacy Contract"
-  weight = 50
+  weight = 40
   identifier = "pharmacy-contract"
   post = "break"
   url = "/pharmacy-contract/"
 [[menu.docs]]
   name = "Other Resources"
-  weight = 15
+  weight = 50
   identifier = "other-resources"
   post = ""
   url = "/other-resources/"
 [[menu.docs]]
   name = "Training & Support"
-  weight = 90
+  weight = 60
   post = "break"
   identifier = "training"
   url = "/training/"
