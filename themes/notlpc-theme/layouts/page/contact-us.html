@@ -5,11 +5,13 @@
         {{ with .Site.Params.contact.title }}{{.}}{{ end }}
       </h1>
 
-    {{ .Content }}
   </div>
-  <section class="">
+  <section class="w-80 center">
+    {{ .Content }}
+  </section>
+  <section class="measure center">
 
-    <form  action="https://formspree.io/{{  .Site.Params.contact.email}}" method="POST" id="contactForm" class="measure center">
+    <form  action="https://formspree.io/{{  .Site.Params.contact.email}}" method="POST" id="contactForm">
       <fieldset id="contact-us" class="ba b--transparent ph0 mh0">
 
         {{ with .Site.Params.contact.form.name }}
