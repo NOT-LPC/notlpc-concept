@@ -10,7 +10,7 @@ categories: [services]
 tags: []
 menu:
   docs:
-    parent: "pharmacy-funding"
+    parent: "pharmacy-contract"
     weight: 10
 weight: 10
 sections_weight: 10
@@ -36,7 +36,3 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 ## Committee Meetings
 
 ## Market Entry
-
-
-
-

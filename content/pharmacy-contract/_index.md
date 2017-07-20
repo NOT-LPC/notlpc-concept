@@ -1,7 +1,7 @@
 ---
 title: Pharmacy Funding
 linktitle: Pharmacy Funding Overview
-description: North of TYne LPC, who, what, we are and working with us
+description: North of Tyne LPC, who, what, we are and working with us
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
@@ -9,11 +9,11 @@ categories: ["services"]
 tags: [fundamentals]
 menu:
   docs:
-    parent: "pharmacy-funding"
+    parent: "pharmacy-contract"
     weight: 1
 weight: 1
 draft: false
-aliases: [/pharmacy-funding/]
+aliases: [/pharmacy-contract/]
 toc: false
 ---
 

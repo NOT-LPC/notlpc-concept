@@ -10,7 +10,7 @@ categories: [services]
 tags: []
 menu:
   docs:
-    parent: "pharmacy-funding"
+    parent: "pharmacy-contract"
     weight: 20
 weight: 20
 sections_weight: 20
