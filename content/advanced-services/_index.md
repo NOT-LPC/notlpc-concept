@@ -5,8 +5,8 @@ description: North of TYne LPC, who, what, we are and working with us
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ["advanced-services"]
-tags: [fundamentals]
+categories: ['advanced-services']
+tags: ['fundamentals']
 menu:
   docs:
     parent: "advanced-services"
