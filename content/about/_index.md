@@ -1,14 +1,14 @@
 ---
 title: About North of Tyne LPC
-linktitle: Overview
-description: North of TYne LPC, who, what, we are and working with us
+linktitle: About Us
+description: North of Tyne LPC, who, what, we are and working with us
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: []
-tags: []
+categories: ['about']
+tags: ['about']
 menu:
-  docs:
+  about:
     parent: "about"
     weight: 1
 weight: 1
@@ -17,4 +17,4 @@ aliases: [/about/]
 toc: false
 ---
 
-North of Tyne LPC is ...
+North of Tyne LPC is ... *edit me in root/content/about/_index.md*

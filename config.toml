@@ -38,6 +38,7 @@ verboseLog = false
 # Setting this to false will keep hugo from watching for changes during local development
 watch = true
 
+# SectionPagesMenu = "docs"
 
 
 [social]
@@ -141,12 +142,12 @@ facebook = "NoTLPC"
   post = "break"
   identifier = "training"
   url = "/training/"
-[[menu.docs]]
-  name = "About Us"
-  weight = 100
-  post= "spacer"
-  identifier = "about"
-  url = "/about/"
+# [[menu.docs]]
+#   name = "About Us"
+#   weight = 100
+#   post= "spacer"
+#   identifier = "about"
+#   url = "/about/"
 
 ######## GLOBAL ITEMS TO BE SHARED WITH THE HUGO siteaddress
 

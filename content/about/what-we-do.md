@@ -6,9 +6,10 @@ description: Incididunt amet laboris aliqua incididunt id laborum do. Lorem ad n
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
+categories:['about']
 tags: ["about"]
 menu:
-  docs:
+  about:
     parent: "about"
     weight: 40
 weight: 40

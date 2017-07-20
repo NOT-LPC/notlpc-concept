@@ -6,9 +6,10 @@ description: North of Tyne Local Pharmaceutical Committee (LPC) is the statutory
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-tags: [about, fundamentals]
+categories: ['about']
+tags: [about]
 menu:
-  docs:
+  about:
     parent: "about"
     weight: 30
 weight: 30
