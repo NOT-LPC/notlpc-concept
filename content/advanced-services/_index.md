@@ -1,7 +1,7 @@
 ---
 title: Advanced Services
 linktitle: Advanced Services Overview
-description: North of TYne LPC, who, what, we are and working with us
+description: Community Pharmacy Advanced Services
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
