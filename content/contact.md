@@ -51,3 +51,49 @@ layout: contact-us
     <td class="tg-031e">07832 967622</td>
   </tr>
 </table>
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #59ff00;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #00912e;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Position</th>
+    <th>Email</th>
+    <th>Phone</th>
+  </tr>
+  <tr>
+    <td>Keith Kendall</td>
+    <td>Chair</td>
+    <td><a href="mailto:keith.kendall@northoftynelpc.com">keith.kendall@northoftynelpc.com</a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Stephen Blackman</td>
+    <td>Chief Officer</td>
+    <td><a href="mailto:stephen.blackman@northoftynelpc.com">stephen.blackman@northoftynelpc.com</a></td>
+    <td>07976 132006</td>
+  </tr>
+  <tr>
+    <td>Ann Gunning</td>
+    <td>Head of Services &amp; Support</td>
+    <td><a href="mailto:ann.gunning@northoftynelpc.com">ann.gunning@northoftynelpc.com</a></td>
+    <td>07832 967622</td>
+  </tr>
+</table>
