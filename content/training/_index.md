@@ -1,12 +1,12 @@
 ---
 title: Training & Support
 linktitle: Training Overview
-description: North of TYne LPC, who, what, we are and working with us
+description: Training and Support for Community Pharmacy
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ["training"]
-tags: [fundamentals]
+categories: ['Training', 'Support']
+tags: ['Resources']
 menu:
   docs:
     parent: "training"
