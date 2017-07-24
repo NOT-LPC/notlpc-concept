@@ -1,12 +1,12 @@
 ---
-title: Pharmacy Contracts & Services
-linktitle: Services Overview
-description: North of TYne LPC, who, what, we are and working with us
+title: Local Pharmacy Contracts & Services
+linktitle: Local Services Overview
+description: Local Pharmacy Contracts & Services
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ["local-services"]
-tags: [fundamentals]
+categories: ['Local-Services', 'TPF', 'EHC', 'Stop-Smoking']
+tags: ['Resources']
 menu:
   docs:
     parent: "local-services"
