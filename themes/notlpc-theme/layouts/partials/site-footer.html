@@ -1,28 +1,28 @@
 <footer class="fixed relative-l bg-primary-color-dark bottom-0 w-100 pa3 pa4-l" role="contentinfo">
   <div class="dn db-l flex-ns flex-wrap w-80 center mw9 justify-between">
     <div class="w-third pv3 dn db-l">
-          <div class="w4 center">
+          <div class="w-70 tc center">
              {{ partialCached "svg/notlpc-logo-footer.svg" (dict "width" "100" "height" "100") }}
           </div>
 
 
           {{ with .Site.Params.social }}
-          <p class="f2 silver tc">
-            {{ if .twitter }}
-              <a href="https://twitter.com/{{.twitter}}" class="link white">
-                <i class="fa fa-twitter"></i>
-              </a>
-            {{ end }}
+          <div class="f2 silver tc center w-70">
             {{ if .facebook }}
               <a href="https://facebook.com/{{.facebook}}" class="link white">
                 <i class="fa fa-facebook"></i>
               </a>
             {{ end }}
+            {{ if .twitter }}
+            <a href="https://twitter.com/{{.twitter}}" class="link white">
+              <i class="fa fa-twitter"></i>
+            </a>
+            {{ end }}
 
-          </p>
+          </div>
           {{ end }}
           <p class="f6 silver tc w-70 center">{{ .Site.Params.descriptionfooter }}</p>
-         <div class="mb3 silver tc nested-links">
+         <div class="mb3 silver tc nested-links f6">
            By <a href="https://www.summit360.co.uk" class="link">Summit 360</a>
          </div>
       </div>
