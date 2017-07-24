@@ -19,11 +19,11 @@ layout: contact-us
 <br>
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-cxkv{background-color:#f9f9f9}
-.tg .tg-whdx{font-weight:bold;background-color:#00912e}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#59FF00;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#59FF00;background-color:#E0FFEB;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#59FF00;color:#493F3F;background-color:#9DE0AD;}
+.tg .tg-qz94{background-color:#f9f9f9}
+.tg .tg-whdx{font-weight:bold;background-color:#00912E}
 </style>
 <table class="tg">
   <tr>
@@ -33,22 +33,22 @@ layout: contact-us
     <th class="tg-whdx">Mobile</th>
   </tr>
   <tr>
-    <td class="tg-cxkv">Keith Kendall</td>
-    <td class="tg-cxkv">Chair</td>
-    <td class="tg-cxkv"> <a href="mailto:keith.kendall@northoftynelpc.com">keith.kendall@northoftynelpc.com</a> </td>
-    <td class="tg-cxkv"></td>
+    <td class="tg-qz94">Keith Kendall</td>
+    <td class="tg-qz94">Chair</td>
+    <td class="tg-qz94">&lt;a href="mailto:keith.kendall@northoftynelpc.com"&gt;keith.kendall@northoftynelpc.com&lt;/a&gt;</td>
+    <td class="tg-qz94"></td>
   </tr>
   <tr>
-    <td class="tg-031e">Stephen Blackman</td>
-    <td class="tg-031e">Chief Officer</td>
-    <td class="tg-031e"> <a href="mailto:stephen.blackman@northoftynelpc.com">stephen.blackman@northoftynelpc.com</a> </td>
-    <td class="tg-031e">07976 132006</td>
+    <td class="tg-qz94">Stephen Blackman</td>
+    <td class="tg-qz94">Chief Officer</td>
+    <td class="tg-qz94">&lt;a href="mailto:stephen.blackman@northoftynelpc.com"&gt;stephen.blackman@northoftynelpc.com&lt;/a&gt;</td>
+    <td class="tg-qz94">07976 132006</td>
   </tr>
   <tr>
-    <td class="tg-031e">Ann Gunning</td>
-    <td class="tg-031e">Head of Services &amp; Support</td>
-    <td class="tg-031e"> <a href="mailto:ann.gunning@northoftynelpc.com">ann.gunning@northoftynelpc.com</a> </td>
-    <td class="tg-031e">07832 967622</td>
+    <td class="tg-qz94">Ann Gunning</td>
+    <td class="tg-qz94">Head of Services &amp; Support</td>
+    <td class="tg-qz94">&lt;a href="mailto:ann.gunning@northoftynelpc.com"&gt;ann.gunning@northoftynelpc.com&lt;/a&gt;</td>
+    <td class="tg-qz94">07832 967622</td>
   </tr>
 </table>
 
