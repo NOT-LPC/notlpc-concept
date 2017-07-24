@@ -1,12 +1,12 @@
 ---
-title: Pharmacy Funding
-linktitle: Pharmacy Funding Overview
-description: North of Tyne LPC, who, what, we are and working with us
+title: Pharmacy Contractual Framwork & IT
+linktitle: Pharmacy Contract Overview
+description: Community Pharmacy Contractual Framework
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ["services"]
-tags: [fundamentals]
+categories: ['Contractual-Framework', 'IT']
+tags: ['Resources']
 menu:
   docs:
     parent: "pharmacy-contract"
