@@ -122,10 +122,10 @@ facebook = "NoTLPC"
   name = "Advanced Services"
   weight = 30
   identifier = "advanced-services"
-  post = ""
+  post = "break"
   url = "/advanced-services/"
 [[menu.docs]]
-  name = "Pharmacy Contract"
+  name = "Pharmacy Contract & IT"
   weight = 40
   identifier = "pharmacy-contract"
   post = "break"
