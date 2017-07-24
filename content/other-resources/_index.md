@@ -6,7 +6,7 @@ date: 2017-07-24
 publishdate: 2017-07-24
 lastmod: 2017-07-24
 categories: ['Training']
-tags: ['fundamentals']
+tags: ['Resources']
 menu:
   docs:
     parent: "other-resources"
