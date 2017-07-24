@@ -20,8 +20,8 @@ layout: contact-us
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#59FF00;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#59FF00;background-color:#E0FFEB;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#59FF00;color:#493F3F;background-color:#9DE0AD;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#59FF00;color:#493F3F;background-color:#f9f9f9;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#59FF00;color:#493F3F;background-color:#f9f9f9;}
 .tg .tg-qz94{background-color:#f9f9f9}
 .tg .tg-whdx{font-weight:bold;background-color:#00912E}
 </style>
@@ -35,43 +35,30 @@ layout: contact-us
   <tr>
     <td class="tg-qz94">Keith Kendall</td>
     <td class="tg-qz94">Chair</td>
-    <td class="tg-qz94">&lt;a href="mailto:keith.kendall@northoftynelpc.com"&gt;keith.kendall@northoftynelpc.com&lt;/a&gt;</td>
+    <td class="tg-qz94"><a href="mailto:keith.kendall@northoftynelpc.com">keith.kendall@northoftynelpc.com</a></td>
     <td class="tg-qz94"></td>
   </tr>
   <tr>
     <td class="tg-qz94">Stephen Blackman</td>
     <td class="tg-qz94">Chief Officer</td>
-    <td class="tg-qz94">&lt;a href="mailto:stephen.blackman@northoftynelpc.com"&gt;stephen.blackman@northoftynelpc.com&lt;/a&gt;</td>
+    <td class="tg-qz94"><a href="mailto:stephen.blackman@northoftynelpc.com">stephen.blackman@northoftynelpc.com</a></td>
     <td class="tg-qz94">07976 132006</td>
   </tr>
   <tr>
     <td class="tg-qz94">Ann Gunning</td>
     <td class="tg-qz94">Head of Services &amp; Support</td>
-    <td class="tg-qz94">&lt;a href="mailto:ann.gunning@northoftynelpc.com"&gt;ann.gunning@northoftynelpc.com&lt;/a&gt;</td>
+    <td class="tg-qz94"><a href="mailto:ann.gunning@northoftynelpc.com">ann.gunning@northoftynelpc.com</a></td>
     <td class="tg-qz94">07832 967622</td>
   </tr>
 </table>
 
 <style type="text/css">
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
+table {font-family: arial, sans-serif;border-collapse: collapse;width: 100%;}
 
-td, th {
-    border: 1px solid #59ff00;
-    text-align: left;
-    padding: 8px;
-}
+td, th {border: 1px solid #59ff00;text-align: left;padding: 8px;}
 
-tr:nth-child(odd) {
-    background-color: #00912e;
-}
+tr:nth-child(odd) {background-color: #00912e;}
 </style>
-</head>
-<body>
-
 <table>
   <tr>
     <th>Name</th>
