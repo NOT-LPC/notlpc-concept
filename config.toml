@@ -131,17 +131,17 @@ facebook = "NoTLPC"
   post = "break"
   url = "/pharmacy-contract/"
 [[menu.docs]]
-  name = "Other Resources"
-  weight = 50
-  identifier = "other-resources"
-  post = ""
-  url = "/other-resources/"
-[[menu.docs]]
   name = "Training & Support"
-  weight = 60
+  weight = 50
   post = "break"
   identifier = "training"
   url = "/training/"
+[[menu.docs]]
+  name = "Other Resources"
+  weight = 60
+  identifier = "other-resources"
+  post = ""
+  url = "/other-resources/"
 # [[menu.docs]]
 #   name = "About Us"
 #   weight = 100
