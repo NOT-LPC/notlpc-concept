@@ -1,5 +1,5 @@
 ---
-title: Pharmacy Contractual Framwork & IT
+title: Pharmacy Contractual Framework & IT
 linktitle: Pharmacy Contract Overview
 description: Community Pharmacy Contractual Framework
 date: 2017-02-01
