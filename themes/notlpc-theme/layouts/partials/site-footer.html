@@ -4,7 +4,24 @@
           <div class="w4 center">
              {{ partialCached "svg/notlpc-logo-footer.svg" (dict "width" "100" "height" "100") }}
           </div>
-          <p class="f6 silver tc w-70 center">North of Tyne Local Pharmaceutical Committee (LPC) is the statutory organisation which represents all community pharmacies in Northumberland, Newcastle and North Tyneside.</p>
+
+
+          {{ with .Site.Params.social }}
+          <p class="f2 silver tc">
+            {{ if .twitter }}
+              <a href="https://twitter.com/{{.twitter}}" class="link white">
+                <i class="fa fa-twitter"></i>
+              </a>
+            {{ end }}
+            {{ if .facebook }}
+              <a href="https://facebook.com/{{.facebook}}" class="link white">
+                <i class="fa fa-facebook"></i>
+              </a>
+            {{ end }}
+
+          </p>
+          {{ end }}
+          <p class="f6 silver tc w-70 center">{{ .Site.Params.descriptionfooter }}</p>
          <div class="mb3 silver tc nested-links">
            By <a href="https://www.summit360.co.uk" class="link">Summit 360</a>
          </div>
