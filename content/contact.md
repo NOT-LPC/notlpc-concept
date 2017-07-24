@@ -13,8 +13,7 @@ layout: contact-us
 ---
 
 <h3 class="f3 primary-color">North of Tyne Local Pharmaceutical Committee</h3>
-<p>Spaceworks, Benton Park Road</p>
-<p>Newcastle-Upon-Tyne, NE7 7LX</p>
+<p>Spaceworks, Benton Park Road, Newcastle-Upon-Tyne, NE7 7LX</p>
 <br>
 <p><b>Email:</b> <a href="mailto:lpc@northoftynelpc.com">lpc@.northoftynelpc.com</a> </p>
 <br>
@@ -23,7 +22,7 @@ layout: contact-us
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-cxkv{background-color:#ffffff}
+.tg .tg-cxkv{background-color:#f9f9f9}
 .tg .tg-whdx{font-weight:bold;background-color:#00912e}
 </style>
 <table class="tg">
