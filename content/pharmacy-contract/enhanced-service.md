@@ -25,6 +25,14 @@ Deserunt voluptate tempor deserunt id esse mollit mollit excepteur enim non. Lab
 
 Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 
+<div class="D(tb) W(100%) Ta(c)">
+  <div class="D(tbc) Va(m) P(<20px) Bgc(#00912e)">Name</div>
+  <div class="D(tbc) Va(m) P(20px) Bgc(#00912e.8)">Position</div>
+  <div class="D(tbc) Va(m) P(20px) Bgc(#00912e.6)">Email</div>
+  <div class="D(tbc) Va(m) P(20px) Bgc(#00912e.4)">Mobile</div>
+  <div class="D(tbc) Va(m) P(20px) Bgc(#00912e)">Box Number 5</div>
+</div>
+
 
 ## Strategy
 
