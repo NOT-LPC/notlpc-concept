@@ -13,7 +13,7 @@
    inkscape:version="0.92.1 r15371"
    width="{{.width}}"
    height="{{.height}}"
-   viewBox="0 0 {{.height}} {{.width}}"
+   viewBox="0 0 {{.width}} {{.height}}"
    sodipodi:docname="notlpc-logo-footer.svg"
    inkscape:export-filename="C:\Users\sabla\Dropbox\LPC Private\Document Templates\Graphics\LPC Title Logo.png"
    inkscape:export-xdpi="300.01077"
