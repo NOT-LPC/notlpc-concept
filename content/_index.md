@@ -28,7 +28,6 @@ features:
       and the effective implementation of services
   - heading: Events
     image_path: /images/not-svg/events.svg
-    link: '/events/'
     tagline: LPC Meetings and Local Events
     copy: >-
       Calendar of LPC meetings and training events as well as other local events of interest to community pharmacy
