@@ -16,7 +16,7 @@ weight: 10
 sections_weight: 10
 draft: false
 aliases: []
-toc: false
+toc: true
 ---
 
 Labore excepteur tempor eu do adipisicing consequat esse cupidatat amet eiusmod nisi exercitation nulla ad. Officia esse ipsum minim non ea ipsum et et. Fugiat sit magna elit anim magna dolor id mollit.
@@ -26,16 +26,16 @@ Deserunt voluptate tempor deserunt id esse mollit mollit excepteur enim non. Lab
 Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 
 
-## Strategy ##
+## Strategy
 
-## Constitution ##
+## Constitution
 
 
-## Annual Reports ##
+## Annual Reports
 
-## Committee Meetings ##
+## Committee Meetings
 
-## Market Entry ##
+## Market Entry
 
 
 
