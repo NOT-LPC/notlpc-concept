@@ -16,7 +16,7 @@ layout: contact-us
 <p>Spaceworks, Benton Park Road</p>
 <p>Newcastle-Upon-Tyne, NE7 7LX</p>
 <br>
-<p><b>Email</b>  <a href="mailto:lpc@northoftynelpc.com"></p>
+<p><b>Email:</b> <a href="mailto:lpc@northoftynelpc.com">lpc@.northoftynelpc.com</a> </p>
 <br>
 
 <style type="text/css">
@@ -36,19 +36,19 @@ layout: contact-us
   <tr>
     <td class="tg-cxkv">Keith Kendall</td>
     <td class="tg-cxkv">Chair</td>
-    <td class="tg-cxkv">&lt;a href=mailto:keith.kendall@northoftynelpc.com"&gt;</td>
+    <td class="tg-cxkv"> <a href="mailto:keith.kendall@northoftynelpc.com">keith.kendall@northoftynelpc.com</a> </td>
     <td class="tg-cxkv"></td>
   </tr>
   <tr>
     <td class="tg-031e">Stephen Blackman</td>
     <td class="tg-031e">Chief Officer</td>
-    <td class="tg-031e">&lt;a href="mailto:stephen.blackman@northoftynelpc.com"&gt;</td>
+    <td class="tg-031e"> <a href="mailto:stephen.blackman@northoftynelpc.com">stephen.blackman@northoftynelpc.com</a> </td>
     <td class="tg-031e">07976 132006</td>
   </tr>
   <tr>
     <td class="tg-031e">Ann Gunning</td>
     <td class="tg-031e">Head of Services &amp; Support</td>
-    <td class="tg-031e">&lt;a href="mailto:ann.gunning@northoftynelpc.com"&gt;</td>
+    <td class="tg-031e"> <a href="mailto:ann.gunning@northoftynelpc.com">ann.gunning@northoftynelpc.com</a> </td>
     <td class="tg-031e">07832 967622</td>
   </tr>
 </table>
