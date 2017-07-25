@@ -15,7 +15,7 @@ layout: contact-us
 <h3 class="f3 primary-color">North of Tyne Local Pharmaceutical Committee</h3>
 <p>Spaceworks, Benton Park Road, Newcastle-Upon-Tyne, NE7 7LX</p>
 <br>
-<p><b>Email:</b> <a href="mailto:lpc@northoftynelpc.com">lpc@.northoftynelpc.com</a> </p>
+<p><b>Email:</b> <a href="mailto:lpc@northoftynelpc.com">lpc@northoftynelpc.com</a> </p>
 <br>
 
 <style type="text/css">
