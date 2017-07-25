@@ -42,46 +42,35 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
       <thead>
         <tr class="stripe-dark">
           <th class="fw6 tl pa3 bg-white">Name</th>
-          <th class="fw6 tl pa3 bg-white">Affiliation</th>
+          <th class="fw6 tl pa3 bg-white">Position</th>
           <th class="fw6 tl pa3 bg-white">Email</th>
-          <th class="fw6 tl pa3 bg-white">Phone</th>
+          <th class="fw6 tl pa3 bg-white">Mobile</th>
         </tr>
       </thead>
       <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">Hassan Johnson</td>
-          <td class="pa3">@hassan</td>
-          <td class="pa3">hassan@companywithalongdomain.co</td>
-          <td class="pa3">14419232532474</td>
+          <td class="pa3">Keith Kendall</td>
+          <td class="pa3">Chair</td>
+          <td class="pa3"><a href="mailto:keith.kendall@northoftynelpc.com">keith.kendall@northoftynelpc.com</a></td>
+          <td class="pa3"> </td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Taral Hicks</td>
-          <td class="pa3">@hicks</td>
-          <td class="pa3">taral@companywithalongdomain.co</td>
-          <td class="pa3">72326219423551</td>
+          <td class="pa3">Stephen Blackman</td>
+          <td class="pa3">Chief Officer</td>
+          <td class="pa3"><a href="mailto:stephen.blackman@northoftynelpc.com">stephen.blackman@northoftynelpc.com</a></td>
+          <td class="pa3">07976 132006</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Tyrin Turner</td>
-          <td class="pa3">@tt</td>
-          <td class="pa3">ty@companywithalongdomain.co</td>
-          <td class="pa3">92325170324444</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Oliver Grant</td>
-          <td class="pa3">@oli</td>
-          <td class="pa3">oliverg@companywithalongdomain.co</td>
-          <td class="pa3">71165170352909</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Dean Blanc</td>
-          <td class="pa3">@deanblanc</td>
-          <td class="pa3">dean@companywithalongdomain.co</td>
-          <td class="pa3">71865178111909</td>
+          <td class="pa3">Ann Gunning</td>
+          <td class="pa3">Head of services & Support</td>
+          <td class="pa3"><a href="mailto:ann.gunning@northoftynelpc.com">ann.gunning@northoftynelpc.com</a></td>
+          <td class="pa3">07832 967622</td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
+
 * Francis
 * Shelly
 * Frank
