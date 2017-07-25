@@ -36,7 +36,7 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 
 ## LPC Officers & Staff
 
-<div class="pa4">
+
   <div class="overflow-auto">
     <table class="f6 w-100 mw8 center" cellspacing="0">
       <thead>
@@ -69,7 +69,6 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
       </tbody>
     </table>
   </div>
-</div>
 
 * Francis
 * Shelly
