@@ -23,7 +23,7 @@ layout: contact-us
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#59FF00;color:#493F3F;background-color:#f9f9f9;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#59FF00;color:#493F3F;background-color:#f9f9f9;}
 .tg .tg-qz94{background-color:#f9f9f9}
-.tg .tg-whdx{font-weight:bold;background-color:#00912E}
+.tg .tg-whdx{text-align: left;font-weight:bold;background-color:#00912E}
 </style>
 <table class="tg">
   <tr>
@@ -49,39 +49,5 @@ layout: contact-us
     <td class="tg-qz94">Head of Services &amp; Support</td>
     <td class="tg-qz94"><a href="mailto:ann.gunning@northoftynelpc.com">ann.gunning@northoftynelpc.com</a></td>
     <td class="tg-qz94">07832 967622</td>
-  </tr>
-</table>
-
-<style type="text/css">
-table {font-family: arial, sans-serif;border-collapse: collapse;width: 100%;}
-
-td, th {border: 1px solid #59ff00;text-align: left;padding: 8px;}
-
-tr:nth-child(odd) {background-color: #00912e;}
-</style>
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Position</th>
-    <th>Email</th>
-    <th>Phone</th>
-  </tr>
-  <tr>
-    <td>Keith Kendall</td>
-    <td>Chair</td>
-    <td><a href="mailto:keith.kendall@northoftynelpc.com">keith.kendall@northoftynelpc.com</a></td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Stephen Blackman</td>
-    <td>Chief Officer</td>
-    <td><a href="mailto:stephen.blackman@northoftynelpc.com">stephen.blackman@northoftynelpc.com</a></td>
-    <td>07976 132006</td>
-  </tr>
-  <tr>
-    <td>Ann Gunning</td>
-    <td>Head of Services &amp; Support</td>
-    <td><a href="mailto:ann.gunning@northoftynelpc.com">ann.gunning@northoftynelpc.com</a></td>
-    <td>07832 967622</td>
   </tr>
 </table>
