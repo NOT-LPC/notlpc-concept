@@ -33,16 +33,17 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
   <div class="tc">
     <h1 class="f4">Commissioner</h1>
     <hr class="mw3 bb bw1 b--black-10">
+  
+    <p class="f5 black-70">PSNE Limited</p>
+    <p>
+      <i class="fa fa-envelope-o"></i>
+      <a href="mailto:stephen.blackman@nhs.net" class="link">  Stephen Blackman</a>
+    </p>
+    <p>
+      <i class="fa fa-phone"></i>
+      <a href="tel:07976132006" class="link">  07976132006</a>
+    </p>
   </div>
-  <p class="tc f5 black-70">PSNE Limited</p>
-  <div class="tc"><p>
-    <i class="fa fa-envelope-o"></i>
-    <a href="mailto:stephen.blackman@nhs.net" class="link">  Stephen Blackman</a>
-  </p>
-  <p>
-    <i class="fa fa-phone"></i>
-    <a href="tel:07976132006" class="link">  07976132006</a>
-  </div></p>
 </article>
 
 ## More info
