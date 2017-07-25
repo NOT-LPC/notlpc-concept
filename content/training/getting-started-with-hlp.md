@@ -27,6 +27,8 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 
 ## Video embed example
 
+{{< youtube zCDbd8XubcU >}}
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/zCDbd8XubcU/0.jpg)](http://www.youtube.com/watch?v=zCDbd8XubcU "Video Title")
 
 ## More info
