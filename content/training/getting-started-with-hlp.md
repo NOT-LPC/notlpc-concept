@@ -31,14 +31,15 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 
 <article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
   <div class="tc">
-    <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
-    <h1 class="f4">Mimi Whitehouse</h1>
+    <h1 class="f4">Commissioner</h1>
     <hr class="mw3 bb bw1 b--black-10">
   </div>
-  <p class="tc f6 black-70">
-    Quite affectionate and outgoing.
-    She loves to get chin scratches and will
-    roll around on the floor waiting for you give her more of them.
+  <p class="tc f5 black-70">PSNE Limited</p>
+  <p>
+    <i class="fa fa-envelope-o"></i>
+    <a href="mailto:stephen.blackman@nhs.net" class="link">  Stephen Blackman</a>
+  </p>
+  <p>
     <i class="tc fa fa-phone"></i>
     <a href="tel:07976132006" class="link">  07976132006</a>
   </p>
