@@ -1,75 +1,77 @@
 
 {{ define "main" }}
-  <div class="fl w-100 ph4 pt2-ns">
+  <div class="fl w-100 w-60-l ph4 pt2-ns">
     <h1 class="primary-color-dark">
-        {{ with .Site.Params.contact.title }}{{.}}{{ end }}
-      </h1>
+      {{ with .Site.Params.contact.title }}{{.}}{{ end }}
+    </h1>
 
+    <section class="">
+      {{ .Content }}
+    </section>
   </div>
-  <section class="w-80 center">
-    {{ .Content }}
-  </section>
-  <section class="measure center">
+  <div class="fl w-100 w-40-l ph2 ph4-m pt2-ns mb6 mb2-l">
+    <section class="measure center">
+      <h3>Make an enquiry</h3>
+      <form  action="https://formspree.io/{{  .Site.Params.contact.email}}" method="POST" id="contactForm">
+        <fieldset id="contact-us" class="ba b--transparent ph0 mh0">
 
-    <form  action="https://formspree.io/{{  .Site.Params.contact.email}}" method="POST" id="contactForm">
-      <fieldset id="contact-us" class="ba b--transparent ph0 mh0">
-
-        {{ with .Site.Params.contact.form.name }}
+          {{ with .Site.Params.contact.form.name }}
           <div class="mt3">
             <label class="db fw6 lh-copy f6" for="name">{{ with .text }}{{.}}{{end}}</label>
 
             <input class="pa2 input-reset ba bg-transparant hover-bg-black hover-white w-100"
-              type="text" name="name" id="name" required="required"
-              placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
-              data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
+            type="text" name="name" id="name" required="required"
+            placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
+            data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
           </div>
-        {{end}}
-        {{ with .Site.Params.contact.form.email }}
+          {{end}}
+          {{ with .Site.Params.contact.form.email }}
           <div class="mt3">
             <label class="db fw6 lh-copy f6" for="email">{{ with .text }}{{.}}{{end}}</label>
 
             <input class="pa2 input-reset ba bg-transparant hover-bg-black hover-white w-100"
-              type="email" name="_replyto" id="email" required="required"
-              placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
-              data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
+            type="email" name="_replyto" id="email" required="required"
+            placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
+            data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
           </div>
-        {{ end }}
+          {{ end }}
 
-        {{ with .Site.Params.contact.form.phone }}
+          {{ with .Site.Params.contact.form.phone }}
           <div class="mt3">
             <label class="db fw6 lh-copy f6" for="email">{{ with .text }}{{.}}{{end}}</label>
 
             <input class="pa2 input-reset ba bg-transparant hover-bg-black hover-white w-100"
-              type="number" name="phone" id="phone" required="required"
-              placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
-              data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
+            type="number" name="phone" id="phone" required="required"
+            placeholder="{{ with .text }}{{ .  | markdownify }}{{ end }}"
+            data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
           </div>
-        {{ end }}
+          {{ end }}
 
-        <div>
+          <div>
             <input type="hidden"  name="_subject" value="New submission!">
             <input type="text" name="_gotcha" style="display:none" />
-        </div>
+          </div>
 
-        {{ with .Site.Params.contact.form.message }}
+          {{ with .Site.Params.contact.form.message }}
           <div class="mt3">
             <label class="db fw6 lh-copy f6" for="email">{{ with .text }}{{.}}{{end}}</label>
             <textarea class="pa2 input-reset ba bg-transparant hover-bg-black hover-white w-100"
-              rows="5"
-              id="message" required="required" name="message"
-              placeholder="{{ with .text }}{{ . | markdownify }}{{ end }}"
-              data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}"></textarea>
+            rows="5"
+            id="message" required="required" name="message"
+            placeholder="{{ with .text }}{{ . | markdownify }}{{ end }}"
+            data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}"></textarea>
 
           </div>
           {{ end }}
 
-      </fieldset>
+        </fieldset>
 
-      <div class="">
-        <input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib"
+        <div class="">
+          <input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib"
           type="submit"
           value="{{ with .Site.Params.contact.form.button.text }}{{.}}{{ end }}">
-      </div>
-    </form>
+        </div>
+      </form>
+    </section>
   </div>
 {{ end }}
