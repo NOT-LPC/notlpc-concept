@@ -36,6 +36,40 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 
 ## LPC Officers & Staff
 
+<div class="pa4">
+  <div class="overflow-auto">
+    <table class="f6 w-100 mw8 center" cellspacing="0">
+      <thead>
+        <tr class="stripe-dark">
+          <th class="fw6 tl pa3 bg-white">Name</th>
+          <th class="fw6 tl pa3 bg-white">Position</th>
+          <th class="fw6 tl pa3 bg-white">Email</th>
+          <th class="fw6 tl pa3 bg-white">Mobile</th>
+        </tr>
+      </thead>
+      <tbody class="lh-copy">
+        <tr class="stripe-dark">
+          <td class="pa3">Keith Kendall</td>
+          <td class="pa3">Chair</td>
+          <td class="pa3"><a href="mailto:keith.kendall@northoftynelpc.com">keith.kendall@northoftynelpc.com</a></td>
+          <td class="pa3"> </td>
+        </tr>
+        <tr class="stripe-dark">
+          <td class="pa3">Stephen Blackman</td>
+          <td class="pa3">Chief Officer</td>
+          <td class="pa3"><a href="mailto:stephen.blackman@northoftynelpc.com">stephen.blackman@northoftynelpc.com</a></td>
+          <td class="pa3">07976 132006</td>
+        </tr>
+        <tr class="stripe-dark">
+          <td class="pa3">Ann Gunning</td>
+          <td class="pa3">Head of services & Support</td>
+          <td class="pa3"><a href="mailto:ann.gunning@northoftynelpc.com">ann.gunning@northoftynelpc.com</a></td>
+          <td class="pa3">07832 967622</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 * Francis
 * Shelly
