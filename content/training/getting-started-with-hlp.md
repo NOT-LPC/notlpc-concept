@@ -35,10 +35,12 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
     <h1 class="f4">Mimi Whitehouse</h1>
     <hr class="mw3 bb bw1 b--black-10">
   </div>
-  <p class="center f6 black-70">
+  <p class="tc f6 black-70">
     Quite affectionate and outgoing.
     She loves to get chin scratches and will
     roll around on the floor waiting for you give her more of them.
+    <i class="tc fa fa-phone"></i>
+    <a href="tel:07976132006" class="link">  07976132006</a>
   </p>
 </article>
 
