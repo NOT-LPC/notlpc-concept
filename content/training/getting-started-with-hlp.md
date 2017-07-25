@@ -29,7 +29,18 @@ Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
 
 {{< youtube zCDbd8XubcU >}}
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/zCDbd8XubcU/0.jpg)](http://www.youtube.com/watch?v=zCDbd8XubcU "Video Title")
+<article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
+  <div class="tc">
+    <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+    <h1 class="f4">Mimi Whitehouse</h1>
+    <hr class="mw3 bb bw1 b--black-10">
+  </div>
+  <p class="center f6 black-70">
+    Quite affectionate and outgoing.
+    She loves to get chin scratches and will
+    roll around on the floor waiting for you give her more of them.
+  </p>
+</article>
 
 ## More info
 
