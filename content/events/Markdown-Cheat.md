@@ -22,12 +22,10 @@ tags: ["Markdown"]
 
 **Bold**
 
-**Registration:</b> TBA
-
 >Blockquote
 >Text
-  >Indented
-  >Indented
+> >Indented
+> > >Indented 2
 
 * Item 1
 * Item 2
@@ -42,14 +40,12 @@ tags: ["Markdown"]
   * Item 3a
 
 [Website](http://northoftynelpc.com)
+
 [Email](Mailto:lpc@northoftynelpc.com)
-[07976 132006](Tel:07976132006)
 
-:+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat: 
-:simple\_smile: :disappointed: :sunglasses:
-:email:
+[07976 132006](Tel:07976132006) or
 
+<Tel:07976132006>
 
 First Header | Second Header
 ------------ | -------------
@@ -84,3 +80,32 @@ Manual Line Breaks,
 End a line with two or more spaces:
 Roses are red,   
 Violets are blue.
+
+I get 10 times more traffic from [Google][1] than from
+    [Yahoo][2] or [MSN][3].
+
+    [1]: http://google.com/        "Google"
+    [2]: http://search.yahoo.com/  "Yahoo Search"
+    [3]: http://search.msn.com/    "MSN Search"
+
+he title attribute is optional. Link names may contain letters,
+numbers and spaces, but are *not* case sensitive:
+
+    I start my morning with a cup of coffee and
+    [The New York Times][NY Times].
+
+    [ny times]: http://www.nytimes.com/
+
+Image syntax is very much like link syntax.
+
+Inline (titles are optional):
+
+    ![alt text](https://avatars1.githubusercontent.com/u/26934311?v=4&s=96 "Title")
+
+Reference-style:
+
+    ![alt text][id]
+
+    [id]: https://avatars1.githubusercontent.com/u/26934311?v=4&s=96 "Title"
+    
+
