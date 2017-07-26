@@ -1,5 +1,5 @@
 ---
-date: 2017-08-03T18:00:00-20:00:00
+date: 2017-08-03T18:00:00-02:00
 description: "Newcastle Plan B Update Meeting"
 title: "Newcastle Plan B Update Meeting"
 categories: ['Sexual-Health']
