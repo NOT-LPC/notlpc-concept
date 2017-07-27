@@ -105,9 +105,9 @@ Inline (titles are optional):
 
 Reference-style:
 
-[alt text][id]
+[LPC Website][lpc]
 
-[id]:https://avatars1.githubusercontent.com/u/26934311?v=4&s=96 "Title"
+[lpc]:https://northoftynelpc.com "LPC Website"
 
 [Google][]
 
