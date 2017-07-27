@@ -115,4 +115,10 @@ And then define the link:
 
 [Google]: http://google.com/
 
+# Shortcodes
 
+\{{< youtube zCDbd8XubcU >}}\
+
+works with youtube, speakerdeck, tweet and instagram
+
+{{< tweet 888279715097726977 >}}
