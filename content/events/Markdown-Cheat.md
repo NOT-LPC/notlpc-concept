@@ -118,16 +118,16 @@ See https://gohugo.io/content-management/shortcodes/
 
 A shortcode can be called by calling {{% shortcodename parameters %}}. Shortcode parameters are space delimited, and parameters with internal spaces can be quoted.
 
-\{{< youtube zCDbd8XubcU >}}\
+!{{< youtube zCDbd8XubcU >}}
 
 {{< youtube zCDbd8XubcU >}}
 
 {{< figure src="https://avatars1.githubusercontent.com/u/26934311?v=4&s=96" title="Stephen Blackman" >}}
 
-{{< instagram BWNjjyYFxVx >}}
+!{{< instagram BWNjjyYFxVx >}}
 
-{{< speakerdeck 4e8126e72d853c0060001f97 >}}
+!{{< speakerdeck 4e8126e72d853c0060001f97 >}}
 
-{{< tweet 877500564405444608 >}}
+!{{< tweet 877500564405444608 >}}
 
 
