@@ -84,20 +84,18 @@ End a line with two or more spaces:
 Roses are red,   
 Violets are blue.
 
-I get 10 times more traffic from [Google][1] than from
-    [Yahoo][2] or [MSN][3].
+I get 10 times more traffic from [Google] [1] than from [Yahoo] [2] or [MSN] [3].
 
-    [1]: http://google.com/        "Google"
-    [2]: http://search.yahoo.com/  "Yahoo Search"
-    [3]: http://search.msn.com/    "MSN Search"
+[1]: http://google.com/        "Google"
+[2]: http://search.yahoo.com/  "Yahoo Search"
+[3]: http://search.msn.com/    "MSN Search"
 
 he title attribute is optional. Link names may contain letters,
 numbers and spaces, but are *not* case sensitive:
 
-    I start my morning with a cup of coffee and
-    [The New York Times][NY Times].
+I start my morning with a cup of coffee and [The New York Times] [NY Times].
 
-    [ny times]: http://www.nytimes.com/
+[ny times]:http://www.nytimes.com/
 
 Image syntax is very much like link syntax.
 
@@ -107,10 +105,14 @@ Inline (titles are optional):
 
 Reference-style:
 
-    [alt text][id]
+[alt text][id]
 
-    [id]: https://avatars1.githubusercontent.com/u/26934311?v=4&s=96 "Title"
+[id]:https://avatars1.githubusercontent.com/u/26934311?v=4&s=96 "Title"
 
+[Google][]
 
+And then define the link:
+
+[Google]: http://google.com/
 
 
