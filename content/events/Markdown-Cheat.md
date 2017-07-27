@@ -117,7 +117,7 @@ And then define the link:
 
 # Shortcodes
 
-\{{< youtube zCDbd8XubcU >}}\
+{{< youtube zCDbd8XubcU >}}
 
 works with youtube, speakerdeck, tweet and instagram
 
