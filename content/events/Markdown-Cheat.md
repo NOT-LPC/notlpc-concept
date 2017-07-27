@@ -103,11 +103,11 @@ Image syntax is very much like link syntax.
 
 Inline (titles are optional):
 
-    ![alt text](https://avatars1.githubusercontent.com/u/26934311?v=4&s=96 "Title")
+    [alt text](https://avatars1.githubusercontent.com/u/26934311?v=4&s=96 "Title")
 
 Reference-style:
 
-    ![alt text][id]
+    [alt text][id]
 
     [id]: https://avatars1.githubusercontent.com/u/26934311?v=4&s=96 "Title"
 
