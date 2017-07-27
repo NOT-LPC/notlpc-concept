@@ -1,7 +1,7 @@
 ---
 date: 2017-08-21T19:00:01-00:00
-description: "Flu Training Session"
-title: "Flu Training"
+description: "Markdown Cheat"
+title: "Markdown Cheat and Style Viewer"
 categories: ["Training"]
 tags: ["Markdown"]
 ---
@@ -22,10 +22,10 @@ tags: ["Markdown"]
 
 **Bold**
 
->Blockquote
->Text
-> >Indented
-> > >Indented 2
+> Blockquote
+> Text
+> > Indented
+> > > Indented 2
 
 * Item 1
 * Item 2
