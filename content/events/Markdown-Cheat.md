@@ -50,7 +50,7 @@ tags: ["Markdown"]
 
 <Tel:07976132006>
 
-First Header | Second Header
+  First Header   |   Second Header  
 ------------ | -------------
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
@@ -101,7 +101,7 @@ Image syntax is very much like link syntax.
 
 Inline (titles are optional):
 
-    [alt text](https://avatars1.githubusercontent.com/u/26934311?v=4&s=96 "Title")
+[LPC Website](https://northoftynelpc.com "LPC Website")
 
 Reference-style:
 
@@ -113,12 +113,14 @@ Reference-style:
 
 And then define the link:
 
-[Google]: http://google.com/
+[Google]:http://google.com/
 
 # Shortcodes
 
 {{< youtube zCDbd8XubcU >}}
 
 works with youtube, speakerdeck, tweet and instagram
+
+{{< speakerdeck dd71b6ec71c345238898402b6e545b81 >}}
 
 {{< tweet 888279715097726977 >}}
