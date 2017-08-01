@@ -1,13 +1,13 @@
 ---
 date: 2017-08-01T17:00:00
 title: 'Facebook Group for North of Tyne HLPs'
-description: 'A Facebook group has been setup for all North of Tyne Healthy Living Pharmacies'
+description: 'A Facebook group has been created for all North of Tyne Healthy Living Pharmacies'
 contact: "anngunning"
 categories: ['News', 'Support']
 tags: ['HLP']
 ---
 
-A [Facebook Group](https://www.facebook.com/groups/NOTHLPS/) has been setup to support
+A [Facebook Group](https://www.facebook.com/groups/NOTHLPS/) has been created to support
 all Healthy Living Pharmacies in the North of Tyne region.  
 
 This is a closed [Facebook Group](https://www.facebook.com/groups/NOTHLPS/) so members need 
