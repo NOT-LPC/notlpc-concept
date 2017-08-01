@@ -110,22 +110,30 @@ watch = true
   [params.contacts.DefaultContact]
     #Required for each!
     name  = "North Of Tyne LPC"
-    email = "info@northoftynelpc.com"
-    phone = "0123456789"
+    email = "lpc@northoftynelpc.com"
+    phone = "07976132006"
     #Optional
     linkedin = ""
-    twitter = "NOT_LPC"
+    twitter = "NoT_LPC"
     facebook= "NoTLPC"
   [params.contacts.StephenBlackman]
     #Required for each!
     name  = "Stephen Blackman"
-    email = "sblackman@northoftynelpc.com"
-    phone = "0123456789"
+    email = "stephen.blackman@northoftynelpc.com"
+    phone = "07976132006"
     #Optional
     linkedin = "sablackman"
-    twitter = "NOT_LPC"
+    twitter = "NoT_LPC_CO"
     facebook= "NoTLPC"
-    
+  [params.contacts.AnnGunning]
+    #Required for each!
+    name  = "Ann Gunning"
+    email = "ann.gunning@northoftynelpc.com"
+    phone = "07832967622"
+    #Optional
+    linkedin = "ann-gunning-15713829"
+    twitter = "NoT_LPC"
+    facebook= "NoTLPC"     
 
 # High level items
 [[menu.docs]]
