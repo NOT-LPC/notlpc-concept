@@ -1,7 +1,8 @@
 ---
-date: 2017-08-21T19:00:01-00:00
+date: 2017-08-21T19:00:00
 description: "Markdown Cheat"
 title: "Markdown Cheat and Style Viewer"
+contact: 'stephenblackman'
 categories: ["Training"]
 tags: ["Markdown"]
 ---
