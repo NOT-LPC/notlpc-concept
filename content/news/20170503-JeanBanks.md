@@ -1,7 +1,7 @@
 ---
 date: 2017-05-03T17:00:00
-title: 'Jean Banks retirement'
-description: 'Jean Banks retirement'
+title: 'Jean Banks Retirement'
+description: 'Jean Banks has announced her retirement as Chair of LPC'
 contact: "stephenblackman"
 categories: ['News', 'Announcement']
 tags: ['LPC']
