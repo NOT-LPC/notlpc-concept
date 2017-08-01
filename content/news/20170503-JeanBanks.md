@@ -1,5 +1,5 @@
 ---
-date: 2017-05-03T17:00
+date: 2017-05-03T17:00:00
 title: 'Jean Banks retirement'
 description: 'Jean Banks retirement'
 
