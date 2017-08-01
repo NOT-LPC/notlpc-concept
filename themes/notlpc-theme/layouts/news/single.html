@@ -45,6 +45,8 @@
         {{ end }}
 
         {{ .Content }}
+        {{- partial "contact-strip.html" . -}}
+        
       </div>
     </div>
     {{ if .Params.tags }}
