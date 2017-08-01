@@ -53,7 +53,7 @@ watch = true
   ## Setting this to true will add a "noindex" to *EVERY* page on the site
   removefromexternalsearch = false
   ## This is used when the BaseURL does not need to modified (eg, in share links or in prerender, prefetch, etc to control for relativeURLs setting); do *not* include trailing slash
-  siteaddress = "https://northoftyneplc.com"
+  siteaddress = "https://www.northoftyneplc.com"
 
   ## Google Tag Manager
   gtmid = ""
@@ -86,7 +86,6 @@ watch = true
   title = "Contact Us"
   email = "lpc@northoftynelpc.com"
 
-
 # 'error' defines error messages for invalid inputs
 [params.contact.form.name]
   text = "Name"
@@ -106,6 +105,27 @@ watch = true
 
 [params.contact.form.button]
   text = "Send"
+
+[params.contacts]
+  [params.contacts.DefaultContact]
+    #Required for each!
+    name  = "North Of Tyne LPC"
+    email = "info@northoftynelpc.com"
+    phone = "0123456789"
+    #Optional
+    linkedin = ""
+    twitter = "NOT_LPC"
+    facebook= "NoTLPC"
+  [params.contacts.StephenBlackman]
+    #Required for each!
+    name  = "Stephen Blackman"
+    email = "sblackman@northoftynelpc.com"
+    phone = "0123456789"
+    #Optional
+    linkedin = "sablackman"
+    twitter = "NOT_LPC"
+    facebook= "NoTLPC"
+    
 
 # High level items
 [[menu.docs]]
