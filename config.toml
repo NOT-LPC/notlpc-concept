@@ -1,4 +1,4 @@
-baseurl = "https://not-lpc.github.io/notlpc-concept/"
+baseurl = "https://www.northoftynelpc.com/"
 canonifyurls = true
 # Pointing to this file
 config = "config.toml"
