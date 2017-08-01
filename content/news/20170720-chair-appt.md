@@ -8,4 +8,5 @@ tags: ['LPC']
 ---
 
 Following the retirement of Jean Banks, the Committee have duly appointed Keith Kendall as Chair of North of Tyne LPC.  
-Keith is no longer a member of the committee but was, until recently, a CCA representative and was Vice-CHair.
+
+Keith was no longer a member of the committee but had, until recently, been a CCA representative and was Vice-Chair.
