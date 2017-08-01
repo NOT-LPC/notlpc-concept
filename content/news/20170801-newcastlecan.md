@@ -1,7 +1,7 @@
 ---
 date: 2017-08-01T17:00:00
-title: 'Could you be a HLP TV star?'
-description: 'Film crew would like footage of Healthy Living Pharmacies supporting Newcastle Can!'
+title: 'Could you be a HLP TV star'
+description: 'Film crew would like footage of Healthy Living Pharmacies supporting Newcastle Can'
 contact: "stephenblackman"
 categories: ['News', 'Reminder']
 tags: ['HLP']
