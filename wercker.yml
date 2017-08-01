@@ -13,5 +13,5 @@ deploy:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        # domain: not-lpc.github.io/notlpc-hugo
+        domain: www.northoftynelpc.com
         basedir: public
