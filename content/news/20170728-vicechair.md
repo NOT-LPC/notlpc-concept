@@ -2,7 +2,7 @@
 date: 2017-07-28T17:00:00
 title: 'New Vice-Chair for North of Tyne LPC'
 description: 'Andy Watson has been appointed Vioce-Chair of North of Tyne LPC'
-
+contact: "stephenblackman"
 categories: ['News', 'Announcement']
 tags: ['LPC']
 ---
