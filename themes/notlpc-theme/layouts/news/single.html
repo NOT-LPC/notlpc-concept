@@ -26,7 +26,7 @@
             {{ . | markdownify }}
           </h2>
         {{ end }}
-        <time class="f6 mt2 db ttu tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+        <time class="f6 mt2 db dib-ns ttu tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
           {{ .Date.Format "January 2, 2006" }}
         </time>
         <!--
@@ -46,7 +46,7 @@
 
         {{ .Content }}
         {{- partial "contact-strip.html" . -}}
-        
+
       </div>
     </div>
     {{ if .Params.tags }}
