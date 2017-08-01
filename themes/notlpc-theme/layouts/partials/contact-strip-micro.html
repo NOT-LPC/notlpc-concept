@@ -1,32 +1,32 @@
 {{ $contact := index .Site.Params.contacts (.Params.contact | default "defaultcontact") }}
-<div class="f6 mt3 db dib-ns ttu tracked">
+<div class="f6 mt3 db dib-ns ttu tracked nested-links">
   <span class="mr1">
     {{ if $contact.email }}
-      <a href="mailto:{{$contact.email}}?subject={{ .Title }}" class="link"><i class="fa fa-envelope-o"></i> {{ $contact.name }}</a>
+      <a href="mailto:{{$contact.email}}?subject={{ .Title }}"><i class="fa fa-envelope-o"></i> {{ $contact.name }}</a>
     {{ else }}
       {{ $contact.name }}
     {{ end }}
   </span>
 </div>
-<div class="f6 mt3 db dib-ns ttu tracked">
+<div class="f6 mt3 db dib-ns ttu tracked nested-links">
   {{ if $contact.facebook }}
     <span class="mr1">
-      <a href="https://www.facebook.com/{{$contact.facebook}}" target="_new" class="link"><i class="fa fa-facebook"></i></a>
+      <a href="https://www.facebook.com/{{$contact.facebook}}" target="_new"><i class="fa fa-facebook"></i></a>
     </span>
   {{ end}}
   {{ if $contact.twitter }}
     <span class="mr1">
-      <a href="https://www.twitter.com/{{$contact.twitter}}" target="_new" class="link"><i class="fa fa-twitter"></i></a>
+      <a href="https://www.twitter.com/{{$contact.twitter}}" target="_new"><i class="fa fa-twitter"></i></a>
     </span>
   {{ end}}
   {{ if $contact.linkedin }}
     <span class="mr1">
-      <a href="https://www.linkedin.com/in/{{$contact.linkedin}}" target="_new" class="link"><i class="fa fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/{{$contact.linkedin}}" target="_new"><i class="fa fa-linkedin"></i></a>
     </span>
   {{ end}}
   {{ if $contact.phone }}
     <span class="mr1">
-    <a href="tel:{{$contact.phone}}" class="link"><i class="fa fa-phone"></i> {{ $contact.phone }}</a>
+    <a href="tel:{{$contact.phone}}"><i class="fa fa-phone"></i> {{ $contact.phone }}</a>
     </span>
   {{ end}}
 </div>
