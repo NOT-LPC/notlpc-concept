@@ -1,9 +1,9 @@
 ---
 date: 2017-08-01T17:00:00
-title: 'Facebook Group for North of Tyne HLPs'
-description: 'A Facebook group has been setup for all North of Tyne Healthy Living Pharmacies'
+title: 'Could you be a HLP TV star?'
+description: 'Film crew would like footage of Healthy Living Pharmacies supporting NewcastleCan!'
 contact: "anngunning"
-categories: ['News', 'Support']
+categories: ['News', 'Reminder']
 tags: ['HLP']
 ---
 
