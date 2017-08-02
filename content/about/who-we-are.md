@@ -92,7 +92,7 @@ North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 
 
 ### Independent Representatives
 
-<div class="overflow-auto">
+  <div class="overflow-auto">
     <table class="f6 w-100 mw8 center" cellspacing="0">
       <thead>
         <tr class="stripe-dark">
