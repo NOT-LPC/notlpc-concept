@@ -104,34 +104,34 @@ North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 
       </thead>
       <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">Debbie Baird-Palmer</td>
-          <td class="pa3">Boots</td>
+          <td class="pa3">Chris Dodd</td>
+          <td class="pa3">Gill & Schofield</td>
           <td class="pa3">Independent</td>
-          <td class="pa3">[debbie.baird-palmer@northoftynelpc.com](mailto:debbie.baird-palmer@northoftynelpc.com)</td>
+          <td class="pa3">[chris.dodd@northoftynelpc.com](mailto:chris.dodd@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Christine Wardlaw</td>
-          <td class="pa3">Treasurer</td>
+          <td class="pa3">Chris Holmes</td>
+          <td class="pa3">Fairmans Pharmacy</td>
           <td class="pa3">Independent</td>
-          <td class="pa3">[christine.wardlaw@northoftynelpc.com](mailto:christine.wardlaw@northoftynelpc.com)</td>
+          <td class="pa3">[chris.holmes@northoftynelpc.com](mailto:chris.holmes@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Stephen Blackman</td>
-          <td class="pa3">Chief Officer</td>
+          <td class="pa3">Andy Watson</td>
+          <td class="pa3">Whitworth Chemists</td>
           <td class="pa3">Independent</td>
-          <td class="pa3">[stephen.blackman@northoftynelpc.com](mailto:stephen.blackman@northoftynelpc.com)</td>
+          <td class="pa3">[andy.watson@northoftynelpc.com](mailto:andy.watson@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Ann Gunning</td>
-          <td class="pa3">Head of services & Support</td>
+          <td class="pa3">Sharon Williams</td>
+          <td class="pa3">Wellway Pharmacy</td>
           <td class="pa3">Independent</td>
-          <td class="pa3">[ann.gunning@northoftynelpc.com](mailto:ann.gunning@northoftynelpc.com)</td>
+          <td class="pa3">[sharon.williams@northoftynelpc.com](mailto:sharon.williams@northoftynelpc.com)</td>
         </tr>    
         <tr class="stripe-dark">
-          <td class="pa3">Ann Gunning</td>
-          <td class="pa3">Head of services & Support</td>
+          <td class="pa3">Vacancy</td>
+          <td class="pa3"> </td>
           <td class="pa3">Independent</td>
-          <td class="pa3">[ann.gunning@northoftynelpc.com](mailto:ann.gunning@northoftynelpc.com)</td>
+          <td class="pa3"> </td>
         </tr>
       </tbody>
     </table>
