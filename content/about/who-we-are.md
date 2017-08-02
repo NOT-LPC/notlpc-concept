@@ -48,43 +48,43 @@ North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 
           <td class="pa3">Simon Clark</td>
           <td class="pa3">Tesco</td>
           <td class="pa3">CCA</td>
-          <td class="pa3">[andy.watson@northoftynelpc.com](mailto:andy.watson@northoftynelpc.com)</td>
+          <td class="pa3">[simon.clark@northoftynelpc.com](mailto:simon.clark@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Christine Wardlaw</td>
-          <td class="pa3">Treasurer</td>
+          <td class="pa3">Amanda Lertoria</td>
+          <td class="pa3">Lloyds</td>
           <td class="pa3">CCA</td>
-          <td class="pa3">[christine.wardlaw@northoftynelpc.com](mailto:christine.wardlaw@northoftynelpc.com)</td>
+          <td class="pa3">[amanda.lertoria@northoftynelpc.com](mailto:amanda.lertoria@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Stephen Blackman</td>
-          <td class="pa3">Chief Officer</td>
+          <td class="pa3">Hannah Lubbeke</td>
+          <td class="pa3">Well</td>
           <td class="pa3">CCA</td>
-          <td class="pa3">[stephen.blackman@northoftynelpc.com](mailto:stephen.blackman@northoftynelpc.com)</td>
+          <td class="pa3">[hannah.lubbeke@northoftynelpc.com](mailto:hannah.lubbeke@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Ann Gunning</td>
-          <td class="pa3">Head of services & Support</td>
+          <td class="pa3">Geraint Morris</td>
+          <td class="pa3">Boots</td>
           <td class="pa3">CCA</td>
-          <td class="pa3">[ann.gunning@northoftynelpc.com](mailto:ann.gunning@northoftynelpc.com)</td>
+          <td class="pa3">[geraint.morris@northoftynelpc.com](mailto:geraint.morris@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Ann Gunning</td>
-          <td class="pa3">Head of services & Support</td>
+          <td class="pa3">David Pearse</td>
+          <td class="pa3">Boots</td>
           <td class="pa3">CCA</td>
-          <td class="pa3">[ann.gunning@northoftynelpc.com](mailto:ann.gunning@northoftynelpc.com)</td>
+          <td class="pa3">[david.pearse@northoftynelpc.com](mailto:david.pearse@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Ann Gunning</td>
-          <td class="pa3">Head of services & Support</td>
+          <td class="pa3">Farhaan Qureshi (Bobby)</td>
+          <td class="pa3">Lloyds</td>
           <td class="pa3">CCA</td>
-          <td class="pa3">[ann.gunning@northoftynelpc.com](mailto:ann.gunning@northoftynelpc.com)</td>
+          <td class="pa3">[farhaan.qureshi@northoftynelpc.com](mailto:farhaan.qureshi@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Ann Gunning</td>
-          <td class="pa3">Head of services & Support</td>
+          <td class="pa3">Nisha Sehgal</td>
+          <td class="pa3">Boots</td>
           <td class="pa3">CCA</td>
-          <td class="pa3">[ann.gunning@northoftynelpc.com](mailto:ann.gunning@northoftynelpc.com)</td>
+          <td class="pa3">[nisha.sehgal@northoftynelpc.com](mailto:nisha.sehgal@northoftynelpc.com)</td>
         </tr>
       </tbody>
     </table>
