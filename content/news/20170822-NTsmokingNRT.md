@@ -3,7 +3,7 @@ date: 2017-08-22T17:00:00
 title: 'Changes to North Tyneside NRT'
 description: 'A number of NRT products will be removed from the stop smoking service from 1st October'
 contact: "anngunning"
-categories: ['News', 'Support', 'Services']
+categories: ['News', 'Support', 'Local-Services']
 tags: ['Smoking']
 ---
 
