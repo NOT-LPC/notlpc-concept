@@ -40,4 +40,4 @@ criterion at the November review point which are:
 * the facilities the pharmacy provides e.g. consulting room, parking etc; and
 * the services the pharmacy provides.
 
-Further information on the process to follow for the November review point can be found at: [psnc.org.uk/QPNHSChoices]{psnc.org.uk/QPNHSChoices}
+Further information on the process to follow for the November review point can be found at: [psnc.org.uk/QPNHSChoices]{http://www.psnc.org.uk/QPNHSChoices}
