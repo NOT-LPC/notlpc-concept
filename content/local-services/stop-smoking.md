@@ -22,16 +22,14 @@ toc: true
 
 ---
 
-Qui tempor reprehenderit excepteur sunt excepteur esse laboris cupidatat sunt. Consectetur eiusmod ullamco deserunt cillum reprehenderit ullamco ea aute non. Tempor do officia minim sint occaecat sit consequat. Et tempor voluptate incididunt officia Lorem veniam et dolor commodo sunt id consectetur enim ad.
-
-## Northumberland
+# Northumberland
 
 North of Tyne LPC does not support the Northumberland Stop Smoking Pharmacy Direct service specification.  Interested pharmacies should contact Northumberland County Council, Public Health Department.
 
-## Newcastle
+# Newcastle
 
 [Varenicline PGD Training](https://www.northoftynelpc.com/training/varenicline-pgd-newcl/)
 
-## North Tyneside
+# North Tyneside
 
 To be added
