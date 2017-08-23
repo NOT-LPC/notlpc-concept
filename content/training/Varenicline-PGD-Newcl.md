@@ -43,21 +43,21 @@ Please complete the following actions prior to delivering the service:
 
 # Varenicline PGD
 
-Please download and retain the Varenicline PGD
+Please download, review and retain the [Varenicline PGD](/files/Newcl-Varenicline-PGD.pdf)
 
 # Assessment Questions
 
-Please print the assessment questions and send the completed answers to [Ann Gunning](Mailto:ann.gunning@northoftynelpc.com)
+Please print the [multiple-choice assessment questions](/files/Newcl-Varenicline-Multiple-Choice-Questions.pdf) and send the completed answers to [Ann Gunning](Mailto:ann.gunning@northoftynelpc.com)
 
 Await the results.  If you have passed you can proceed with the following steps.
 
 # Declaration of Competence
 
-Please downlaod and complete the decalaration of competence.
+Please downlaod and complete the [declaration of competence](/files/Newcl-Varenicline-Declaration-of-Competence.pdf).
 
 # Signup Form
 
-Please complete the signup form and submit with the decalartion of competence to:
+Please complete the [signup form](/files/Newcl-Varenicline-Signup.pdf) and submit with the [declaration of competence](/files/Newcl-Varenicline-Declaration-of-Competence.pdf) to:
 
 > > Rachel Baillie, Assistant Director Commissioning & Procurement
 > > Wellbeing, Care & Learning
@@ -66,9 +66,9 @@ Please complete the signup form and submit with the decalartion of competence to
 
 # Service Specification
 
-Please download and retain the service specification.
+Please download and retain the [service specification](/files/Newcl-Varenicline-Service-Spec.pdf).
 
 # Voucher Pharmacies List
 
-Please download and retain the voucher pharmacies list.
+Please download and retain the [voucher pharmacies list](/files/Newcl-Voucher-Pharmacies.pdf).
 
