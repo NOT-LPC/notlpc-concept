@@ -7,7 +7,6 @@ date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
 
-contact: 'anngunning'
 categories: ['Local-Services', 'Support', 'Videos', 'Training', 'PGDs']
 tags: ['Smoking', 'NRT', 'Varenicline']
 
