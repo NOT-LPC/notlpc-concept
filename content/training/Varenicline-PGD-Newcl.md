@@ -59,10 +59,10 @@ Please downlaod and complete the [declaration of competence](/files/Newcl-Vareni
 
 Please complete the [signup form](/files/Newcl-Varenicline-Signup.pdf) and submit with the [declaration of competence](/files/Newcl-Varenicline-Declaration-of-Competence.pdf) to:
 
-> > Rachel Baillie, Assistant Director Commissioning & Procurement
-> > Wellbeing, Care & Learning
-> > Room 120, Civic Centre
-> > Newcastle upon Tyne, NE1 8QH
+> > Rachel Baillie, Assistant Director Commissioning & Procurement  
+> > Wellbeing, Care & Learning  
+> > Room 120, Civic Centre  
+> > Newcastle upon Tyne, NE1 8QH  
 
 # Service Specification
 
