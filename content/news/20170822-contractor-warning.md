@@ -20,10 +20,10 @@ for the individuals to obtain details which they can use to access the contracto
 The NHSBSA has confirmed that no member of its team will ever contact a contractor directly and ask for 
 bank account details in this way. If you receive such a call, do not provide any personal or bank details and 
 report the call to the National Fraud and Cyber Crime Reporting Centre, 
-[Action Fraud]{http://www.actionfraud.police.uk/report_fraud}, on [0300 123 2040](Tel:03001232040).
+[Action Fraud](http://www.actionfraud.police.uk/report_fraud), on [0300 123 2040](Tel:03001232040).
 
 If you are ever concerned about the legitimacy of a call purporting to be from the NHSBSA, ask for the name of 
 the caller and then tell them that you will call them back; the NHSBSA Prescription Services 
 main phone number can be found on the back cover of the Drug Tariff – use this number, not any number provided to you by the caller.
 
-[Action Fraud advice on protecting your business from fraud]{http://www.actionfraud.police.uk/small-businesses-know-your-business}
+[Action Fraud advice on protecting your business from fraud](http://www.actionfraud.police.uk/small-businesses-know-your-business)
