@@ -25,6 +25,8 @@ toc: true
 
 # Instructions for Pharmacists
 
+Please complete the following actions prior to delivering the service:  
+
 1. Watch the training video
 2. Download and review the PGD
 3. Complete the assessment questions and submit to [Ann Gunning](Mailto:ann.gunning@northoftynelpc.com)
@@ -33,6 +35,7 @@ toc: true
 6. Print and complete the declaration of competence
 7. Print and complete the signup form
 8. Submit the completed signup form and declaration of competence
+9. Download and retain the service specification and voucher pharamacies list
 
 # Training Video
 
@@ -40,11 +43,11 @@ toc: true
 
 # Varenicline PGD
 
-Please download and retain the PGD
+Please download and retain the Varenicline PGD
 
 # Assessment Questions
 
-Please print the questions and send the completed answers to [Ann Gunning](Mailto:ann.gunning@northoftynelpc.com)
+Please print the assessment questions and send the completed answers to [Ann Gunning](Mailto:ann.gunning@northoftynelpc.com)
 
 Await the results.  If you have passed you can proceed with the following steps.
 
@@ -60,3 +63,12 @@ Please complete the signup form and submit with the decalartion of competence to
 > > Wellbeing, Care & Learning
 > > Room 120, Civic Centre
 > > Newcastle upon Tyne, NE1 8QH
+
+# Service Specification
+
+Please download and retain the service specification.
+
+# Voucher Pharmacies List
+
+Please download and retain the voucher pharmacies list.
+
