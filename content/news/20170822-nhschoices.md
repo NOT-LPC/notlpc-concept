@@ -25,7 +25,7 @@ If contractors do not edit or validate the outstanding sections by 10th Septembe
 meet the gateway criterion and there will be a risk that the Quality Payment already made for the April review 
 point will need to be recovered.  
 
-[View a copy of the letter sent by email to contractors]{https://www.nhsbsa.nhs.uk/sites/default/files/2017-08/Non-DSPs%20-%20Quality%20payment%20GW%20validation%20letter%20NHS%20Choices%20v4.pdf}
+[View a copy of the letter sent by email to contractors](https://www.nhsbsa.nhs.uk/sites/default/files/2017-08/Non-DSPs%20-%20Quality%20payment%20GW%20validation%20letter%20NHS%20Choices%20v4.pdf)
 
 **Important information for the November review point**
 
@@ -40,4 +40,4 @@ criterion at the November review point which are:
 * the facilities the pharmacy provides e.g. consulting room, parking etc; and
 * the services the pharmacy provides.
 
-Further information on the process to follow for the November review point can be found at: [psnc.org.uk/QPNHSChoices]{http://www.psnc.org.uk/QPNHSChoices}
+Further information on the process to follow for the November review point can be found at: [psnc.org.uk/QPNHSChoices](http://www.psnc.org.uk/QPNHSChoices)
