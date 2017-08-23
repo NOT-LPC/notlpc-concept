@@ -1,6 +1,6 @@
 ---
-title: 'Varenicline PGD Training - Newcastle'
-linktitle: 'Varenicline PGD Training - Newcastle'
+title: 'Varenicline PGD Training'
+linktitle: 'Varenicline PGD Training'
 description: 'Varenicline PGD training resources for Newcastle pharmacists'
 
 date: 2017-08-23
@@ -21,15 +21,18 @@ aliases: []
 toc: true
 ---
 
-# Instructions
+# Instructions for Pharmacists
 
-
+> Watch the training video
+> Complete the Assessment questions
 
 # Training Video
 
 {{< youtube 8wdlS_DKRQA >}}
 
-Instructions for pharmacists:
+# Assessment Questions
+
+Please print the questions and send the completed answers to [Ann Gunning](Mailto:ann.gunning@northoftynelpc.com)
  
 > Print off No 2, 3, 4, 5, 6 and 7.
 > Watch video (1)
