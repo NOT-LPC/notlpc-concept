@@ -54,7 +54,7 @@ Pharmacists must complete the online [Varenicline PGD Training](https://www.nort
 
 ## Voucher Pharmacies List
 
-This is the [list of pharmacies](/files/Newcl-Voucher-Pharmacies.pdf) fulfilling NRT supply vouchers.
+This is the [list of Newcastle pharmacies](/files/Newcl-Voucher-Pharmacies.pdf) fulfilling NRT supply vouchers.
 
 # North Tyneside
 
