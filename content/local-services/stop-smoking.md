@@ -30,9 +30,7 @@ North of Tyne LPC does not support the Northumberland Stop Smoking service speci
 
 ## Newcastle
 
-
-
-{{< youtube 8wdlS_DKRQA >}}
+[Varenicline PGD Training](/training/Varenicline-PGD-Newcl.md)
 
 ## North Tyneside
 
