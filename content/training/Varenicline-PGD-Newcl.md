@@ -21,30 +21,42 @@ aliases: []
 toc: true
 ---
 
+**This training is for Newcastle pharmacists only**
+
 # Instructions for Pharmacists
 
-> Watch the training video
-> Complete the Assessment questions
+1. Watch the training video
+2. Download and review the PGD
+3. Complete the assessment questions and submit to [Ann Gunning](Mailto:ann.gunning@northoftynelpc.com)
+4. Await the results.  If you have passed you can proceed with the following steps
+5. Sign and retain the PGD
+6. Print and complete the declaration of competence
+7. Print and complete the signup form
+8. Submit the completed signup form and declaration of competence
 
 # Training Video
 
 {{< youtube 8wdlS_DKRQA >}}
 
+# Varenicline PGD
+
+Please download and retain the PGD
+
 # Assessment Questions
 
 Please print the questions and send the completed answers to [Ann Gunning](Mailto:ann.gunning@northoftynelpc.com)
- 
-> Print off No 2, 3, 4, 5, 6 and 7.
-> Watch video (1)
-> Answer questions (3) 
-> Send answers to Ann Gunning by email - ann.gunning@northoftynelpc.com
-> Await result email
-> If pass then sign and retain No 2.  Complete 4 and 6 and send to:
- 
-Rachel Baillie
-Assistant Director  Commissioning & Procurement
-Wellbeing, Care & Learning
-Room 120
-Civic Centre
-Newcastle upon Tyne
-NE1 8QH
+
+Await the results.  If you have passed you can proceed with the following steps.
+
+# Declaration of Competence
+
+Please downlaod and complete the decalaration of competence.
+
+# Signup Form
+
+Please complete the signup form and submit with the decalartion of competence to:
+
+> > Rachel Baillie, Assistant Director Commissioning & Procurement
+> > Wellbeing, Care & Learning
+> > Room 120, Civic Centre
+> > Newcastle upon Tyne, NE1 8QH
