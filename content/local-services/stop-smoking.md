@@ -1,11 +1,11 @@
 ---
 title: 'Stop Smoking'
 linktitle: 'Stop Smoking Services'
-description: 'On this page you will find details of smoking cessation services and NRT voucher schemes (in those areas where it is currently commissioned)
+description: 'On this page you will find details of the stop smoking services commissioned in our region'
 
-date: 2017-02-01
-publishdate: 2017-02-01
-lastmod: 2017-02-01
+date: 2017-08-23
+publishdate: 2017-08-23
+lastmod: 2017-08-23
 
 categories: ['Local-Services', 'Support', 'Videos', 'Training', 'PGDs']
 tags: ['Smoking', 'NRT', 'Varenicline']
@@ -32,7 +32,7 @@ North of Tyne LPC does not support the Northumberland Stop Smoking service speci
 
 
 
-{{youtube 8wdlS_DKRQA}}
+{{< youtube 8wdlS_DKRQA >}}
 
 ## North Tyneside
 
