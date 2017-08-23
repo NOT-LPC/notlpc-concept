@@ -1,13 +1,16 @@
 ---
-title: Stop Smoking
-linktitle: Stop Smoking Service
-description: On this page you will find details of smoking cessation services and NRT voucher schemes (in those areas where it is currently commissioned)
+title: 'Stop Smoking'
+linktitle: 'Stop Smoking Services'
+description: 'On this page you will find details of smoking cessation services and NRT voucher schemes (in those areas where it is currently commissioned)
 
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ["services"]
-tags: [smoking]
+
+contact: 'anngunning'
+categories: ['Local-Services', 'Support', 'Videos', 'Training', 'PGDs']
+tags: ['Smoking', 'NRT', 'Varenicline']
+
 menu:
   docs:
     parent: "local-services"
@@ -24,21 +27,14 @@ Qui tempor reprehenderit excepteur sunt excepteur esse laboris cupidatat sunt. C
 
 ## Northumberland
 
-* Northumberland Service Spec [northumberland service pdf][]
-
-
-
+North of Tyne LPC does not support the Northumberland Stop Smoking service specifications.  Interested pharmacies should contact Northumberland County Council, Public Health Department.
 
 ## Newcastle
 
-* Newcastle Service Spec [newcastle service pdf][]
 
+
+{{youtube 8wdlS_DKRQA}}
 
 ## North Tyneside
 
-No service spec is available. Contact us.
-
-
-
-[northumberland service pdf]: /files/c23cce_5a898acbfa444e048c3d65feb5ef7f34.pdf
-[newcastle service pdf]: /files/c23cce_2ddf268a260f4a0197b17669f7786308.pdf
+To be added
