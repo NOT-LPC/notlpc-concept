@@ -26,7 +26,7 @@ Qui tempor reprehenderit excepteur sunt excepteur esse laboris cupidatat sunt. C
 
 ## Northumberland
 
-North of Tyne LPC does not support the Northumberland Stop Smoking service specifications.  Interested pharmacies should contact Northumberland County Council, Public Health Department.
+North of Tyne LPC does not support the Northumberland Stop Smoking Pharmacy Direct service specification.  Interested pharmacies should contact Northumberland County Council, Public Health Department.
 
 ## Newcastle
 
