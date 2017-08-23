@@ -28,7 +28,33 @@ North of Tyne LPC does not support the Northumberland Stop Smoking Pharmacy Dire
 
 # Newcastle
 
-[Varenicline PGD Training](https://www.northoftynelpc.com/training/varenicline-pgd-newcl/)
+## NRT Supply
+
+NRT service specification
+
+NRT signup form
+
+## Stop Smoking Patient Registration and NRT Supply
+
+How to register a patient for treatment and supply NRT. A similar principle applies to Varenicline.
+
+{{< youtube 366z4ImGNhk >}}
+
+## Stop Smoking Behavioural Support Baseline Questionnaire
+
+{{< youtube 3YIEpSG6fwY >}}
+
+## Varenicline Supply
+
+Varenicline [service specification](/files/Newcl-Varenicline-Service-Spec.pdf).
+
+Varenicline [signup form](/files/Newcl-Varenicline-Signup.pdf).
+
+Pharmacists must complete the online [Varenicline PGD Training](https://www.northoftynelpc.com/training/varenicline-pgd-newcl/) before delivering this service.
+
+## Voucher Pharmacies List
+
+This is the [list of pharmacies](/files/Newcl-Voucher-Pharmacies.pdf) fulfilling NRT supply vouchers.
 
 # North Tyneside
 
