@@ -1,10 +1,10 @@
 ---
 date: 2017-08-21T19:00:00
-description: "Markdown Cheat"
-title: "Markdown Cheat and Style Viewer"
+description: 'Markdown Cheat'
+title: 'Markdown Cheat and Style Viewer'
 contact: 'stephenblackman'
-categories: ["Training"]
-tags: ["Markdown"]
+categories: ['Training']
+tags: ['Markdown']
 ---
 
 # Heading 1
