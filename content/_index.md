@@ -58,7 +58,7 @@ sections:
     color_classes: bg-primary-color-light black
     image: /images/M-Maquire-1.JPG
     copy: >-
-      The North of Tyne Community Pharmacy Awards were a great success with some amazing people being recognised for the work they do and a very interesting presentation on how to improve pharmacy income.    
+      The North of Tyne Community Pharmacy Awards were a great success with some amazing people being recognised for the work they do and a very interesting presentation on how to improve pharmacy income.     
 
 published: true
 ---
