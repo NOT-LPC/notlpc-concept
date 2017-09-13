@@ -53,8 +53,7 @@ events:
 sections:
   - heading: Community Pharmacy Awards
     cta: Results and images here
-    link: >-
-      https://github.com/NOT-LPC/notlpc-concept/blob/master/content/events/20170906-awards.md
+    link: '/events/20170906-awards'
     color_classes: bg-primary-color-light black
     image: /images/M-Maquire-1.JPG
     copy: >-
