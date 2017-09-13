@@ -52,17 +52,13 @@ events:
 
 sections:
   - heading: Community Pharmacy Awards
-    cta: Further information here
+    cta: Results and images here
     link: >-
-      https://gallery.mailchimp.com/310b8c606711c91df50f7527c/files/da79b5c5-7750-4f3c-b42d-d55a8a7626c9/LPC_Awards_Rev_17_07_A.pdf
+      https://github.com/NOT-LPC/notlpc-concept/blob/master/content/events/20170906-awards.md
     color_classes: bg-primary-color-light black
-    image: https://gallery.mailchimp.com/310b8c606711c91df50f7527c/images/3b4a03e8-e47f-4b85-b196-13493dc3aa44.jpg
+    image: https://github.com/NOT-LPC/notlpc-concept/blob/master/static/images/M-Maquire-1.JPG
     copy: >-
-      Our 2017 Awards event is to recognise the excellent contribution to patient care, public health and community involvement that
-      community pharmacies in the North of Tyne area provide.  We will be presenting awards across six categories giving
-      opportunity for everyone in the pharmacy team to be recognised.
-      All NHS community pharmacies in the North of Tyne LPC region are eligible to enter the awards.
-      The deadline for submission is 18th August 2017.    
+      The North of Tyne Community Pharmacy Awards were a great success with some amazing people being recognised for the work they do and a very interesting presentation on how to improve pharmacy income.    
 
 published: true
 ---
