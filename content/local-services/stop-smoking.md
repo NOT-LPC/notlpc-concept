@@ -63,14 +63,16 @@ This is the [list of Newcastle pharmacies](/files/Newcl-Voucher-Pharmacies.pdf) 
 North Tyneside Council require all providers to deliver the full range of services including Varenicline supply 
 and so there is only one combined Stop Smoking Service Specification  
 
-All pahrmacies delivering the service should have received training from David Fellows, North Tyneside Council,
-david.fellows@northtyneside.gov.uk, [T | 0191 643 5323]((Tel:01916435323), [M | 07954 160577]((Tel:07954160577)
+All pharmacies delivering the service should have received training from David Fellows, North Tyneside Council, 
+[david.fellows@northtyneside.gov.uk](Mailto:david.fellows@northtyneside.gov.uk), 
+[T | 0191 643 5323](Tel:01916435323), [M | 07954 160577](Tel:07954160577)  
 
 ## Varenicline Supply
 
 Please download, review and retain the [Varenicline PGD](/files/Newcl-Varenicline-PGD.pdf)  
 
-Training is provided by David Fellows, North Tyneside Council, david.fellows@northtyneside.gov.uk,
-[T | 0191 643 5323]((Tel:01916435323), [M | 07954 160577]((Tel:07954160577)  
+Training is provided by David Fellows, North Tyneside Council, 
+[david.fellows@northtyneside.gov.uk](Mailto:david.fellows@northtyneside.gov.uk), 
+[T | 0191 643 5323](Tel:01916435323), [M | 07954 160577](Tel:07954160577)  
 
 There is no online training.
