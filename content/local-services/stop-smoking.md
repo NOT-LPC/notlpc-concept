@@ -5,7 +5,7 @@ description: 'On this page you will find details of the stop smoking services co
 
 date: 2017-08-23
 publishdate: 2017-08-23
-lastmod: 2017-08-23
+lastmod: 2017-09-14
 
 categories: ['Local-Services', 'Support', 'Videos', 'Training', 'PGDs']
 tags: ['Smoking', 'NRT', 'Varenicline']
@@ -46,9 +46,9 @@ How to register a patient for treatment and supply NRT. A similar principle appl
 
 ## Varenicline Supply
 
-[Varenicline service specification](/files/Newcl-Varenicline-Service-Spec.pdf).
+[Varenicline service specification](/files/Newcl-Varenicline-Service-Spec.pdf)  
 
-[Varenicline signup form](/files/Newcl-Varenicline-Signup.pdf).
+[Varenicline signup form](/files/Newcl-Varenicline-Signup.pdf)  
 
 Pharmacists must complete the online [Varenicline PGD Training](https://www.northoftynelpc.com/training/varenicline-pgd-newcl/) before delivering this service.
 
@@ -61,18 +61,26 @@ This is the [list of Newcastle pharmacies](/files/Newcl-Voucher-Pharmacies.pdf) 
 ## Service Specification
 
 North Tyneside Council require all providers to deliver the full range of services including Varenicline supply 
-and so there is only one combined Stop Smoking Service Specification  
+and so there is only one combined Stop Smoking Service Specification.  
 
 All pharmacies delivering the service should have received training from David Fellows, North Tyneside Council, 
 [david.fellows@northtyneside.gov.uk](Mailto:david.fellows@northtyneside.gov.uk), 
-[T | 0191 643 5323](Tel:01916435323), [M | 07954 160577](Tel:07954160577)  
+[T | 0191 643 5323](Tel:01916435323), [M | 07954 160577](Tel:07954160577).  
+
+[Stop Smoking Medicines Protocol](/NT-NRT-Medicine-Protocol.pdf)
 
 ## Varenicline Supply
 
-Please download, review and retain the [Varenicline PGD](/files/Newcl-Varenicline-PGD.pdf)  
+Please download, review and retain the [Varenicline PGD](/files/Newcl-Varenicline-PGD.pdf).  
 
 Training is provided by David Fellows, North Tyneside Council, 
 [david.fellows@northtyneside.gov.uk](Mailto:david.fellows@northtyneside.gov.uk), 
-[T | 0191 643 5323](Tel:01916435323), [M | 07954 160577](Tel:07954160577)  
+[T | 0191 643 5323](Tel:01916435323), [M | 07954 160577](Tel:07954160577).  
+
+[Varenicline Assessmernt Form](/files/NT-Varenicline-Assessment-Form.pdf)  
 
 There is no online training.
+
+## Voucher Pharmacies List
+
+This is the [list of North Tyneside pharmacies](/files/NT-Voucher-Pharmacies.pdf) fulfilling NRT supply vouchers.
