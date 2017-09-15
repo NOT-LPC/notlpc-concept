@@ -28,33 +28,33 @@ North of Tyne LPC does not support the Northumberland Stop Smoking Pharmacy Dire
 
 # Newcastle
 
-## NRT Supply
+### NRT Supply
 
 [NRT service specification](/files/Newcl-NRT-Service-Spec.pdf)
 
 [NRT signup form](/files/Newcl-NRT-Signup.docx)
 
-## Equipment Consumables
+### Equipment Consumables
 
 Newcastle Stop Smoking Service supply a starter kit with CO monitors.  Pharmacies are responsible 
 for purchasing additional consumables using the remuneration from delivering the service.  To order 
 items contact [Intermedical Customer Services T | 01732522444](Tel:01732522444).  
 
-For online ordering enquiries email [Sarah Howarth](Mailto:sarah@intermedical.co.uk) or [Joanna Finn](joanna@intermedical.co.uk).  
+For online ordering enquiries email [Sarah Howarth](Mailto:sarah@intermedical.co.uk) or [Joanna Finn](Mailto:joanna@intermedical.co.uk).  
 
 Further information is available in [this document](/files/Newcl-CO-Monitor-Consumables-Ordering.doc).
 
-## Stop Smoking Patient Registration and NRT Supply
+### Stop Smoking Patient Registration and NRT Supply
 
 How to register a patient for treatment and supply NRT. A similar principle applies to Varenicline.
 
 {{< youtube 366z4ImGNhk >}}
 
-## Stop Smoking Behavioural Support Baseline Questionnaire
+### Stop Smoking Behavioural Support Baseline Questionnaire
 
 {{< youtube 3YIEpSG6fwY >}}
 
-## Varenicline Supply
+### Varenicline Supply
 
 [Varenicline service specification](/files/Newcl-Varenicline-Service-Spec.pdf)  
 
@@ -62,16 +62,16 @@ How to register a patient for treatment and supply NRT. A similar principle appl
 
 Pharmacists must complete the online [Varenicline PGD Training](https://www.northoftynelpc.com/training/varenicline-pgd-newcl/) before delivering this service.
 
-## Voucher Pharmacies List
+### Voucher Pharmacies List
 
 This is the [list of Newcastle pharmacies](/files/Newcl-Voucher-Pharmacies.pdf) fulfilling NRT supply vouchers.
 
 # North Tyneside
 
-## Service Specification
+### Service Specification
 
 North Tyneside Council require all providers to deliver the full range of services including Varenicline supply 
-and so there is only one combined Stop Smoking Service Specification.  
+and so there is only one combined [Stop Smoking Service Specification](/files/NT-Stop-Smoking-Service-Spec.pdf).  
 
 All pharmacies delivering the service should have received training from David Fellows, North Tyneside Council, 
 [david.fellows@northtyneside.gov.uk](Mailto:david.fellows@northtyneside.gov.uk), 
@@ -79,7 +79,7 @@ All pharmacies delivering the service should have received training from David F
 
 [Stop Smoking Medicines Protocol](/NT-NRT-Medicine-Protocol.pdf)
 
-## Varenicline Supply
+### Varenicline Supply
 
 Please download, review and retain the [Varenicline PGD](/files/Newcl-Varenicline-PGD.pdf).  
 
@@ -91,6 +91,6 @@ Training is provided by David Fellows, North Tyneside Council,
 
 There is no online training.
 
-## Voucher Pharmacies List
+### Voucher Pharmacies List
 
 This is the [list of North Tyneside pharmacies](/files/NT-Voucher-Pharmacies.pdf) fulfilling NRT supply vouchers.
