@@ -34,6 +34,16 @@ North of Tyne LPC does not support the Northumberland Stop Smoking Pharmacy Dire
 
 [NRT signup form](/files/Newcl-NRT-Signup.docx)
 
+## Equipment Consumables
+
+Newcastle Stop Smoking Service supply a starter kit with CO monitors.  Pharmacies are responsible 
+for purchasing additional consumables using the remuneration from delivering the service.  To order 
+items contact [Intermedical Customer Services T | 01732522444](Tel:01732522444).  
+
+For online ordering enquiries email [Sarah Howarth](Mailto:sarah@intermedical.co.uk) or [Joanna Finn](joanna@intermedical.co.uk).  
+
+Further information is available in [this document](/files/Newcl-CO-Monitor-Consumables-Ordering.doc).
+
 ## Stop Smoking Patient Registration and NRT Supply
 
 How to register a patient for treatment and supply NRT. A similar principle applies to Varenicline.
