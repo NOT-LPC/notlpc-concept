@@ -104,6 +104,12 @@ North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 
       </thead>
       <tbody class="lh-copy">
         <tr class="stripe-dark">
+          <td class="pa3">Gary Dobinson</td>
+          <td class="pa3">Mills Pharmacy</td>
+          <td class="pa3">Independent</td>
+          <td class="pa3">[gary.dobinson@northoftynelpc.com](mailto:gary.dobinson@northoftynelpc.com)</td>
+        </tr>
+        <tr class="stripe-dark">
           <td class="pa3">Chris Dodd</td>
           <td class="pa3">Gill & Schofield</td>
           <td class="pa3">Independent</td>
@@ -126,13 +132,7 @@ North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 
           <td class="pa3">Wellway Pharmacy</td>
           <td class="pa3">Independent</td>
           <td class="pa3">[sharon.williams@northoftynelpc.com](mailto:sharon.williams@northoftynelpc.com)</td>
-        </tr>    
-        <tr class="stripe-dark">
-          <td class="pa3">Vacancy</td>
-          <td class="pa3"> </td>
-          <td class="pa3">Independent</td>
-          <td class="pa3"> </td>
-        </tr>
+        </tr>       
       </tbody>
     </table>
   </div>
