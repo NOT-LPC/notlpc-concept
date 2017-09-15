@@ -1,7 +1,7 @@
 ---
 title: Essential Resources
 linktitle: Resources
-description: Ea eiusmod excepteur irure esse velit. Cillum ad esse reprehenderit elit ipsum labore sunt cupidatat exercitation sit. Anim eiusmod esse in laborum culpa eu nulla sit cillum ullamco. In tempor labore tempor ex aliquip culpa labore occaecat exercitation adipisicing cillum ea.
+description: Designed as a quick link to the most important resources required by pharmacies.
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
@@ -17,6 +17,8 @@ toc: false
 layout: resources-home
 ---
 
-Designed as a one click entry to the entire tree of content. Each box below is here because the content is tagged with "fundamental".
+Quick links to information on services, the pharmacy contractual framework, training, support and other important resources of benefit to community pharmacies.  
 
-Simply add or remove the fundamental tag to an item of content to change the box list below.
+Further respources are available on the [PSNC website](http://psnc.org.uk/) and we have linked to that where relevant.  
+
+If you feel there are any ommissions or errors please [contact us](/contact/) with your suggestions and we will do our best to update and improve these resources.
