@@ -17,8 +17,9 @@ toc: false
 layout: resources-home
 ---
 
-Quick links to information on services, the pharmacy contractual framework, training, support and other important resources of benefit to community pharmacies.  
+Quick links to information on local and national services; the pharmacy contractual framework; pharmacy IT; training and support; and, other important resources of benefit to community pharmacies.  
 
-Further respources are available on the [PSNC website](http://psnc.org.uk/) and we have linked to that where relevant.  
+Further resources are available on the [PSNC website](http://psnc.org.uk/) and we have linked to that where relevant. 
+Use the quicklink in our menu bar to access their website.
 
 If you feel there are any ommissions or errors please [contact us](/contact/) with your suggestions and we will do our best to update and improve these resources.
