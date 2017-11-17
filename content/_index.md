@@ -51,13 +51,13 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: Community Pharmacy Awards
-    cta: Results and images here
-    link: '/events/20170906-awards'
+  - heading: Community Pharmacy Referral Service
+    cta: Further Information
+    link: 'http://www.nhsbsa.nhs.uk/CPRSnortheast'
     color_classes: bg-primary-color-light black
     image: /images/M-Maquire-1.JPG
     copy: >-
-      The North of Tyne Community Pharmacy Awards were a great success with some amazing people being recognised for the work they do and a very interesting presentation on how to improve pharmacy income.     
+      North of Tyne LPC is delighted that CPRS is now available for signup via the NHSBSA website.  We hope that all pharmacy contractors will consider supporting this service that will reduce the burden on urgent and emergency care services for patients requiring low acuity advice and treatment.     
 
 published: true
 ---
