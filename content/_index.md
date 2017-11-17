@@ -57,7 +57,7 @@ sections:
     color_classes: bg-primary-color-light black
     image: /images/M-Maquire-1.JPG
     copy: >-
-      North of Tyne LPC is delighted that CPRS is now available for signup via the NHSBSA website.  We hope that all pharmacy contractors will consider supporting this service that will reduce the burden on urgent and emergency care services for patients requiring low acuity advice and treatment.     
+      North of Tyne LPC is delighted that CPRS is now available for (signup via the NHSBSA website)[http://www.nhsbsa.nhs.uk/CPRSnortheast].  We hope that all pharmacy contractors will consider supporting this service that will reduce the burden on urgent and emergency care services for patients requiring low acuity advice and treatment.     
 
 published: true
 ---
