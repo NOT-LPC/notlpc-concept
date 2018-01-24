@@ -51,13 +51,15 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: Community Pharmacy Referral Service
-    cta: Further Information
-    link: 'http://www.nhsbsa.nhs.uk/CPRSnortheast'
+  - heading: North of Tyne LPC Elections
+    cta: Vote Online
+    link: 'https://www.surveymonkey.co.uk/r/7M8VZSC'
     color_classes: bg-primary-color-light black
     image: /images/CPRS-launch.jpg
     copy: >-
-      North of Tyne LPC is delighted that CPRS is now available for sign up via the NHSBSA website.  We hope that all pharmacy contractors will consider supporting this service that will reduce the burden on urgent and emergency care services for patients requiring low acuity advice and treatment.     
+      Following our request for nominations for places on the North of Tyne Local Pharmaceutical Committee (LPC), there were 8 nominations for the 5 places available and consequently, there is an election to decide which of the [8 candidates] (/files/Candidate%20Statements%20NOT%20LPC%20Elections%202018.pdf) will be appointed to the committee.  
+
+Voting is being being conducted electronically and pharmacy contractors who are not CCA or AIMp members can now vote online.     
 
 published: true
 ---
