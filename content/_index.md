@@ -58,6 +58,7 @@ sections:
     image: /images/IMG0452.JPG
     copy: >-
       Following our request for nominations for places on the North of Tyne Local Pharmaceutical Committee (LPC), there were 8 nominations for the 5 places available and consequently, there is an election to decide which of the 8 candidates will be appointed to the committee.  
+      
       Voting is being being conducted electronically and pharmacy contractors who are not CCA or AIMp members can now vote online.     
 
 published: true
