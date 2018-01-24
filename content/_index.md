@@ -55,7 +55,7 @@ sections:
     cta: Vote Online
     link: 'https://www.surveymonkey.co.uk/r/7M8VZSC'
     color_classes: bg-primary-color-light black
-    image: /images/CPRS-launch.jpg
+    image: /images/Writing_paperwork.jpg
     copy: >-
       Following our request for nominations for places on the North of Tyne Local Pharmaceutical Committee (LPC), there were 8 nominations for the 5 places available and consequently, there is an election to decide which of the [8 candidates] (/files/Candidate%20Statements%20NOT%20LPC%20Elections%202018.pdf) will be appointed to the committee.  
 
