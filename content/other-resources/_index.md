@@ -17,6 +17,6 @@ aliases: [/other-resources/]
 toc: false
 ---
 
-Text goes here.
+# Other Resources
 
 
