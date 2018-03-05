@@ -17,4 +17,4 @@ aliases: []
 toc: false
 ---
 
-Training intro text goes here.
+# Training & Support
