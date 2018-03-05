@@ -51,15 +51,15 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: North of Tyne LPC Elections
-    cta: Vote Online
-    link: 'https://www.surveymonkey.co.uk/r/7M8VZSC'
+  - heading: Practice Leaflets
+    cta: Read More
+    link: 'http://psnc.org.uk/our-news/updated-pharmacy-practice-leaflet-requirements-published/'
     color_classes: bg-primary-color-light black
-    image: /images/IMG0452.JPG
+    image: 'http://psnc.org.uk/wp-content/uploads/2014/01/Inside-pharmacy-slide.jpg'
     copy: >-
-      Following our request for nominations for places on the North of Tyne Local Pharmaceutical Committee (LPC), there were 8 nominations for the 5 places available and consequently, there is an election to decide which of the 8 candidates will be appointed to the committee.  
+      Pharmacy practice leaflet changes to take effect on 31st July 2018  
       
-      Voting is being being conducted electronically and pharmacy contractors who are not CCA or AIMp members can now vote online.     
+      Updated PSNC template now available     
 
 published: true
 ---
