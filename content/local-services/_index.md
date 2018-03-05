@@ -5,7 +5,7 @@ description: Local Pharmacy Contracts & Services
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
-categories: ['Local-Services', 'TPF', 'EHC', 'Stop-Smoking']
+categories: ['Local-Services']
 tags: ['Resources']
 menu:
   docs:
@@ -17,4 +17,4 @@ aliases: []
 toc: false
 ---
 
- Range of services intro text goes here
+ The following local pharmacy services are commissioned in our area:
