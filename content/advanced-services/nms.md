@@ -19,9 +19,4 @@ aliases: []
 toc: false
 ---
 
-Labore excepteur tempor eu do adipisicing consequat esse cupidatat amet eiusmod nisi exercitation nulla ad. Officia esse ipsum minim non ea ipsum et et. Fugiat sit magna elit anim magna dolor id mollit.
-
-Deserunt voluptate tempor deserunt id esse mollit mollit excepteur enim non. Laboris proident aliquip cupidatat voluptate id quis fugiat. Nostrud dolore voluptate velit irure labore dolore aliqua voluptate mollit velit.
-
-Ipsum consectetur id laboris nostrud enim ipsum laborum elit qui Lorem.
-
+# (NMS) New Medicine Service
