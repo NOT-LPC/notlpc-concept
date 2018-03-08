@@ -55,7 +55,7 @@ sections:
     cta: 'Resource Centre'
     link: 'https://campaignresources.phe.gov.uk/resources/campaigns/73-stay-well-pharmacy/resources'
     color_classes: bg-primary-color-light black
-    image: 'https://www.youtube.com/watch?v=9byXxn6C4aY'
+    image: '/images/NHS_Branded_MPU%20(3).jpg'
     copy: >-
       
       Download and/or order materials free of charge through our Campaign Resource Centre  
