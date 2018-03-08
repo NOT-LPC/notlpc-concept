@@ -51,15 +51,14 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: Practice Leaflets
-    cta: Read More
-    link: 'http://psnc.org.uk/our-news/updated-pharmacy-practice-leaflet-requirements-published/'
+  - heading: Stay Well Pharmacy Campaign
+    cta: 'Resource Centre'
+    link: 'https://campaignresources.phe.gov.uk/resources/campaigns/73-stay-well-pharmacy/resources'
     color_classes: bg-primary-color-light black
-    image: 'http://psnc.org.uk/wp-content/uploads/2014/01/Inside-pharmacy-slide.jpg'
+    image: 'https://www.youtube.com/watch?v=9byXxn6C4aY'
     copy: >-
-      Pharmacy practice leaflet changes to take effect on 31st July 2018  
       
-      Updated PSNC template now available     
+      Download and/or order materials free of charge through our Campaign Resource Centre  
 
 published: true
 ---
