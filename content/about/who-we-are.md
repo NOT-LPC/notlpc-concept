@@ -3,11 +3,11 @@ title: Who we are
 linktitle: Who we are
 description: North of Tyne Local Pharmaceutical Committee (LPC) is the statutory organisation which represents all community pharmacies in Northumberland, Newcastle and North Tyneside.
 
-date: 2017-09-15
-publishdate: 2017-09-15
-lastmod: 2017-09-15
+date: 2018-05-01
+publishdate: 2018-05-01
+lastmod: 2018-05-01
 categories: ['about']
-tags: [about]
+tags: ['Committee']
 menu:
   about:
     parent: "about"
@@ -19,9 +19,7 @@ aliases: []
 toc: false
 ---
 
-North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 167 of the NHS Act 2006, as the statutory body representing the community pharmacies in Northumberland, Newcastle and North Tyneside.
-
-
+North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 167 of the NHS Act 2006, as the statutory body representing the community pharmacies in Northumberland, Newcastle and North Tyneside.  
 
 ## LPC Members
 
@@ -45,6 +43,12 @@ North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 
           <td class="pa3">[debbie.baird-palmer@northoftynelpc.com](mailto:debbie.baird-palmer@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
+          <td class="pa3">Russell Buglass</td>
+          <td class="pa3">Rowlands</td>
+          <td class="pa3">CCA</td>
+          <td class="pa3">[russell.buglass@northoftynelpc.com](mailto:russell.buglass@northoftynelpc.com)</td>
+        </tr>
+        <tr class="stripe-dark">
           <td class="pa3">Simon Clark</td>
           <td class="pa3">Tesco</td>
           <td class="pa3">CCA</td>
@@ -57,10 +61,16 @@ North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 
           <td class="pa3">[amanda.lertoria@northoftynelpc.com](mailto:amanda.lertoria@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Hannah Lubbeke</td>
+          <td class="pa3">Hannah Lubbeke-Brown</td>
           <td class="pa3">Well</td>
           <td class="pa3">CCA</td>
           <td class="pa3">[hannah.lubbeke@northoftynelpc.com](mailto:hannah.lubbeke@northoftynelpc.com)</td>
+        </tr>
+        <tr class="stripe-dark">
+          <td class="pa3">Hugh McKendrick</td>
+          <td class="pa3">Boots</td>
+          <td class="pa3">CCA</td>
+          <td class="pa3">[hugh.mckendrick@northoftynelpc.com](mailto:hugh.mckendrick@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
           <td class="pa3">Geraint Morris</td>
@@ -69,22 +79,10 @@ North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 
           <td class="pa3">[geraint.morris@northoftynelpc.com](mailto:geraint.morris@northoftynelpc.com)</td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">David Pearse</td>
-          <td class="pa3">Boots</td>
-          <td class="pa3">CCA</td>
-          <td class="pa3">[david.pearse@northoftynelpc.com](mailto:david.pearse@northoftynelpc.com)</td>
-        </tr>
-        <tr class="stripe-dark">
           <td class="pa3">Farhaan Qureshi (Bobby)</td>
           <td class="pa3">Lloyds</td>
           <td class="pa3">CCA</td>
           <td class="pa3">[farhaan.qureshi@northoftynelpc.com](mailto:farhaan.qureshi@northoftynelpc.com)</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">Nisha Sehgal</td>
-          <td class="pa3">Boots</td>
-          <td class="pa3">CCA</td>
-          <td class="pa3">[nisha.sehgal@northoftynelpc.com](mailto:nisha.sehgal@northoftynelpc.com)</td>
         </tr>
       </tbody>
     </table>
