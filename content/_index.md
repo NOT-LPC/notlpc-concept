@@ -51,14 +51,15 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: Stay Well Pharmacy Campaign
-    cta: 'Resource Centre'
-    link: 'https://campaignresources.phe.gov.uk/resources/campaigns/73-stay-well-pharmacy/resources'
+  - heading: North of Tyne Community Pharmacy Awards 2018
+    cta: 'Information Pack'
+    link: 'https://mailchi.mp/b1e34b682a95/north-of-tyne-community-pharmacy-news-3312629'
     color_classes: bg-primary-color-light black
-    image: '/images/NHS_Branded_MPU%20(3).jpg'
+    image: '/images/Tech-ACT-2.JPG'
     copy: >-
       
-      Download and/or order materials free of charge through the Campaign Resource Centre  
+      All NHS community pharmacies in the North of Tyne LPC region are eligible to enter the awards. 
+      For more details or to submit a nomination, please read our newsletter and download the information pack  
 
 published: true
 ---
