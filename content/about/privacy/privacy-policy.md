@@ -1,6 +1,6 @@
 ---
-title: Terms of use
-linktitle: Terms of use
+title: Privacy policy
+linktitle: Privacy policy
 description: North of Tyne Local Pharmaceutical Committee (LPC) is the statutory organisation which represents all community pharmacies in Northumberland, Newcastle and North Tyneside.
 
 date: 2018-05-01
@@ -10,10 +10,10 @@ categories: ['about']
 tags: ['Committee']
 menu:
   about:
-    parent: "about"
-    weight: 30
-weight: 30
-sections_weight: 30
+    parent: "privacy"
+    weight: 10
+weight: 10
+sections_weight: 10
 draft: false
 aliases: []
 toc: false
