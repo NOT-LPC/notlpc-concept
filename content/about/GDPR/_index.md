@@ -8,10 +8,10 @@ lastmod: 2018-07-07
 categories: ['about']
 tags: ['GDPR']
 menu:
-  about:
+  GDPR:
     parent: "About"
-    weight: 2
-weight: 2
+    weight: 20
+weight: 20
 draft: false
 aliases: [/gdpr/]
 toc: false
