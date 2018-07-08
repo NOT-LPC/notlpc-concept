@@ -32,5 +32,5 @@ If you want to know more, please refer to the cookie policy below.
 ### Newsletter Cookie Policy
 
 We use [MailChimp](http://mailchimp.com) to serve our newsletters and store contact details. We believe this is the most efficient 
-and secure method. Readers should refer to the [MailChimp Cookie Policy}(https://mailchimp.com/legal/cookies/). 
+and secure method. Readers should refer to the [MailChimp Cookie Policy](https://mailchimp.com/legal/cookies/).  
 Readers may unsubscribe at any time by clicking the link in the footer of every newsletter.
