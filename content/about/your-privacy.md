@@ -23,7 +23,7 @@ North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 
 
 ## [Privacy Policy](/about/privacy/privacy-policy/)
 
-## [Terms of Use](//privacy/terms-of-use/)
+## [Terms of Use](/about/privacy/terms-of-use/)
 
-## [Cookie Policy](///privacy/cookie-policy/)
+## [Cookie Policy](/about/privacy/cookie-policy/)
 
