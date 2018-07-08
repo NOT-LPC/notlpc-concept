@@ -21,9 +21,9 @@ toc: false
 
 North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 167 of the NHS Act 2006, as the statutory body representing the community pharmacies in Northumberland, Newcastle and North Tyneside.  
 
-## [Privacy Policy](/privacy/privacy-policy/)
+## [Privacy Policy](/about/privacy/privacy-policy/)
 
-### [Terms of Use](/privacy/terms-of-use/)
+## [Terms of Use](//privacy/terms-of-use/)
 
-## [Cookie Policy](/privacy/cookie-policy/)
+## [Cookie Policy](///privacy/cookie-policy/)
 
