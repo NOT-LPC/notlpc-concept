@@ -8,7 +8,7 @@ lastmod: 2017-02-01
 categories: ['about']
 tags: ['Committee']
 menu:
-  about:
+  communications:
     parent: "about"
     weight: 1
 weight: 1
