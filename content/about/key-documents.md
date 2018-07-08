@@ -1,6 +1,6 @@
 ---
-title: Who we are
-linktitle: Who we are
+title: Key documents
+linktitle: Key documents
 description: North of Tyne Local Pharmaceutical Committee (LPC) is the statutory organisation which represents all community pharmacies in Northumberland, Newcastle and North Tyneside.
 
 date: 2018-05-01
