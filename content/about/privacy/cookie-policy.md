@@ -1,9 +1,7 @@
 ---
 title: Cookie policy
 linktitle: Cookie policy
-description: This website and its third-party tools use cookies which are essential to its functioning and are required to achieve 
-the purposes outlined in our cookie policy. By closing our cookie banner, scrolling webpages, clicking a link or continuing to browse 
-you agree to the use of cookies.
+description: This website and its third-party tools use cookies which are essential to its functioning and are required to achieve the purposes outlined in our cookie policy. By closing our cookie banner, scrolling webpages, clicking a link or continuing to browse you agree to the use of cookies.
 
 date: 2018-05-01
 publishdate: 2018-05-01
