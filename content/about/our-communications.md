@@ -11,9 +11,9 @@ tags: ['Committee']
 menu:
   about:
     parent: "about"
-    weight: 30
-weight: 30
-sections_weight: 30
+    weight: 50
+weight: 50
+sections_weight: 50
 draft: false
 aliases: []
 toc: false

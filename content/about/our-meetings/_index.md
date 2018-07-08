@@ -10,8 +10,8 @@ tags: ['Committee']
 menu:
   meetings:
     parent: "about"
-    weight: 1
-weight: 1
+    weight: 10
+weight: 10
 draft: false
 aliases: [/meetings/]
 toc: false

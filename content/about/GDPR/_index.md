@@ -9,9 +9,9 @@ categories: ['about']
 tags: ['GDPR']
 menu:
   GDPR:
-    parent: "About"
-    weight: 20
-weight: 20
+    parent: "about"
+    weight: 40
+weight: 40
 draft: false
 aliases: [/gdpr/]
 toc: false

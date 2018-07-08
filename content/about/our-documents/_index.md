@@ -10,8 +10,8 @@ tags: ['Committee']
 menu:
   documents:
     parent: "about"
-    weight: 1
-weight: 1
+    weight: 20
+weight: 20
 draft: false
 aliases: [/documents/]
 toc: false

@@ -10,8 +10,8 @@ tags: ['Committee']
 menu:
   communications:
     parent: "about"
-    weight: 1
-weight: 1
+    weight: 30
+weight: 30
 draft: false
 aliases: [/communications/]
 toc: false
