@@ -1,7 +1,7 @@
 ---
-title: 'Stop Smoking'
-linktitle: 'Stop Smoking Services'
-description: 'On this page you will find details of the stop smoking services commissioned in our region'
+title: 'Specialuist Drugs'
+linktitle: 'Specialuist Drugs Services'
+description: 'On this page you will find details of the specialuist drugs services commissioned in our region.'
 
 date: 2018-09-07
 publishdate: 2018-09-07

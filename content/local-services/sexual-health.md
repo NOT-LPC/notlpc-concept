@@ -1,14 +1,14 @@
 ---
-title: 'Stop Smoking'
-linktitle: 'Stop Smoking Services'
-description: 'On this page you will find details of the stop smoking services commissioned in our region'
+title: 'Sexual Health'
+linktitle: 'Sexual Health Services'
+description: 'On this page you will find details of the sexual health services commissioned in our region.'
 
 date: 2018-09-07
 publishdate: 2018-09-07
 lastmod: 2018-09-07
 
 categories: ['Local-Services', 'Support', 'Videos', 'Training', 'PGDs']
-tags: ['Smoking', 'NRT', 'Varenicline']
+tags: ['Sexual-Health', 'EHC', 'Contraception']
 
 menu:
   docs:

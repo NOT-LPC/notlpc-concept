@@ -1,7 +1,7 @@
 ---
-title: 'Stop Smoking'
-linktitle: 'Stop Smoking Services'
-description: 'On this page you will find details of the stop smoking services commissioned in our region'
+title: 'Minor Ailments'
+linktitle: 'Minor Ailment Services'
+description: 'On this page you will find details of the minor ailment services commissioned in our region.'
 
 date: 2018-09-07
 publishdate: 2018-09-07
