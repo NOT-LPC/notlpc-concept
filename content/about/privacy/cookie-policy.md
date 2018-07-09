@@ -7,10 +7,10 @@ date: 2018-07-09
 publishdate: 2018-07-09
 lastmod: 2018-07-09
 categories: ['about']
-tags: ['Committee']
+tags: ['Privacy','Cookies']
 menu:
   about:
-    parent: "privacy"
+    parent: "about"
     weight: 30
 weight: 30
 sections_weight: 30

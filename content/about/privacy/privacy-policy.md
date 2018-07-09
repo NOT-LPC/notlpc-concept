@@ -10,8 +10,8 @@ categories: ['about']
 tags: ['Committee']
 menu:
   about:
-    parent: "privacy"
-    weight: 10
+    parent: "about"
+    weight: 30
 weight: 10
 sections_weight: 10
 draft: false

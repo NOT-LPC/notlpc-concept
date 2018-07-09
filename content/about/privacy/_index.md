@@ -8,12 +8,12 @@ lastmod: 2018-07-07
 categories: ['about']
 tags: ['GDPR', 'Privacy']
 menu:
-  Privacy:
+  about:
     parent: "about"
     weight: 30
 weight: 40
 draft: false
-aliases: [/about/privacy/]
+aliases: [/privacy/]
 toc: false
 ---
 
