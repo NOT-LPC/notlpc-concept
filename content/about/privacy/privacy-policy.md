@@ -19,7 +19,7 @@ aliases: []
 toc: true
 ---
 
-### Privacy Policy
+# Privacy Policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.northoftynelpc.com/ (the “Site”).
 
@@ -91,7 +91,7 @@ For more information about our privacy practices, if you have questions, or if y
   Azure Business Centre, High Street, Newburn, NET, NE15 8LN, United Kingdom
 
 
-### Newsletter Privacy Policy
+# Newsletter Privacy Policy
 
 We use [MailChimp](http://mailchimp.com) to serve our newsletters and store contact details. We believe this is the most efficient 
 and secure method. Readers should refer to the [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/).  
