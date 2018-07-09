@@ -16,7 +16,7 @@ weight: 20
 sections_weight: 20
 draft: false
 aliases: []
-toc: true
+toc: false
 ---
 
 ## TERMS OF SERVICE
