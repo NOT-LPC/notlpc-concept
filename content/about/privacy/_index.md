@@ -1,6 +1,6 @@
 ---
-title: Your Privacy
-linktitle: Your Privacy
+title: Privacy
+linktitle: Privacy
 description: How we handle your data
 date: 2018-07-07
 publishdate: 2018-07-07
@@ -10,7 +10,7 @@ tags: ['GDPR', 'Privacy']
 menu:
   Privacy:
     parent: "about"
-    weight: 40
+    weight: 30
 weight: 40
 draft: false
 aliases: [/privacy/]
