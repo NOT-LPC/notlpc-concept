@@ -9,11 +9,11 @@ categories: ['about']
 tags: ['GDPR', 'Privacy']
 menu:
   about:
-    parent: "about"
+    parent: "privacy"
     weight: 30
 weight: 40
 draft: false
-aliases: [/privacy/]
+aliases: []
 toc: false
 ---
 

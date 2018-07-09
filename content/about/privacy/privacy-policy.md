@@ -16,7 +16,7 @@ weight: 10
 sections_weight: 10
 draft: false
 aliases: []
-toc: false
+toc: true
 ---
 
 ### Privacy Policy
