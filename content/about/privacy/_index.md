@@ -13,7 +13,7 @@ menu:
     weight: 30
 weight: 40
 draft: false
-aliases: []
+aliases: [/about/privacy/]
 toc: false
 ---
 
