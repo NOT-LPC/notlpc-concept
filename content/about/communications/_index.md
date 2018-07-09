@@ -2,18 +2,18 @@
 title: Communications
 linktitle: Communications
 description: Newsletters etc
-date: 2017-02-01
-publishdate: 2017-02-01
-lastmod: 2017-02-01
+date: 2018-07-09
+publishdate: 2018-07-09
+lastmod: 2018-07-09
 categories: ['about']
-tags: ['Committee']
+tags: ['Communications']
 menu:
-  communications:
-    parent: "about"
+  about:
+    parent: "communications"
     weight: 30
 weight: 30
 draft: false
-aliases: [/communications/]
+aliases: []
 toc: false
 ---
 
