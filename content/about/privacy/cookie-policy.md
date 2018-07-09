@@ -16,7 +16,7 @@ weight: 30
 sections_weight: 30
 draft: false
 aliases: []
-toc: false
+toc: true
 ---
 
 This website and its third-party tools use cookies which are essential to its functioning and are required to achieve 
