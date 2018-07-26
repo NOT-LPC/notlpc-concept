@@ -3,9 +3,9 @@ title: Newsletters
 linktitle: Newsletters
 description: We use MailChimp to publish regular newsletters.
 
-date: 2018-09-10
-publishdate: 2018-09-10
-lastmod: 2018-09-10
+date: 2018-08-01
+publishdate: 2018-08-01
+lastmod: 2018-08-01
 categories: ['about']
 tags: ['Meetings']
 menu:

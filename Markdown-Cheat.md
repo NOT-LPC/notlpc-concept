@@ -1,5 +1,5 @@
 ---
-date: 2018-09-10
+date: 2018-08-01
 description: 'Markdown Cheat'
 title: 'Markdown Cheat and Style Viewer'
 contact: 'stephenblackman'
