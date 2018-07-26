@@ -1,7 +1,7 @@
 ---
-title: Essential Resources
-linktitle: Resources
-description: Designed as a quick link to the most important resources required by pharmacies.
+title: 'Essential Resources'
+linktitle: 'Resources'
+description: 'Quick links to information'
 date: 2017-02-01
 publishdate: 2017-02-01
 lastmod: 2017-02-01
