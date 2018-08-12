@@ -51,15 +51,15 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: North of Tyne Community Pharmacy Awards 2018
-    cta: 'Information Pack'
-    link: 'https://mailchi.mp/b1e34b682a95/north-of-tyne-community-pharmacy-news-3312629'
+  - heading: North of Tyne AGM and Community Pharmacy Awards 2018
+    cta: 'Further Information'
+    link: 'https://www.northoftynelpc.com/events/20180905-agm/'
     color_classes: bg-primary-color-light black
-    image: '/images/Tech-ACT-2.JPG'
+    image: '/meetings/2018/Agenda-LPC-AGM-05-09-2018-Rev-18-08-A.png'
     copy: >-
       
-      All NHS community pharmacies in the North of Tyne LPC region are eligible to enter the awards. 
-      For more details or to submit a nomination, please read our newsletter and download the information pack  
+      North of Tyne LPC's AGM will take place on Wednesday 5th September 2018.  
+      The AGM will be followed by the North of Tyne Community Pharmacy Awards and a talk by Simon Dukes, CEO, PSNC.  
 
 published: true
 ---
