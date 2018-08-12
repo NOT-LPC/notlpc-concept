@@ -51,7 +51,7 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: North of Tyne AGM and Community Pharmacy Awards 2018
+  - heading: North of Tyne LPC AGM and Community Pharmacy Awards 2018
     cta: 'Further Information'
     link: 'https://www.northoftynelpc.com/events/20180905-agm/'
     color_classes: bg-primary-color-light black
