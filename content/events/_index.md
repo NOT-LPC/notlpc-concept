@@ -2,9 +2,9 @@
 title: 'Events'
 linktitle: 'Events'
 description: 'Local events and training opportunities'
-date: 2018-08-01
-publishdate: 2018-08-01
-lastmod: 2018-08-01
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
 tags: ['Events']
 categories: []
 weight: 1
@@ -17,7 +17,7 @@ North of Tyne LPC holds bi-monthly committee meetings and we we welcome visitors
 We also hold regular locality meetings for Healthy Living Champions and frequent training events for pharmacists and pharmacy teams.  
 
 If there is a particular type of event or training evening that you would like us to organise, 
-please email your suggestions to {lpc@northoftynelpc.com](mailto:lpc@northoftynelpc.com)  
+please email your suggestions to [lpc@northoftynelpc.com](mailto:lpc@northoftynelpc.com)  
 
 
 
