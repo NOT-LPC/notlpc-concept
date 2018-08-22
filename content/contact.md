@@ -1,11 +1,11 @@
 ---
 linktitle: ""
 description: ""
-date: 2017-10-17
-publishdate: 2017-10-17
-lastmod: 2017-10-17
-categories: ['Contact']
-tags: ['Contact']
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
+categories: ["Contact"]
+tags: ["Contact"]
 weight: 00
 slug: ""
 aliases: []
@@ -28,7 +28,7 @@ contacts:
 
 ---
 
-# North of Tyne Local Pharmaceutical Committee
+## North of Tyne Local Pharmaceutical Committee
 
 ## Azure Business Centre  |  High Street  |  Newburn  |  Tyne & Wear  | NE15 8LN  
 

@@ -2,9 +2,9 @@
 title: 'Essential Resources'
 linktitle: 'Resources'
 description: 'Quick links to information'
-date: 2017-02-01
-publishdate: 2017-02-01
-lastmod: 2017-02-01
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
 menu:
   main:
     parent: "section name"

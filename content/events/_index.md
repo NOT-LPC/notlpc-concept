@@ -1,12 +1,12 @@
 ---
-title: 'Events'
-linktitle: 'Events'
-description: 'Local events and training opportunities'
-date: '2018-09-01'
-publishdate: '2018-09-01'
-lastmod: '2018-09-01'
+title: "Events"
+linktitle: "Events"
+description: "Local events and training opportunities"
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
+categories: ["Events"]
 tags: []
-categories: []
 weight: 1
 draft: false
 aliases: []
@@ -14,7 +14,7 @@ toc: false
 ---
 
 North of Tyne Local Pharmaceutical Committee usually meets on the first Wednesday of Jan, Mar, May, Jul, Sep and Nov. 
-Community pharmacy contractors are welcome to observe our meetings. 
+Community pharmacy contractors are welcome to observe our [committee meetings](/about/meetings/lpc-meetings.html). 
 We also welcome representatives of our stakeholders to meet and present to the committee. 
 If you would like to attend a committee meeting, please email [lpc@northoftynelpc.com](mailto:lpc@northoftynelpc.com).  
 

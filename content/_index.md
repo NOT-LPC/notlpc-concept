@@ -1,41 +1,43 @@
 ---
-title: North of Tyne LPC
-date: 2017-07-04
+title: "North of Tyne LPC"
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
 features:
-  - heading: Local Services
-    url: '#'
+  - heading: "Local Services"
+    url: '/local-services/'
     image_path: /images/not-svg/local.svg
-    tagline: Locally Commissioned Services
+    tagline: "Locally Commissioned Services"
     copy: >-
       Information, service agreements, PGDs, etc. for services across
       Northumberland, Newcastle and North Tyneside.
-  - heading: Contractual Framework
-    url: '#'  
+  - heading: "Advanced Services"
+    url: '/advanced-services/'  
     image_path: /images/not-svg/advanced.svg
-    tagline: Nationally Commissioned Services
+    tagline: "Nationally Commissioned Advanced Services"
     copy: >-
-      Information on pharmacy funding, essential services, advanced services
-      market entry, quality payment scheme, NUMSAS, etc.
-  - heading: Training Resources
-    url: '#'
+      Information on nationally commissioned advanced services including flu, MUR, NMS and NUMSAS
+  - heading: "Contractual Framework"
+    url: '/pharmacy-contract/'
     image_path: /images/not-svg/documents.svg
-    tagline: Training Documents, Videos and Links
+    tagline: "Pharmacy Contract & IT"
     copy: >-
-      Training and educational resources for locally commissioned services as well as
-      enhanced and essential services under the national contractual framework
-  - heading: Support
-    url: '#'
+      Information on contractual matters including funding, market entry, regulations,
+      GDPR, EPS, eRD, NHSmail, Smartcards and FMD
+  - heading: "Training & Support"
+    url: '/training/'
     image_path: /images/not-svg/support.svg
-    tagline: Guidance and Advice
+    tagline: "Guidance & Advice for Pharmacy Contractors"
     copy: >-
-      The LPC aims to support all pharmacies in the delivery of the Community Pharmacy contractual framework
-      and the effective implementation of services
-  - heading: Events
-    url: '/events/'
+      The LPC aims to support all pharmacies in the delivery of the Community Pharmacy Contractual Framework
+      and the effective implementation of services and provides training guides, videos and links to support contractors
+  - heading: "Committee Information"
+    url: '/about/'
     image_path: /images/not-svg/events.svg
-    tagline: LPC Meetings and Local Events
+    tagline: "LPC Members & What We Do"
     copy: >-
-      Calendar of LPC meetings and training events as well as other local events of interest to community pharmacy
+      Information about the LPC including a list of members and officers, a calendar of LPC meetings, minutes of previous meetings, 
+      our constitution, our strategy & commisioning priorities, links to our newsletters and our GDPR policies
 
 events:
   - heading: Forthcoming Events
