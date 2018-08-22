@@ -5,7 +5,7 @@ description: "Local events and training opportunities"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01
-categories: ["Events"]
+categories: ["events"]
 tags: []
 weight: 1
 draft: false

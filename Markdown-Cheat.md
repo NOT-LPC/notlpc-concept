@@ -1,10 +1,10 @@
 ---
-date: '2018-09-01'
-description: 'Markdown Cheat'
-title: 'Markdown Cheat and Style Viewer'
-contact: 'stephenblackman'
-tags: ['Training']
-categories: ['Markdown']
+date: 2018-09-01
+description: "Markdown Cheat"
+title: "Markdown Cheat and Style Viewer'
+contact: "stephenblackman"
+tags: []
+categories: []
 ---
 
 # Heading 1

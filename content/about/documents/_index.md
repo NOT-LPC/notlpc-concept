@@ -5,11 +5,11 @@ description: "This page provides links to various LPC documents including our co
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01
-categories: ['About']
-tags: ['Documents']
+categories: ["about"]
+tags: ["documents"]
 menu:
  about:
-    parent: 'about'
+    parent: "about"
     weight: 2
     name: "Our Documents"
     identifier: "documents"
@@ -20,4 +20,4 @@ aliases: []
 toc: false
 ---
 
-Newsletters
+This page provides links to LPC documents including minutes of previous meetings, our constitution, strategy, commissioning priorities and newsletters

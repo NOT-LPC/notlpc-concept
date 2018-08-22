@@ -10,7 +10,7 @@ features:
     tagline: "Locally Commissioned Services"
     copy: >-
       Information, service agreements, PGDs, etc. for services across
-      Northumberland, Newcastle and North Tyneside.
+      Northumberland, Newcastle and North Tyneside
   - heading: "Advanced Services"
     url: '/advanced-services/'  
     image_path: /images/not-svg/advanced.svg
@@ -36,7 +36,7 @@ features:
     image_path: /images/not-svg/events.svg
     tagline: "LPC Members & What We Do"
     copy: >-
-      Information about the LPC including a list of members and officers, a calendar of LPC meetings, minutes of previous meetings, 
+      Information about the LPC including a list of members & officers, a calendar of LPC meetings, minutes of previous meetings, 
       our constitution, our strategy & commisioning priorities, links to our newsletters and our GDPR policies
 
 events:
