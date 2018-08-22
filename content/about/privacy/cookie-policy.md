@@ -9,7 +9,7 @@ lastmod: 2018-07-09
 categories: ['about']
 tags: ['Privacy','Cookies']
 menu:
-  about:
+  privacy:
     parent: "about"
     weight: 30
 weight: 30

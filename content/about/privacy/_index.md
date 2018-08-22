@@ -11,6 +11,9 @@ menu:
  about:
     parent: "about"
     weight: 2
+    name: "Your privacy"
+    identifier: "privacy"
+    url: "/about/privacy/"
 weight: 1
 draft: false
 aliases: []

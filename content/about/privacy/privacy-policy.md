@@ -8,9 +8,9 @@ lastmod: 2018-09-01
 categories: ['about']
 tags: ['Committee']
 menu:
-  about:
+  privacy:
     parent: "about"
-    weight: 30
+    weight: 10
 weight: 10
 sections_weight: 10
 draft: false
