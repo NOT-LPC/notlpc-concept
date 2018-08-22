@@ -11,9 +11,9 @@ menu:
   global:
     parent: 'About'
     weight: 32
-    name = "About"
-    identifier = "communications"
-    url = "/about/communications/"
+    name: "About"
+    identifier: "communications"
+    url: "/about/communications/"
 weight: 30
 draft: false
 aliases: []
