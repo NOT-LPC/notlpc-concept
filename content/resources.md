@@ -1,7 +1,7 @@
 ---
-title: 'Essential Resources'
-linktitle: 'Resources'
-description: 'Quick links to information'
+title: "Essential Resources"
+linktitle: "Resources"
+description: "Quick links to information"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01

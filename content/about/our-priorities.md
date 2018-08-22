@@ -2,18 +2,17 @@
 title: Our priorities
 linktitle: Our priorities
 description: North of Tyne Local Pharmaceutical Committee (LPC) is the statutory organisation which represents all community pharmacies in Northumberland, Newcastle and North Tyneside.
-
-date: 2018-05-01
-publishdate: 2018-05-01
-lastmod: 2018-05-01
-categories: ['about']
-tags: ['Committee']
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
+categories: ["about"]
+tags: ["lpc", "strategy", "priorities"]
 menu:
   about:
     parent: "about"
-    weight: 30
-weight: 30
-sections_weight: 30
+    weight: 40
+weight: 40
+sections_weight: 40
 draft: false
 aliases: []
 toc: false

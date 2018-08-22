@@ -2,18 +2,17 @@
 title: Newsletters
 linktitle: Newsletters
 description: We use MailChimp to publish regular newsletters.
-
-date: 2018-08-01
-publishdate: 2018-08-01
-lastmod: 2018-08-01
-categories: ['about']
-tags: ['Meetings']
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
+categories: ["about"]
+tags: ["newsletters", "documents"]
 menu:
   about:
     parent: "about"
-    weight: 30
-weight: 40
-sections_weight: 40
+    weight: 60
+weight: 60
+sections_weight: 60
 draft: false
 aliases: []
 toc: true

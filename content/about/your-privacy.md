@@ -2,12 +2,11 @@
 title: Your privacy
 linktitle: Your privacy
 description: How we handle your data
-
-date: 2018-07-09
-publishdate: 2018-07-09
-lastmod: 2018-07-09
-categories: ['about']
-tags: ['Privacy']
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
+categories: ["about"]
+tags: ["privacy", "GDPR"]
 menu:
   about:
     parent: "about"
