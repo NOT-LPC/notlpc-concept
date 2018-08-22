@@ -4,7 +4,7 @@ canonifyurls = true
 config = "config.toml"
 enableGitInfo = true
 paginate=  100
-copyright = "North of Tyne LPC, 2018"
+copyright = ""
 defaultContentLanguage = "en"
 languageCode = "en-gb"
 
@@ -201,12 +201,6 @@ watch = true
   weight = 30
   identifier = "about"
   url = "/about/"
-[[menu.global]]
-  name = "Communications"
-  weight = 32
-  identifier = "communications"
-  parent="About"
-  url = "/about/communications/"  
 [[menu.global]]
   name = "Contact"
   weight = 40
