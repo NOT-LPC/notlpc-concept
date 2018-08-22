@@ -1,7 +1,7 @@
 ---
-title: Newsletters
-linktitle: Newsletters
-description: We use MailChimp to publish regular newsletters.
+title: "Our newsletters"
+linktitle: "Our newsletters"
+description: "We use MailChimp to publish regular newsletters and past issues are linked here"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01
@@ -18,9 +18,21 @@ aliases: []
 toc: true
 ---
 
-Newsletters signup  
+## Newsletter Subscription  
 
-# 2018 Newsletters
+Please join our mailing list to get regular newsletters with information about community pharmacy contracts, local services, 
+news, training and local events. You can subscribe by submitting your email using the box at the foot of this page.  
+
+## Newsletter Privacy Policy  
+
+We use [MailChimp](http://mailchimp.com) to serve our newsletters and store contact details. We believe this is the most efficient 
+and secure method. Readers should refer to the [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/).  
+Readers may unsubscribe at any time by clicking the link in the footer of every newsletter. 
+Under GDPR, our lawful basis for processing is legitimate interest and from time to time we unsubscribe those who have not opened 
+the last ten newsletters.  
+
+
+# 2018 Newsletters  
 
   <div class="overflow-auto">
     <table class="f6 w-100 mw8 center" cellspacing="0">

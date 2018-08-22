@@ -1,7 +1,7 @@
 ---
-title: Your privacy
-linktitle: Your privacy
-description: How we handle your data
+title: "Your privacy"
+linktitle: "Your privacy"
+description: "How we handle your data"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01

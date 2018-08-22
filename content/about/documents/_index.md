@@ -14,7 +14,7 @@ menu:
     name: "Our Documents"
     identifier: "documents"
     url: "/about/documents/"
-weight: 30
+weight: 1
 draft: false
 aliases: []
 toc: false

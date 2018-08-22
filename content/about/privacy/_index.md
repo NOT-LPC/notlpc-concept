@@ -1,17 +1,17 @@
 ---
-title: Privacy
-linktitle: Privacy
-description: How we handle your data
-date: 2018-07-07
-publishdate: 2018-07-07
-lastmod: 2018-07-07
-categories: ['about']
-tags: ['GDPR', 'Privacy']
+title: "Your privacy"
+linktitle: "Your privacy"
+description: "This page provides links to our GDPR documents that explain how we handle your data"
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
+categories: ["about"]
+tags: ["documents", "GDPR", "privacy"]
 menu:
-  about:
-    parent: "privacy"
-    weight: 30
-weight: 40
+ about:
+    parent: "about"
+    weight: 2
+weight: 1
 draft: false
 aliases: []
 toc: false

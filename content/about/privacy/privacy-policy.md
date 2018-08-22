@@ -1,11 +1,10 @@
 ---
-title: Privacy policy
-linktitle: Privacy policy
-description: This Privacy Policy describes how your personal information is collected, used, and shared when you use our websites.
-
-date: 2018-07-09
-publishdate: 2018-07-09
-lastmod: 2018-07-09
+title: "Privacy policy"
+linktitle: "Privacy policy"
+description: "This Privacy Policy describes how your personal information is collected, used, and shared when you use our websites"
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
 categories: ['about']
 tags: ['Committee']
 menu:
