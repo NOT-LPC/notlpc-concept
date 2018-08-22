@@ -3,11 +3,11 @@ title: LPC meetings
 linktitle: LPC meetings
 description: North of Tyne Local Pharmaceutical Committee usually meets on the first Wednesday of Jan, Mar, May, Jul, Sep and Nov.
 
-date: 2018-07-07
-publishdate: 2018-07-07
-lastmod: 2018-07-07
-categories: ['about']
-tags: ['Meetings']
+date: '2018-09-01'
+publishdate: '2018-09-01'
+lastmod: '2018-09-01'
+categories: ['About']
+tags: ['LPC-Meetings']
 menu:
   meetings:
     parent: "meetings"
