@@ -9,9 +9,9 @@ categories: ['about']
 tags: ['Communications']
 menu:
   global:
-    parent: 'About'
+    parent: 'about'
     weight: 32
-    name: "About"
+    name: "Communications"
     identifier: "communications"
     url: "/about/communications/"
 weight: 30
