@@ -8,10 +8,10 @@ lastmod: '2018-09-01'
 categories: ['about']
 tags: ['Communications']
 menu:
-  global:
+ global:
     parent: 'about'
     weight: 32
-    name: "Communications"
+    linktitle: "Communications"
     identifier: "communications"
     url: "/about/communications/"
 weight: 30
