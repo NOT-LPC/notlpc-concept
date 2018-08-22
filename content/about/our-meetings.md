@@ -6,7 +6,7 @@ date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01
 categories: ["about"]
-tags: ["lpc-meetings", "lpc"]
+tags: ["lpc-meeting", "lpc"]
 menu:
   about:
     parent: "about"
