@@ -1,12 +1,12 @@
 ---
-title: News
-linktitle: News
-description: Community Pharmacy News
-date: 2018-08-01
-publishdate: 2018-08-01
-lastmod: 2018-08-01
-tags: ['News']
-categories: []
+title: "News"
+linktitle: "News"
+description: "Community Pharmacy News"
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
+categories: ["News"]
+tags: []
 weight: 1
 draft: false
 aliases: []

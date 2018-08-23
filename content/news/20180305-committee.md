@@ -1,10 +1,10 @@
 ---
-date: 2018-03-05T17:00:00
-title: 'New Committee Appointments for North of Tyne LPC'
-description: 'New representatives of CCA and indepent contractors have been appointed to North of Tyne LPC'
+date: 2018-03-05
+title: "New Committee Appointments for North of Tyne LPC"
+description: "New representatives of CCA and independent contractors have been appointed to North of Tyne LPC"
 contact: "stephenblackman"
-categories: ['News', 'Announcement']
-tags: ['LPC']
+categories: ["news"]
+tags: ["lpc", "lpc-committee"]
 ---
 
 The term of office for the current members of the North of Tyne Local Pharmaceutical Committee expires on 31st March 2018. Having reviewed the ownership of pharmacy contracts in our area on 31st October 2017, the new committee members will comprise eight nominated by the Company Chemists Association (CCA) and five elected by independent contractors.  

@@ -1,10 +1,10 @@
 ---
-date: 2018-03-05T17:00:00
-title: 'Facebook Group for North of Tyne HLPs'
-description: 'A Facebook group has been created for all North of Tyne Healthy Living Pharmacies'
+date: 2018-03-05
+title: "Facebook Group for North of Tyne HLPs"
+description: "A Facebook group has been created for all North of Tyne Healthy Living Pharmacies"
 contact: "anngunning"
-categories: ['News', 'Support']
-tags: ['HLP']
+categories: ["news", "support"]
+tags: ["hlp"]
 ---
 
 A [Facebook Group](https://www.facebook.com/groups/NOTHLPS/) has been created to support
