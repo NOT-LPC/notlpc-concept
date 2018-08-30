@@ -11,7 +11,7 @@ menu:
   docs:
     parent: "essential-services"
     weight: 1
-weight: 1
+weight: 20
 draft: false
 aliases: [/essential-services/]
 toc: false
