@@ -170,12 +170,12 @@ watch = true
   name = "Training & Support"
   weight = 60
   identifier = "training"
-  post = ""
+  post = "break"
   url = "/training/"
 [[menu.docs]]
   name = "Other Resources"
   weight = 70
-  post = "break"
+  post = ""
   identifier = "other-resources"
   url = "/other-resources/"
 # [[menu.docs]]
