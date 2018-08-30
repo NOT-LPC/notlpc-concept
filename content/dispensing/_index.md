@@ -11,7 +11,7 @@ menu:
   docs:
     parent: "Dispensing & Supply"
     weight: 1
-weight: 1
+weight: 50
 draft: false
 aliases: [/dispensing/]
 toc: false
