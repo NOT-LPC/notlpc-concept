@@ -48,7 +48,7 @@ the last ten newsletters.
 .campaign {line-height: 125%; margin: 5px;}
 //
 </style>
-<script language="javascript" src="//northoftynelpc.us3.list-manage.com/generate-js/?u=310b8c606711c91df50f7527c&fid=22929&show=10" type="text/javascript"></script>
+<script language="javascript" src="//northoftynelpc.us3.list-manage.com/generate-js/?u=310b8c606711c91df50f7527c&fid=22929&show=100" type="text/javascript"></script>
 
 # 2016 Newsletters
 
