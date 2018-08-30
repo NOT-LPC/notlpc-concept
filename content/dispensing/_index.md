@@ -9,7 +9,7 @@ categories: ["dispensing", "supply"]
 tags: ["resources"]
 menu:
   docs:
-    parent: "Dispensing & Supply"
+    parent: "dispensing"
     weight: 1
 weight: 50
 draft: false
