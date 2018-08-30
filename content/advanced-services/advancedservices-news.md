@@ -1,6 +1,6 @@
 ---
-title: "Services & Commissioning News"
-linktitle: "Services & Commissioning News"
+title: "Advanced Services News"
+linktitle: "Advanced Services News"
 description: "Services & Commissioning news from PSNC"
 date: 2018-09-01
 publishdate: 2018-09-01
