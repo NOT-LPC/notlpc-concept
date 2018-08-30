@@ -11,8 +11,8 @@ menu:
   docs:
     parent: "advanced-services"
     weight: 20
-weight: 20
-sections_weight: 20
+weight: 1
+sections_weight: 1
 draft: false
 aliases: []
 toc: false
