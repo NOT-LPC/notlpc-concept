@@ -11,7 +11,7 @@ menu:
   docs:
     parent: "other-resources"
     weight: 1
-weight: 1
+weight: 70
 draft: false
 aliases: [/other-resources/]
 toc: false
