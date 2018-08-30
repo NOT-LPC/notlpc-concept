@@ -34,75 +34,27 @@ the last ten newsletters.
 
 # 2018 Newsletters  
 
-  <style type="text/css">
-
+<style type="text/css">
 .display_archive <!--{font-family: arial,verdana; font-size: 12px;}-->
 .campaign {line-height: 125%; margin: 5px;}
 //
 </style>
 <script language="javascript" src="//northoftynelpc.us3.list-manage.com/generate-js/?u=310b8c606711c91df50f7527c&fid=22925&show=100" type="text/javascript"></script>
   
-  
-  
-  
-  
-  
-  
-  <div class="overflow-auto">
-    <table class="f6 w-100 mw8 center" cellspacing="0">
-      <thead>
-        <tr class="stripe-dark">
-          <th class="fw6 tl pa3 bg-white">Publication Date</th>
-          <th class="fw6 tl pa3 bg-white">Content</th>
-        </tr>
-      </thead>
-      <tbody class="lh-copy">
-        <tr class="stripe-dark">
-          <td class="pa3">[Wed, 27 Jun 2018](https://mailchi.mp/b1e34b682a95/north-of-tyne-community-pharmacy-news-3312629)</td>
-          <td class="pa3">Community Pharmacy Awards details and application forms</td>
-        </tr> 
-      </tbody>
-    </table>
-  </div>
-
 # 2017 Newsletters
 
-  <div class="overflow-auto">
-    <table class="f6 w-100 mw8 center" cellspacing="0">
-      <thead>
-        <tr class="stripe-dark">
-          <th class="fw6 tl pa3 bg-white">Publication Date</th>
-          <th class="fw6 tl pa3 bg-white">Content</th>
-        </tr>
-      </thead>
-      <tbody class="lh-copy">
-        <tr class="stripe-dark">
-          <td class="pa3">[Wed, 27 Jun 2018](https://mailchi.mp/b1e34b682a95/north-of-tyne-community-pharmacy-news-3312629)</td>
-          <td class="pa3">Community Pharmacy Awards details and application forms</td>
-        </tr> 
-      </tbody>
-    </table>
-  </div>
+<style type="text/css">
+.display_archive <!-- {font-family: arial,verdana; font-size: 12px;} -->
+.campaign {line-height: 125%; margin: 5px;}
+//
+</style>
+<script language="javascript" src="//northoftynelpc.us3.list-manage.com/generate-js/?u=310b8c606711c91df50f7527c&fid=22929&show=10" type="text/javascript"></script>
 
 # 2016 Newsletters
 
-  <div class="overflow-auto">
-    <table class="f6 w-100 mw8 center" cellspacing="0">
-      <thead>
-        <tr class="stripe-dark">
-          <th class="fw6 tl pa3 bg-white">Publication Date</th>
-          <th class="fw6 tl pa3 bg-white">Content</th>
-        </tr>
-      </thead>
-      <tbody class="lh-copy">
-        <tr class="stripe-dark">
-          <td class="pa3">[Wed, 27 Jun 2018](https://mailchi.mp/b1e34b682a95/north-of-tyne-community-pharmacy-news-3312629)</td>
-          <td class="pa3">Community Pharmacy Awards details and application forms</td>
-        </tr>
-        <tr class="stripe-dark">
-          <td class="pa3">[Wed, 27 Jun 2018](https://mailchi.mp/b1e34b682a95/north-of-tyne-community-pharmacy-news-3312629)</td>
-          <td class="pa3">Community Pharmacy Awards details and application forms</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+<style type="text/css">
+.display_archive <!-- {font-family: arial,verdana; font-size: 12px;} -->
+.campaign {line-height: 125%; margin: 5px;}
+//
+</style>
+<script language="javascript" src="//northoftynelpc.us3.list-manage.com/generate-js/?u=310b8c606711c91df50f7527c&fid=22933&show=100" type="text/javascript"></script>
