@@ -11,7 +11,7 @@ menu:
   docs:
     parent: "pharmacy-contract"
     weight: 1
-weight: 1
+weight: 40
 draft: false
 aliases: [/pharmacy-contract/]
 toc: false
