@@ -5,7 +5,7 @@ description: "Services & Commissioning news from PSNC"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01
-categories: ["news, "advanced-services"]
+categories: ["news", "advanced-services"]
 tags: ["psnc"]
 menu:
   docs:
