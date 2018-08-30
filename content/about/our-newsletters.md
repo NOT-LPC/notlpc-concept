@@ -34,6 +34,20 @@ the last ten newsletters.
 
 # 2018 Newsletters  
 
+  <style type="text/css">
+
+.display_archive <!--{font-family: arial,verdana; font-size: 12px;}-->
+.campaign {line-height: 125%; margin: 5px;}
+//
+</style>
+<script language="javascript" src="//northoftynelpc.us3.list-manage.com/generate-js/?u=310b8c606711c91df50f7527c&fid=22925&show=100" type="text/javascript"></script>
+  
+  
+  
+  
+  
+  
+  
   <div class="overflow-auto">
     <table class="f6 w-100 mw8 center" cellspacing="0">
       <thead>
