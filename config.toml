@@ -172,6 +172,12 @@ watch = true
   identifier = "training"
   post = ""
   url = "/training/"
+[[menu.docs]]
+  name = "Other Resources"
+  weight = 70
+  post = "break"
+  identifier = "other-resources"
+  url = "/other-resources/"
 # [[menu.docs]]
 #   name = "About Us"
 #   weight = 100
