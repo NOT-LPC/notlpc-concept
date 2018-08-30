@@ -161,17 +161,17 @@ watch = true
   post = "break"
   url = "/pharmacy-contract/"
 [[menu.docs]]
-  name = "Training & Support"
+  name = "Dispensing & Supply"
   weight = 50
   post = "break"
-  identifier = "training"
-  url = "/training/"
+  identifier = "dispensing"
+  url = "/dispensing/"
 [[menu.docs]]
-  name = "Other Resources"
+  name = "Training & Support"
   weight = 60
-  identifier = "other-resources"
+  identifier = "training"
   post = ""
-  url = "/other-resources/"
+  url = "/training/"
 # [[menu.docs]]
 #   name = "About Us"
 #   weight = 100
