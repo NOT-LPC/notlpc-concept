@@ -1,12 +1,12 @@
 ---
-title: Other Resources
-linktitle: Other Resources Overview
-description: Other resources for Community Pharmacy
-date: 2017-07-24
-publishdate: 2017-07-24
-lastmod: 2017-07-24
-categories: ['Training']
-tags: ['Resources']
+title: "Other Resources"
+linktitle: "Other Resources Overview"
+description: "Other resources for Community Pharmacy"
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
+categories: ["support"]
+tags: ["resources"]
 menu:
   docs:
     parent: "other-resources"
