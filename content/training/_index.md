@@ -11,7 +11,7 @@ menu:
   docs:
     parent: "training"
     weight: 1
-weight: 1
+weight: 60
 draft: false
 aliases: []
 toc: false
