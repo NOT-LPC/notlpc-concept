@@ -49,32 +49,26 @@ toc: false
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">Wed, 05 September 2018</td>
-          <td class="pa3">LPC Committee Meeting</td>
+          <td class="pa3">To represent contractors’ interests with all commissioners and other stakeholders</td>
+          <td class="pa3">To strive to ensure that existing services are recommissioned or expanded</td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">[Wed, 04 July 2018](/meetings/2018/Minutes-of-LPC-Meeting-04-07-2018-Rev-1808A.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
+          <td class="pa3">To respond to local and national consultations relevant to community pharmacy</td>
+          <td class="pa3">To support community pharmacy contractors in delivering high quality, consistent services of benefit to patients</td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">[Wed, 02 May 2018](/meetings/2018/Minutes-of-LPC-Meeting-02-05-2018-Rev-1805A.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
+          <td class="pa3">To respond to market entry and relocation consultations</td>
+          <td class="pa3">To support community pharmacy contractors in becoming the facilitaors of personalised care for peple with long-term conditions</td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">[Wed, 07 March 2018](/meetings/2018/Minutes-of-LPC-Meeting-07-03-2018-Rev-1804A.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
-        </tr> 
-      </tbody>
-	  <tbody class="lh-copy">
-        <tr class="stripe-dark">
-          <td class="pa3">[Wed, 10 January 2018](/meetings/2018/Minutes-of-LPC-Meeting-10-01-2018-Rev-1803A.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
+          <td class="pa3"> </td>
+          <td class="pa3">To support the effective implementation of new services</td>
         </tr> 
       </tbody>
       <thead>
@@ -85,50 +79,30 @@ toc: false
       </thead>
       <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">[Wed, 08 November 2017](/meetings/2017/Minutes-of-LPC-Meeting-08-11-2017-Rev-1712A.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
+          <td class="pa3">To ensure community pharmacy plays an integral and growing role in healthcare provision across the North of Tyne region</td>
+          <td class="pa3">To promote community pharmacy to patients, public and stakeholders</td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">[Wed, 06 September 2017](/meetings/2017/Minutes-of-AGM-Meeting-06-09-2017-Rev-1711A.pdf)</td>
-          <td class="pa3">LPC Annual General Meeting</td>
+          <td class="pa3">To develop a sustainable vision and future for community pharmacy as the neighbourhood health and wellbeing hub</td>
+          <td class="pa3">To promote community pharmacy as the trusted, convenient, first port of call for episodic healthcare advice and treatmentg</td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">[Wed, 06 September 2017](/meetings/2017/Minutes-of-LPC-Meeting-06-09-2017-Rev-1711B.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
+          <td class="pa3">To develop business opportunities for community pharmacy</td>
+          <td class="pa3">To develop and maintain effective links with internal & external stakeholders including:</td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">[Wed, 05 July 2017](/meetings/2017/Minutes-of-LPC-Meeting-05-07-2017-Rev-1709A.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
-        </tr> 
-      </tbody>
-	  <tbody class="lh-copy">
-        <tr class="stripe-dark">
-          <td class="pa3">[Wed, 03 May 2017](/meetings/2017/Minutes-of-LPC-Meeting-03-05-2017-Rev-1706B.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
-        </tr> 
-      </tbody>
-	  <tbody class="lh-copy">
-        <tr class="stripe-dark">
-          <td class="pa3">[Wed, 01 March 2017](/meetings/2017/Minutes-of-LPC-Meeting-01-03-17-Rev-1707A.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
-        </tr> 
-      </tbody>
-	  <tbody class="lh-copy">
-        <tr class="stripe-dark">
-          <td class="pa3">[Wed, 07 February 2017](/meetings/2017/Minutes-of-LPC-Meeting-01-03-17-Rev-1707A.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
-        </tr> 
-      </tbody>
-	  <tbody class="lh-copy">
-        <tr class="stripe-dark">
-          <td class="pa3">[Wed, 11 January 2017](/meetings/2017/Minutes-of-LPC-Meeting-11-01-17-Rev-1702A.pdf)</td>
-          <td class="pa3">LPC Committee Meeting</td>
+          <td class="pa3">To develop the skills of community pharmacists and pharmacy teams via training and sharing best practice to enable effective service delivery</td>
+          <td class="pa3">* other LPCs, LRCs  
+                          * commissioners  
+                          * third sector organisations  
+                          * the public  
+                          * community pharmacy contractors</td>
         </tr> 
       </tbody>
     </table>
