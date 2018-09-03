@@ -10,9 +10,9 @@ tags: ["newsletters", "documents"]
 menu:
   about:
     parent: "about"
-    weight: 60
-weight: 60
-sections_weight: 60
+    weight: 70
+weight: 70
+sections_weight: 70
 draft: false
 aliases: []
 toc: true

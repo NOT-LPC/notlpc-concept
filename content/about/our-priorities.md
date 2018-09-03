@@ -10,9 +10,9 @@ tags: ["lpc", "strategy", "priorities"]
 menu:
   about:
     parent: "about"
-    weight: 40
-weight: 40
-sections_weight: 40
+    weight: 50
+weight: 50
+sections_weight: 50
 draft: false
 aliases: []
 toc: false
