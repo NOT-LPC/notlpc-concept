@@ -18,9 +18,28 @@ aliases: []
 toc: false
 ---
 
-North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 167 of the NHS Act 2006, as the statutory body representing the community pharmacies in Northumberland, Newcastle and North Tyneside.  
-
 ## LPC Members
+
+The members of North of Tyne Local Pharmaceutical Committee (LPC) are listed below.  
+ 
+The role of the LPC members is to make sure that the role of the LPC is discharged. In practice this means that the LPC member should make sure the LPC:  
+
+* has a business plan  
+* has a budget linked to the business plan  
+* manages the money contractors provide to fund the LPC and its work  
+* manages those employed by or who provide services to the LPC and ensures that staff have the necessary skills and expertise  
+* members have the skills and expertise to carry out their work with training provided if necessary  
+* adheres to the principles of good governance  
+* has effective communications  
+* acts equitably and in the best interests of all the contractors it serves  
+
+Members should keep up to date with community pharmacy news and contractual changes, prepare for LPC meetings and contribute to discussions.  
+
+Importantly, when making decisions at an LPC meeting, members are there to decide the best course of action to benefit contractors as a whole not themselves or a particular group of contractors.  
+  
+The committee is constituted of 13 members with a membership mix depending on the proportionality of independents and multiples across the area and in accordance with the [LPC constitution](/about/our-constitution) 
+Currently, there are 8 CCA members and 5 independent members.  
+
 
 ### CCA Representatives
 

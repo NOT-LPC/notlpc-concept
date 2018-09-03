@@ -18,8 +18,15 @@ aliases: []
 toc: false
 ---
 
-Community pharmacy contractors are welcome to observe our meetings. 
-We invite representatives of our stakeholders to meet and present to the committee. 
+Community pharmacy contractors are welcome to observe our meetings.  
+
+Typically, we review progress with local commissioning, receive guests from Area Teams and other NHS and 
+Local Authority personnel, consider new local services opportunities, deal with contract applications, discuss 
+the progress of work carried out by the LPC Chief Officer, review the budget and management accounts, review 
+the business plan, deal with local issues affecting contractors or matters referred to the LPC by contractors.  
+The LPC meeting is usually an informative and enjoyable day with the chance to discuss a range of things with other
+local contractors.  See our [Minutes of Meetings](/about/minutes-of-meetings) for more information.
+
 If you would like to attend a committee meeting, please email [lpc@northoftynelpc.com](mailto:lpc@northoftynelpc.com).  
 
 ## 2018 Meeting Dates
