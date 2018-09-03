@@ -104,7 +104,7 @@ We envisage a future where, through working in partnership with sustainability a
 community pharmacy is aligned and integrated with the local health economy and delivering a wide range of services supporting patients and the NHS.   
 
   
-![North of Tyne LPC Community Pharmacy Forward View](/image/NoTLPC-CPFV.png)
+![North of Tyne LPC Community Pharmacy Forward View](/images/NoTLPC-CPFV.png)
 
 # Our Objectives  
 
