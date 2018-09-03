@@ -92,17 +92,13 @@ toc: false
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To develop business opportunities for community pharmacy</td>
-          <td class="pa3">To develop and maintain effective links with internal & external stakeholders including:</td>
+          <td class="pa3">To develop and maintain effective links with internal & external stakeholders including: other LPCs & LRCs, commissioners, third sector organisations, the public, and, community pharmacy contractors</td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To develop the skills of community pharmacists and pharmacy teams via training and sharing best practice to enable effective service delivery</td>
-          <td class="pa3">* other LPCs, LRCs  
-                          * commissioners  
-                          * third sector organisations  
-                          * the public  
-                          * community pharmacy contractors</td>
+          <td class="pa3"></td>
         </tr> 
       </tbody>
     </table>
