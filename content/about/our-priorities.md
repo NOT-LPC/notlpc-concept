@@ -37,14 +37,14 @@ toc: false
       </thead>
       <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">**To demonstrate to commissioners the value of service provision through community pharmacy**</td>
-          <td class="pa3">**To secure a fair level of payment and conditions for all services**</td>
+          <td class="pa3"><b>To demonstrate to commissioners the value of service provision through community pharmacy</b></td>
+          <td class="pa3"><b>To secure a fair level of payment and conditions for all services</b></td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To work in the best interest of all community pharmacy contractors across the North of Tyne region</td>
-          <td class="pa3">**To strive to ensure that existing services are recommissioned or expanded**</td>
+          <td class="pa3"><b>To strive to ensure that existing services are recommissioned or expanded</b></td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
@@ -73,8 +73,8 @@ toc: false
       </thead>
       <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">**To negotiate services and ensure community pharmacy plays an integral and growing role in healthcare provision across the North of Tyne region**</td>
-          <td class="pa3">To promote community pharmacy to patients, public and stakeholders</td>
+          <td class="pa3"><b>To negotiate services and ensure community pharmacy plays an integral and growing role in healthcare provision across the North of Tyne region</b></td>
+          <td class="pa3"><b>To promote community pharmacy to patients, public and stakeholders</b></td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
@@ -108,4 +108,36 @@ community pharmacy is aligned and integrated with the local health economy and d
 
 # Our Objectives  
 
- 
+* To develop and extend the range of clinical services commissioned and provided by community pharmacies  
+
+* To raise the profile of pharmacy locally by highlighting to the commissioners those areas where pharmacy can contribute to delivering the primary care agenda  
+
+* To reduce the burden of local regulations and contractual conditions  
+
+* To work towards a single set of services across all North of Tyne CCGs
+
+* To work towards a single set of services across all North of Tyne local authorities  
+
+* To promote the benefits of community pharmacy to patients, public and stakeholders  
+
+* To ensure additional services are fairly rewarded  
+
+* To improve contractor and pharmacist engagement  
+
+* To communicate to local pharmacists the current issues which nationally or locally have implications for provision of services  
+
+## Key Objectives of the Executive  
+
+* To maintain the statutory requirements of the LPC, as per [the constitution](/about/our-constitution)  
+
+* To raise the profile of the LPC  
+
+* To maintain relationships with other LPCs in the region and hold at least four joint meetings with other LPCs relevant to our aims  
+
+* To maintain good relationships with other health agencies  
+
+* To act as a key consultant in NHS dispensing contract applications/relocations using local knowledge of existing service provision to determine impacts of changes to the existing network  
+
+* To work co-operatively with the local and national bodies to help improve the quality assurance aspects of services provided to NHS patients  
+
+* To ensure that PSNE Limited, the provider organisation, works on behalf of community pharmacy contractors and that surplus funds are used for the benfit of community pharmacy  
