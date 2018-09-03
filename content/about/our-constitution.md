@@ -22,65 +22,65 @@ toc: true
   
 ## 1. Definitions  
 > In this Constitution –  
-> > “The Act” means the National Health Service Act 2006, as amended.  
-> > “Chief Officer” means the person employed or engaged by the Committee as its Chief Officer, Secretary, or Chief Executive Officer.  
-> > “The Committee” and “LPC” mean the Local Pharmaceutical Committee recognised by the NHS Commissioning Board (NHSCB) under the provisions of the Act as representative of the persons providing pharmaceutical services and persons providing local pharmaceutical services from premises in the area for which the Committee is formed.  
-> > “Health and Wellbeing Board” (“HWB”), means the Local Authority’s Health and Wellbeing Board or any successor organisation with a similar function for the area or part of the area of the LPC.  
-> > “NHS Commissioning Board” (“NHSCB”) means the body established under the NHS Act 2006 as amended also known as “NHS England”, or any successor organisation, by which the Committee is to be recognised under the provisions of section 167 of the Act.  
-> > “NHS Matters” includes NHS Pharmaceutical Services commissioned by the NHSCB and NHS services commissioned under arrangements made with Local Authorities or Clinical Commissioning Groups.  
-> > “Persons providing pharmaceutical services” means persons whose names are included in a pharmaceutical list who provide pharmaceutical services in the area of the LPC, excluding suppliers of appliances only.  
-> > “Persons providing local pharmaceutical services” means persons who are providing local pharmaceutical services (LPS) under an LPS scheme or under a pilot scheme made with the NHSCB in the area for which the Committee is formed, and where the person has notified the NHSCB that he wishes to be represented by the Committee (and has not notified it that he wishes to cease to be so represented).  
-> > “Pharmacy contractor” means a person providing pharmaceutical services or a person providing local pharmaceutical services from registered pharmacy premises in the area for which the Committee is formed.  
-> > “Representative” means a person who has agreed with a pharmacy contractor to stand as a member of an LPC on behalf of the pharmacy contractor  
-> > “The Secretary of State” means the Secretary of State for Health.  
+> “The Act” means the National Health Service Act 2006, as amended.  
+> “Chief Officer” means the person employed or engaged by the Committee as its Chief Officer, Secretary, or Chief Executive Officer.  
+> “The Committee” and “LPC” mean the Local Pharmaceutical Committee recognised by the NHS Commissioning Board (NHSCB) under the provisions of the Act as representative of the persons providing pharmaceutical services and persons providing local pharmaceutical services from premises in the area for which the Committee is formed.  
+> “Health and Wellbeing Board” (“HWB”), means the Local Authority’s Health and Wellbeing Board or any successor organisation with a similar function for the area or part of the area of the LPC.  
+> “NHS Commissioning Board” (“NHSCB”) means the body established under the NHS Act 2006 as amended also known as “NHS England”, or any successor organisation, by which the Committee is to be recognised under the provisions of section 167 of the Act.  
+> “NHS Matters” includes NHS Pharmaceutical Services commissioned by the NHSCB and NHS services commissioned under arrangements made with Local Authorities or Clinical Commissioning Groups.  
+> “Persons providing pharmaceutical services” means persons whose names are included in a pharmaceutical list who provide pharmaceutical services in the area of the LPC, excluding suppliers of appliances only.  
+> “Persons providing local pharmaceutical services” means persons who are providing local pharmaceutical services (LPS) under an LPS scheme or under a pilot scheme made with the NHSCB in the area for which the Committee is formed, and where the person has notified the NHSCB that he wishes to be represented by the Committee (and has not notified it that he wishes to cease to be so represented).  
+> “Pharmacy contractor” means a person providing pharmaceutical services or a person providing local pharmaceutical services from registered pharmacy premises in the area for which the Committee is formed.  
+> “Representative” means a person who has agreed with a pharmacy contractor to stand as a member of an LPC on behalf of the pharmacy contractor  
+> “The Secretary of State” means the Secretary of State for Health.  
 ## 2. Name of Committee  
 > 2.1. The Committee shall be known as the “North of Tyne Local Pharmaceutical Committee”.  
 ## 3. Duties  
 > 3.1. Governance and Finance  
-> > 3.1.1. The Committee shall conduct its affairs in accordance with accepted principles of good governance, in particular preparing and publishing an annual budget, and complying with the principles set out in ‘Guidance on LPC Governance’ published by PSNC.  
-> > 3.1.2. The Committee shall ensure that the appropriate structures and resources are in place to discharge its duties efficiently and effectively and the Committee may set up subcommittees of the Committee for this purpose.  The structures and resources may be part of pooled arrangements with one or more other Committees.  
-> > 3.1.3. In considering whether the structures and resources mentioned in paragraph 3.1.2 are appropriate, the Committee shall consider whether this may be achieved by collaboration with other Committees as mentioned in 3.4.3.  
-> > 3.1.4. The Committee shall maintain appropriate management and administrative structures to ensure the Committee’s business is carried out efficiently and effectively.  The management and administrative structures may be part of pooled arrangements with one or more other Committees.  
-> > 3.1.5. The Committee shall respond to any request for an inquiry by a contractor who believes that the Committee or an officer of the Committee has acted unconstitutionally, by holding a meeting of the Committee to deal with the matter and to report to all contractors represented by the Committee.  
-> > 3.1.6. The Committee shall request the NHSCB to allot to the Committee such sums as are required to defray the Committee’s administrative expenses and for any sums so allotted to be taken from the monies available for the remuneration of pharmacy contractors.  
+> 3.1.1. The Committee shall conduct its affairs in accordance with accepted principles of good governance, in particular preparing and publishing an annual budget, and complying with the principles set out in ‘Guidance on LPC Governance’ published by PSNC.  
+> 3.1.2. The Committee shall ensure that the appropriate structures and resources are in place to discharge its duties efficiently and effectively and the Committee may set up subcommittees of the Committee for this purpose.  The structures and resources may be part of pooled arrangements with one or more other Committees.  
+> 3.1.3. In considering whether the structures and resources mentioned in paragraph 3.1.2 are appropriate, the Committee shall consider whether this may be achieved by collaboration with other Committees as mentioned in 3.4.3.  
+> 3.1.4. The Committee shall maintain appropriate management and administrative structures to ensure the Committee’s business is carried out efficiently and effectively.  The management and administrative structures may be part of pooled arrangements with one or more other Committees.  
+> 3.1.5. The Committee shall respond to any request for an inquiry by a contractor who believes that the Committee or an officer of the Committee has acted unconstitutionally, by holding a meeting of the Committee to deal with the matter and to report to all contractors represented by the Committee.  
+> 3.1.6. The Committee shall request the NHSCB to allot to the Committee such sums as are required to defray the Committee’s administrative expenses and for any sums so allotted to be taken from the monies available for the remuneration of pharmacy contractors.  
 > 3.2. Representation of pharmacy contractors  
-> > 3.2.1. The Committee shall receive, and where appropriate respond to, consultations by the NHSCB and HWB on behalf of the pharmacy contractors in the area for which the Committee is formed.  
-> > 3.2.2. If there is no member of the Committee working in or on behalf of a pharmacy contractor in the area of any of the HWBs listed in paragraph 4, the Committee shall ensure that there are adequate arrangements to ensure the representation of pharmacy contractors in those HWB areas is not compromised.  
-> > 3.2.3. The Committee shall, where appropriate, respond to other national or local consultations which are relevant to the pharmacy contractors in the area for which the Committee is formed.  
-> > 3.2.4. The Committee shall appoint or nominate representatives to any committee, subcommittee, working group or other body on which representation of pharmacy contractors is required.  
-> > 3.2.5. The Committee shall make representations to the NHSCB and HWB on matters of importance to pharmacy contractors.  
-> > 3.2.6. The Committee shall make representations to the Regional Representative of the Pharmaceutical Services Negotiating Committee (PSNC) on matters of importance to pharmacy contractors.  
+> 3.2.1. The Committee shall receive, and where appropriate respond to, consultations by the NHSCB and HWB on behalf of the pharmacy contractors in the area for which the Committee is formed.  
+> 3.2.2. If there is no member of the Committee working in or on behalf of a pharmacy contractor in the area of any of the HWBs listed in paragraph 4, the Committee shall ensure that there are adequate arrangements to ensure the representation of pharmacy contractors in those HWB areas is not compromised.  
+> 3.2.3. The Committee shall, where appropriate, respond to other national or local consultations which are relevant to the pharmacy contractors in the area for which the Committee is formed.  
+> 3.2.4. The Committee shall appoint or nominate representatives to any committee, subcommittee, working group or other body on which representation of pharmacy contractors is required.  
+> 3.2.5. The Committee shall make representations to the NHSCB and HWB on matters of importance to pharmacy contractors.  
+> 3.2.6. The Committee shall make representations to the Regional Representative of the Pharmaceutical Services Negotiating Committee (PSNC) on matters of importance to pharmacy contractors.  
 > 3.3. Support for pharmacy contractors  
-> > 3.3.1. The Committee shall ensure transparency and equality of information and opportunity for all pharmacy contractors in matters relating to the local commissioning of NHS services.  
-> > 3.3.2. The Committee shall use its best endeavours to advise any pharmacy contractor who needs help or assistance on NHS matters. The LPC is not however, able to provide legal advice as this must be given by a qualified solicitor or by counsel.  In cases where legal advice may be needed on matters relating generally to the LPC’s contractors, rather than relating to an individual contractor, the LPC may at its discretion, assist with funding such legal advice.  
-> > 3.3.3. The Committee shall provide appropriate levels of guidance and support to pharmacy contractors or groups of pharmacy contractors in the formulation of bids for funds held at any level and advise on submissions for LPS and local commissioning.  
-> > 3.3.4. The Committee may establish or assist in the establishment of a body corporate formed for the sole purpose of supporting the interests of pharmacy contractors, provided that the memorandum and articles of the body corporate are agreed  at a general meeting of the Committee by a two thirds majority of the total votes cast (including postal votes).  
-> > 3.3.5. The Committee’s assistance of such a body corporate as mentioned in 3.3.4 above shall be withdrawn if requested by a majority of the pharmacy contractors voting (including by postal vote) at a general meeting.  
-> > 3.3.6. The Committee shall consider any complaint made by any pharmacy contractor against another pharmacy contractor involving any question of the efficiency of the Pharmaceutical Services as empowered by Regulations.  
+> 3.3.1. The Committee shall ensure transparency and equality of information and opportunity for all pharmacy contractors in matters relating to the local commissioning of NHS services.  
+> 3.3.2. The Committee shall use its best endeavours to advise any pharmacy contractor who needs help or assistance on NHS matters. The LPC is not however, able to provide legal advice as this must be given by a qualified solicitor or by counsel.  In cases where legal advice may be needed on matters relating generally to the LPC’s contractors, rather than relating to an individual contractor, the LPC may at its discretion, assist with funding such legal advice.  
+> 3.3.3. The Committee shall provide appropriate levels of guidance and support to pharmacy contractors or groups of pharmacy contractors in the formulation of bids for funds held at any level and advise on submissions for LPS and local commissioning.  
+> 3.3.4. The Committee may establish or assist in the establishment of a body corporate formed for the sole purpose of supporting the interests of pharmacy contractors, provided that the memorandum and articles of the body corporate are agreed  at a general meeting of the Committee by a two thirds majority of the total votes cast (including postal votes).  
+> 3.3.5. The Committee’s assistance of such a body corporate as mentioned in 3.3.4 above shall be withdrawn if requested by a majority of the pharmacy contractors voting (including by postal vote) at a general meeting.  
+> 3.3.6. The Committee shall consider any complaint made by any pharmacy contractor against another pharmacy contractor involving any question of the efficiency of the Pharmaceutical Services as empowered by Regulations.  
 > 3.4. Relationships with other bodies, in the interests of pharmacy contractors  
-> > 3.4.1. The Committee shall aim to establish effective liaison with commissioners and other bodies concerned with the National Health Service in the area for which it is formed.  
-> > 3.4.2. The Committee shall respond to requests to investigate complaints made by such bodies alleging breaches of governance by members or officers of the Committee.  
-> > 3.4.3. The Committee shall have a duty to consider collaborating with other Committees, where this may benefit pharmacy contractors.  
-> > 3.4.4. The Committee shall collaborate as appropriate with PSNC on all matters relating to the provision of pharmaceutical services and local pharmaceutical services.  
-> > 3.4.5. The Committee shall aim to collaborate with other pharmaceutical bodies and other non-pharmaceutical bodies to the benefit of pharmacy contractors.  
+> 3.4.1. The Committee shall aim to establish effective liaison with commissioners and other bodies concerned with the National Health Service in the area for which it is formed.  
+> 3.4.2. The Committee shall respond to requests to investigate complaints made by such bodies alleging breaches of governance by members or officers of the Committee.  
+> 3.4.3. The Committee shall have a duty to consider collaborating with other Committees, where this may benefit pharmacy contractors.  
+> 3.4.4. The Committee shall collaborate as appropriate with PSNC on all matters relating to the provision of pharmaceutical services and local pharmaceutical services.  
+> 3.4.5. The Committee shall aim to collaborate with other pharmaceutical bodies and other non-pharmaceutical bodies to the benefit of pharmacy contractors.  
 > 3.5. Fit and Proper Person  
-> > 3.5.1. A Member or Officer of the LPC is expected to be a fit and proper person, and shall at all times act in a way that preserves and protects the reputation of the Committee.  
-> > 3.5.2. A Member or Officer may be elected or appointed to the Committee on his or her own account, or may be acting on behalf of a pharmacy contractor.  
-> > 3.5.3. To ensure that the obligation in 3.5.1. is satisfied, the Committee may suspend or remove from membership any Member or Officer who personally or, where he is acting on behalf of a pharmacy contractor, that contractor-  
-> > > 3.5.3.1. is suspended from a pharmaceutical list in the area of the LPC;  
-> > > 3.5.3.2. has been removed from the pharmaceutical list for a fitness to practise matter in the area of the LPC;  
-> > > 3.5.3.3. has been suspended from a professional register by a professional regulatory body;  
-> > > 3.5.3.4.has been removed from a professional register by a professional body;  
-> > > 3.5.3.5. has been convicted of a criminal offence for which a penalty of imprisonment may be imposed  
-> > 3.5.4. Before deciding whether to suspend or remove the Member or Officer from the Committee, the Committee shall ask the Member or Officer for an explanation, and may consider any written or verbal response, provided these have been provided within the reasonable timescales specified by the Committee.  
-> > 3.5.5. Any period of suspension shall be kept under review, and shall be lifted if the Committee is satisfied that the reputation of the Committee will not be harmed.  
-> > 3.5.6. A Member or Officer may be removed from the Committee under paragraph 3.5. only if he, or the pharmacy contractor on whose behalf he acts, has been removed from - a pharmaceutical list (in relation to a fitness to practise matter), a professional register, or has been sentenced to a term of imprisonment.  
-> > 3.5.7. A person removed from the Committee under paragraph 3.5. shall be ineligible for election or appointment to the Committee for a period of twelve months.  
+> 3.5.1. A Member or Officer of the LPC is expected to be a fit and proper person, and shall at all times act in a way that preserves and protects the reputation of the Committee.  
+> 3.5.2. A Member or Officer may be elected or appointed to the Committee on his or her own account, or may be acting on behalf of a pharmacy contractor.  
+> 3.5.3. To ensure that the obligation in 3.5.1. is satisfied, the Committee may suspend or remove from membership any Member or Officer who personally or, where he is acting on behalf of a pharmacy contractor, that contractor-  
+> 3.5.3.1. is suspended from a pharmaceutical list in the area of the LPC;  
+> 3.5.3.2. has been removed from the pharmaceutical list for a fitness to practise matter in the area of the LPC;  
+> 3.5.3.3. has been suspended from a professional register by a professional regulatory body;  
+> 3.5.3.4.has been removed from a professional register by a professional body;  
+> 3.5.3.5. has been convicted of a criminal offence for which a penalty of imprisonment may be imposed  
+> 3.5.4. Before deciding whether to suspend or remove the Member or Officer from the Committee, the Committee shall ask the Member or Officer for an explanation, and may consider any written or verbal response, provided these have been provided within the reasonable timescales specified by the Committee.  
+> 3.5.5. Any period of suspension shall be kept under review, and shall be lifted if the Committee is satisfied that the reputation of the Committee will not be harmed.  
+> 3.5.6. A Member or Officer may be removed from the Committee under paragraph 3.5. only if he, or the pharmacy contractor on whose behalf he acts, has been removed from - a pharmaceutical list (in relation to a fitness to practise matter), a professional register, or has been sentenced to a term of imprisonment.  
+> 3.5.7. A person removed from the Committee under paragraph 3.5. shall be ineligible for election or appointment to the Committee for a period of twelve months.  
 ## 4. Recognition of the Committee  
 > 4.1. The Committee is recognised by the NHS Commissioning Board under the provisions of section 167 of the Act as representative of the pharmacy contractors in the area(s) of the following Health and Wellbeing Boards:-  
-> > Newcastle upon Tyne Health and Wellbeing Board  
-> > North Tyneside Health and Wellbeing Board  
-> > Northumberland Health and Wellbeing Board  
+> * Newcastle upon Tyne Health and Wellbeing Board  
+> * North Tyneside Health and Wellbeing Board  
+> * Northumberland Health and Wellbeing Board  
 > 4.2. The Committee is recognised by NHS England in relation to pharmaceutical services (which are commissioned by NHS England).  As the services that can be provided by pharmacy extends to those that may be commissioned by other commissioners including CCGs and Local Authorities, the Committee will seek to gain recognition as the representative body for pharmacy contractors by building strong relationships with these other organisations.  
 ## 5. Membership  
 > 5.1. The Committee shall determine the number of members of the Committee.5.2. The members shall be pharmacy contractors or representatives of pharmacy contractors and shall be elected or appointed in accordance with the following paragraphs.  
@@ -102,39 +102,39 @@ toc: true
 > 7.1. An election shall be held in November 2015 to elect the balance of the members, having regard to the number of members appointed in paragraphs 6.1, 6.2 and 6.3 above and members thereby elected shall serve until an election in November 2017 when a further election shall be held. Elections thereafter shall take place every four years.  
 > 7.2. The administration necessary to confirm the number of members that are to be appointed may be carried out at any time after 31 October in the year preceding the election, so that the process for identifying the candidates who will participate in the election (if any) can begin as soon as practicable after the 1st day of January in the year when an election is to be held.  
 > 7.3. Electors  
-> > 7.3.1. Every pharmacy contractor (other than members of the CCA or those whose pharmacy business interests includes AIMp pharmacies or pharmacies owned by those that have exercised their rights to appoint members under paragraph 6.3 above) shall be an elector and shall be entitled to participate in the election.  
-> > 7.3.2. Each elector shall be entitled to receive, and vote on, one voting paper for each of his pharmacy contractor premises in the area for which the Committee is formed.  
+> 7.3.1. Every pharmacy contractor (other than members of the CCA or those whose pharmacy business interests includes AIMp pharmacies or pharmacies owned by those that have exercised their rights to appoint members under paragraph 6.3 above) shall be an elector and shall be entitled to participate in the election.  
+> 7.3.2. Each elector shall be entitled to receive, and vote on, one voting paper for each of his pharmacy contractor premises in the area for which the Committee is formed.  
 > 7.4. Returning Officer  
-> > 7.4.1. The Returning Officer shall be a person other than an elector appointed for the purpose by the Committee and in the event of his absence, or inability to act, he shall appoint some person, other than an elector to take his place.  
-> > 7.4.2. The Committee shall provide such support to the Returning Officer as is necessary to ensure the timely conclusion of the election.  The Committee shall indemnify the Returning Officer for any reasonable costs howsoever arising, incurred by the Returning Officer acting in good faith in pursuance of his duties set out in this Constitution.  
-> > 7.4.3. The Returning Officer shall determine the total number of pharmacy contractor premises in the area for which it is formed; the number of pharmacy contractor premises owned by CCA member companies in the area for which the Committee is formed; AIMp member companies in the area for which the Committee is formed, and identify any other pharmacy contractor owning a sufficient number of pharmacy contractor premises in the area for which the Committee is formed to be eligible to appoint members under paragraph 5.5, together with the number of its premises. The numbers shall be those existing on 31 October in the year preceding the election.  
-> > 7.4.4. The Returning Officer shall notify the CCA of the number of places which it is entitled to appoint.  
-> > 7.4.5 The CCA may, within 28 days from the date of despatch of the notice, inform the Returning Officer if it wishes to appoint fewer than the number of members to which it is entitled.  
-> > 7.4.6. The Returning Officer shall notify the AIMp of the number of places which it is entitled to appoint.  
-> > 7.4.7 The AIMp may, within 28 days from the date of despatch of the notice, inform the Returning Officer if it wishes to appoint fewer than the number of members to which it is entitled.  
-> > 7.4.8. The Returning Officer shall notify any pharmacy contractor eligible to appoint members under paragraph 5.5 of the number of places which the pharmacy contractor is entitled to appoint.  
-> > 7.4.9. The pharmacy contractor so notified may, within 28 days from the date of despatch of the notice, inform the Returning Officer of the number of persons it wishes to appoint. If the pharmacy contractor does not inform the Returning Officer that it is exercising its entitlement to appoint members to the Committee, the pharmacy contractor shall be eligible to participate in the election.  
-> > 7.4.10. The Returning Officer shall then calculate the number of places to be filled by election.  
-> > 7.4.11. In the event that the number of appointed members equals or exceeds the total size of the Committee, there shall be one additional place to be filled by election.  
+> 7.4.1. The Returning Officer shall be a person other than an elector appointed for the purpose by the Committee and in the event of his absence, or inability to act, he shall appoint some person, other than an elector to take his place.  
+> 7.4.2. The Committee shall provide such support to the Returning Officer as is necessary to ensure the timely conclusion of the election.  The Committee shall indemnify the Returning Officer for any reasonable costs howsoever arising, incurred by the Returning Officer acting in good faith in pursuance of his duties set out in this Constitution.  
+> 7.4.3. The Returning Officer shall determine the total number of pharmacy contractor premises in the area for which it is formed; the number of pharmacy contractor premises owned by CCA member companies in the area for which the Committee is formed; AIMp member companies in the area for which the Committee is formed, and identify any other pharmacy contractor owning a sufficient number of pharmacy contractor premises in the area for which the Committee is formed to be eligible to appoint members under paragraph 5.5, together with the number of its premises. The numbers shall be those existing on 31 October in the year preceding the election.  
+> 7.4.4. The Returning Officer shall notify the CCA of the number of places which it is entitled to appoint.  
+> 7.4.5 The CCA may, within 28 days from the date of despatch of the notice, inform the Returning Officer if it wishes to appoint fewer than the number of members to which it is entitled.  
+> 7.4.6. The Returning Officer shall notify the AIMp of the number of places which it is entitled to appoint.  
+> 7.4.7 The AIMp may, within 28 days from the date of despatch of the notice, inform the Returning Officer if it wishes to appoint fewer than the number of members to which it is entitled.  
+> 7.4.8. The Returning Officer shall notify any pharmacy contractor eligible to appoint members under paragraph 5.5 of the number of places which the pharmacy contractor is entitled to appoint.  
+> 7.4.9. The pharmacy contractor so notified may, within 28 days from the date of despatch of the notice, inform the Returning Officer of the number of persons it wishes to appoint. If the pharmacy contractor does not inform the Returning Officer that it is exercising its entitlement to appoint members to the Committee, the pharmacy contractor shall be eligible to participate in the election.  
+> 7.4.10. The Returning Officer shall then calculate the number of places to be filled by election.  
+> 7.4.11. In the event that the number of appointed members equals or exceeds the total size of the Committee, there shall be one additional place to be filled by election.  
 > 7.5. Nominations  
-> > 7.5.1. The Returning Officer shall notify each elector of the number of members to be elected and invite nominations. The notice shall specify the last day and hour for the receipt of nominations and shall be sent so as to be delivered to the elector not less than fourteen days before the day specified thereon.  
-> > 7.5.2. Candidates for election shall be nominated in a form acceptable to the Returning Officer to include details of the candidate’s community pharmacy experience and skills.  Candidates for election may not be members of the Association of Independent Multiple pharmacies, or have a beneficial ownership in any pharmacy multiple that has exercised its right to appoint members to the Committee under paragraph 6.3.  
-> > 7.5.3. Nomination forms shall be supported by two different electors (who shall not be the candidate, or electors in which the candidate has a business interest).  
-> > 7.5.4. The nomination shall be valid only if it is received by the Returning Officer before the date and time specified in the notice. The Returning Officer will acknowledge receipt of each nomination.  
-> > 7.5.5. Where the number of valid nomination forms received does not exceed the number of vacancies, the Returning Officer shall declare those candidates elected, otherwise a postal ballot shall be held.  
-> > 7.5.6. If any vacancies remain unfilled because an insufficient number of candidates have been nominated, the persons elected to the Committee may fill the vacancies by appointing additional members.  
+> 7.5.1. The Returning Officer shall notify each elector of the number of members to be elected and invite nominations. The notice shall specify the last day and hour for the receipt of nominations and shall be sent so as to be delivered to the elector not less than fourteen days before the day specified thereon.  
+> 7.5.2. Candidates for election shall be nominated in a form acceptable to the Returning Officer to include details of the candidate’s community pharmacy experience and skills.  Candidates for election may not be members of the Association of Independent Multiple pharmacies, or have a beneficial ownership in any pharmacy multiple that has exercised its right to appoint members to the Committee under paragraph 6.3.  
+> 7.5.3. Nomination forms shall be supported by two different electors (who shall not be the candidate, or electors in which the candidate has a business interest).  
+> 7.5.4. The nomination shall be valid only if it is received by the Returning Officer before the date and time specified in the notice. The Returning Officer will acknowledge receipt of each nomination.  
+> 7.5.5. Where the number of valid nomination forms received does not exceed the number of vacancies, the Returning Officer shall declare those candidates elected, otherwise a postal ballot shall be held.  
+> 7.5.6. If any vacancies remain unfilled because an insufficient number of candidates have been nominated, the persons elected to the Committee may fill the vacancies by appointing additional members.  
 > 7.6. Ballot  
-> > 7.6.1. The Returning Officer shall despatch to each elector a voting paper setting out the date and time for receipt of votes, which shall be not less than 14 days from the date of despatch of the voting paper.  
-> > 7.6.2. The voting paper shall list the name of each candidate and specify the number of votes to be cast on the voting paper, which shall be equal to the number of vacancies.  
-> > 7.6.3. The voting papers shall be accompanied by the information included in the shaded boxes of the nomination forms.  
-> > 7.6.4. The elector may cast up to the number of votes specified, but may not cast more than one vote for any candidate on each voting paper.  
-> > 7.6.5. The voting paper shall be valid only if it is returned to the Returning Officer so that it is received not later than the date and time specified on the voting paper.  
-> > 7.6.6. The Returning Officer shall examine the voting papers, and after rejecting any that are invalid shall count the votes recorded on the remaining papers, and shall prepare a list of candidates in order of number of valid votes received.  
-> > 7.6.7. The Returning Officer shall declare to be elected those persons who are highest on the list such that the vacancies are filled.  
-> > 7.6.8. The LPC may decide that its policy is that if the votes received by any two or more candidates are equal, one additional place shall be assigned if that is sufficient to determine the outcome of the election. If the LPC does adopt this policy it shall ensure that this is communicated to electors on the ballot forms.  Otherwise the ballot shall be decided by the drawing of lots for the tied candidates.  
-> > 7.6.9. The Returning Officer shall give notice in writing of the result of the election to each of the persons elected and to all the candidates.  
-> > 7.6.10. Where any document is, under this Constitution, required to be sent to an elector, it shall be deemed to have been duly sent if it has been delivered or posted direct to the address which is stated in the electors' list to be the address or the place of residence of the elector.  
-> > 7.6.11. If the Returning Officer is satisfied that arrangements can be made for secure electronic ballot, the ballot may be conducted electronically.  
+> 7.6.1. The Returning Officer shall despatch to each elector a voting paper setting out the date and time for receipt of votes, which shall be not less than 14 days from the date of despatch of the voting paper.  
+> 7.6.2. The voting paper shall list the name of each candidate and specify the number of votes to be cast on the voting paper, which shall be equal to the number of vacancies.  
+> 7.6.3. The voting papers shall be accompanied by the information included in the shaded boxes of the nomination forms.  
+> 7.6.4. The elector may cast up to the number of votes specified, but may not cast more than one vote for any candidate on each voting paper.  
+> 7.6.5. The voting paper shall be valid only if it is returned to the Returning Officer so that it is received not later than the date and time specified on the voting paper.  
+> 7.6.6. The Returning Officer shall examine the voting papers, and after rejecting any that are invalid shall count the votes recorded on the remaining papers, and shall prepare a list of candidates in order of number of valid votes received.  
+> 7.6.7. The Returning Officer shall declare to be elected those persons who are highest on the list such that the vacancies are filled.  
+> 7.6.8. The LPC may decide that its policy is that if the votes received by any two or more candidates are equal, one additional place shall be assigned if that is sufficient to determine the outcome of the election. If the LPC does adopt this policy it shall ensure that this is communicated to electors on the ballot forms.  Otherwise the ballot shall be decided by the drawing of lots for the tied candidates.  
+> 7.6.9. The Returning Officer shall give notice in writing of the result of the election to each of the persons elected and to all the candidates.  
+> 7.6.10. Where any document is, under this Constitution, required to be sent to an elector, it shall be deemed to have been duly sent if it has been delivered or posted direct to the address which is stated in the electors' list to be the address or the place of residence of the elector.  
+> 7.6.11. If the Returning Officer is satisfied that arrangements can be made for secure electronic ballot, the ballot may be conducted electronically.  
 > 7.7. No election shall be invalid by reason of any misdescription or noncompliance with the provisions of this Constitution, or by reason of any miscounted or of the non-delivery, loss or miscarriage in the course of post of any document required or authorised by this Constitution to be dispatched by post if the election was conducted substantially in accordance with the provisions of the Constitution.  
 > 7.8. Any question as to the validity of any nomination form or voting paper or otherwise in connection with an election shall be determined by the Returning Officer.  
 ## 8. Meetings of the Committee  
@@ -194,11 +194,11 @@ toc: true
 > 17.3. The member or officer shall be invited to provide an explanation or to comment to the investigator before the report is prepared.  
 > 17.4. On receipt of the report, the Committee shall decide whether the allegations appear to be substantiated and to decide whether the principles of good governance have been breached.  
 > 17.5. If the Committee decides that there has been such a breach, the Committee may decide:  
-> > 17.5.1. To take no further action;  
-> > 17.5.2. To issue a warning to the officer or member;  
-> > 17.5.3. To suspend the member from the Committee for a specified period; or  
+> 17.5.1. To take no further action;  
+> 17.5.2. To issue a warning to the officer or member;  
+> 17.5.3. To suspend the member from the Committee for a specified period; or  
 period; or  
-> > 17.5.4. To remove the officer or member from the Committee. In this case, the member shall not be eligible for election or appointment to the Committee for the current Term of the Committee.  
+> 17.5.4. To remove the officer or member from the Committee. In this case, the member shall not be eligible for election or appointment to the Committee for the current Term of the Committee.  
 > 17.6. In the event of a tied vote, the Chairman (or the Vice-Chairman if the case involves the Chairman) shall have a second, or casting vote.  
 ## 18. Annual Report and Annual General Meeting  
 > 18.1. The Committee shall prepare each year a report of its proceedings together with a statement of accounts which have been examined by an independent professionally qualified accountant who holds a practicing certificate and this report and statement of accounts shall be circulated to all pharmacy contractors and the Pharmaceutical Services Negotiating Committee within six months of the completion of the period to which the report relates.  
