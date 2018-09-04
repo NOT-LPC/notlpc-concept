@@ -20,18 +20,18 @@ toc: true
 
 # Northumberland
 
-[EllaOne PGD](/local/sexual/CP02v2-Ulipristal-Community-Pharmacists-Sept-17.pdf)
+[EllaOne PGD](/services/local/sexual/CP02v2-Ulipristal-Community-Pharmacists-Sept-17.pdf)
 
-[Levonelle PGD](/local/sexual/CP01v2-Levonorogestrel-Community-Pharmacists-Sept-17.pdf)
+[Levonelle PGD](/services/local/sexual/CP01v2-Levonorogestrel-Community-Pharmacists-Sept-17.pdf)
 
 # Newcastle
 
-[EllaOne PGD](/local/sexual/Ulipristal-Acetate-30mg-Tablets.pdf)
+[EllaOne PGD](/services/local/sexual/Ulipristal-Acetate-30mg-Tablets.pdf)
 
-[Levonelle PGD](/local/sexual/Leveonorgestrel-1500-micrograms-tablet.pdf)
+[Levonelle PGD](/services/local/sexual/Leveonorgestrel-1500-micrograms-tablet.pdf)
 
 # North Tyneside
 
-[EllaOne PGD](/local/sexual/CP02v2-Ulipristal-Community-Pharmacists-Sept-17.pdf)
+[EllaOne PGD](/services/local/sexual/CP02v2-Ulipristal-Community-Pharmacists-Sept-17.pdf)
 
-[Levonelle PGD](/local/sexual/CP01v2-Levonorogestrel-Community-Pharmacists-Sept-17.pdf)
+[Levonelle PGD](/services/local/sexual/CP01v2-Levonorogestrel-Community-Pharmacists-Sept-17.pdf)

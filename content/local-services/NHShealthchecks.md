@@ -1,7 +1,7 @@
 ---
 title: "NHS Health Checks"
 linktitle: "NHS Health Checks"
-description: "On this page you will find details of the NHS Health Checks service commissioned in our region"
+description: "On this page you will find details of the NHS Health Checks services commissioned in our region"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-04
@@ -28,3 +28,4 @@ toc: true
 
 # North Tyneside
 
+  

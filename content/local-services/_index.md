@@ -17,19 +17,21 @@ aliases: []
 toc: false
 ---
 
-# Locally Commissioned Services Maps
+### Locally Commissioned Services Maps  
 
-The following service maps provide an overview of local pharmacy services that are commissioned in each area:
+The following service maps provide an overview of local pharmacy services that are commissioned in each area:  
 
-[Northumberland - Locally Commissioned Services Map](/local-services/service-maps/northumberland-services)
+[Northumberland - Locally Commissioned Services Map](/local-services/service-maps/northumberland-services)  
 
-[Newcastle - Locally Commissioned Services Map](/local-services/service-maps/newcastle-services)
+[Newcastle - Locally Commissioned Services Map](/local-services/service-maps/newcastle-services)  
 
-[North Tyneside - Locally Commissioned Services Map](/local-services/service-maps/north-tyneside-services)
+[North Tyneside - Locally Commissioned Services Map](/local-services/service-maps/north-tyneside-services)  
 
 All services, other than those of Northumberland County Council, are hosted on PharmOutcomes and the service specifications are linked there.  
 
-#### Further details on each service can be found in the service pages linked below. These are grouped by service and include information on that service for each area.
+#### Further details on each service can be found in the service pages linked below. These are grouped by service and include information for each area.  
 
 We will add service specifications as they become available to us.  If you cannot find the information you require, please email 
 [lpc@northoftynelpc.com](mailto:lpc@northoftynelpc.com).  
+
+### Locally Commissioned Services   
