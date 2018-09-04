@@ -1,7 +1,7 @@
 ---
 title: "Our priorities"
 linktitle: "Our priorities"
-description: "We produce an annual strategy document and work plan and regularly review our commissioning priorities"
+description: "We produce an annual strategy and work plan and regularly review our priorities"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01

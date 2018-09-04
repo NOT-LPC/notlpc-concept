@@ -1,25 +1,21 @@
 ---
-title: 'Stop Smoking'
-linktitle: 'Stop Smoking Services'
-description: 'On this page you will find details of the stop smoking services commissioned in our region'
-
-date: 2018-09-07
-publishdate: 2018-09-07
-lastmod: 2018-09-07
-
-categories: ['Local-Services', 'Support', 'Videos', 'Training', 'PGDs']
-tags: ['Smoking', 'NRT', 'Varenicline']
-
+title: "Stop Smoking"
+linktitle: "Stop Smoking Services"
+description: "On this page you will find details of the stop smoking services commissioned in our region"
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-04
+categories: ["local-services", "support", "videos", "training", "PGDs"]
+tags: ["smoking", "NRT", "varenicline"]
 menu:
   docs:
     parent: "local-services"
-    weight: 40
-weight: 40
-sections_weight: 20
+    weight: 50
+weight: 50
+sections_weight: 50
 draft: false
 aliases: []
 toc: true
-
 ---
 
 # Northumberland
