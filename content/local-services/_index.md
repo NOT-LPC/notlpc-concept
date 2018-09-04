@@ -27,9 +27,9 @@ The following service maps provide an overview of local pharmacy services that a
 
 [North Tyneside - Locally Commissioned Services Map](/local-services/service-maps/north-tyneside-services)
 
-All services, other than those of Northumberland County Council, are hosted on PharmOutcomes and service specifications are linked there.  
+All services, other than those of Northumberland County Council, are hosted on PharmOutcomes and the service specifications are linked there.  
 
-#### Further details on each service can be found in the pages linked below.
+#### Further details on each service can be found in the service pages linked below. These are grouped by service and include information on that service for each area.
 
 We will add service specifications as they become available to us.  If you cannot find the information you require, please email 
 [lpc@northoftynelpc.com](mailto:lpc@northoftynelpc.com).  

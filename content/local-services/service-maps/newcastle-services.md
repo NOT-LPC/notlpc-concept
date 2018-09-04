@@ -1,5 +1,5 @@
 ---
-title: "Newcastle Pharmacy Contracts & Services"
+title: "Newcastle Commissioned Services Map"
 linktitle: "Newcastle Commissioned Services Map"
 description: "Locally commissioned community pharmacy services for Newcastle"
 date: 2018-09-01
@@ -18,13 +18,11 @@ aliases: []
 toc: false
 ---
 
-# Newcastle - Locally Commissioned Services
-
 The following local pharmacy services are commissioned in Newcastle:
 
 ![Newcastle - Locally Commissioned Services Map](/images/Newcastle-Locally-Commissioned-Services.png)
 
-All services are hosted on PharmOutcomes and service specifications are linked there.  
+All services are hosted on PharmOutcomes and the service specifications are linked there.  
 
 #### Further details on each service can be found from the [locally commissioned services overview](/local-services/).
 

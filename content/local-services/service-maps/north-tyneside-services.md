@@ -1,5 +1,5 @@
 ---
-title: "North Tyneside Pharmacy Contracts & Services"
+title: "North Tyneside Commissioned Services Map"
 linktitle: "North Tyneside Commissioned Services Map"
 description: "Locally commissioned community pharmacy services for North Tyneside"
 date: 2018-09-01
@@ -18,13 +18,11 @@ aliases: []
 toc: false
 ---
 
-# North Tyneside - Locally Commissioned Services  
-
 The following local pharmacy services are commissioned in North Tyneside:  
 
 ![North Tyneside - Locally Commissioned Services Map](/images/North-Tyneside-Locally-Commissioned-Services.png)
 
-All services are hosted on PharmOutcomes and service specifications are linked there.  
+All services are hosted on PharmOutcomes and the service specifications are linked there.  
 
 #### Further details on each service can be found from the [locally commissioned services overview](/local-services/).
 

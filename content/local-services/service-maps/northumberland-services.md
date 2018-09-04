@@ -1,5 +1,5 @@
 ---
-title: "Northumberland Pharmacy Contracts & Services"
+title: "Northumberland Commissioned Services Map"
 linktitle: "Northumberland Commissioned Services Map"
 description: "Locally commissioned community pharmacy services for Northumberland"
 date: 2018-09-01
@@ -18,13 +18,11 @@ aliases: []
 toc: false
 ---
 
-# Northumberland - Locally Commissioned Services  
-
 The following local pharmacy services are commissioned in Northumberland:  
 
 ![Northumberland - Locally Commissioned Services Map](/images/Northumberland-Locally-Commissioned-Services.png)
 
-All services, other than those of Northumberland County Council, are hosted on PharmOutcomes and service specifications are linked there.  
+All services, other than those of Northumberland County Council, are hosted on PharmOutcomes and the service specifications are linked there.  
 
 #### Further details on each service can be found from the [locally commissioned services overview](/local-services/).
 
