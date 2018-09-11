@@ -11,7 +11,7 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client
-    - lukevivier/gh-pages@0.2.1:
+    - gh-pages:
         token: $GIT_TOKEN
         domain: www.northoftynelpc.com
         basedir: public
