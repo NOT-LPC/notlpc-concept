@@ -20,6 +20,8 @@ toc: true
 
 # Northumberland
 
+This service is managed by PSNE Limited on behalf of NHS Northumberland CCG.  All claims should be submitted via PharmOutcomes.
+
 If you need an additional waste collection please contact Margaret Middlemiss at NHS England on 0113 824 9923 or [margaret.middlemiss@nhs.net](margaret.middlemiss@nhs.net) 
 
 # Newcastle
