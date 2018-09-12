@@ -11,9 +11,9 @@ tags: ["HLP"]
 menu:
   docs:
     parent: "training"
-    weight: 90
-weight: 90
-sections_weight: 90
+    weight: 10
+weight: 10
+sections_weight: 10
 draft: false
 aliases: []
 toc: true

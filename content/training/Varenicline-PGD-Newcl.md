@@ -8,11 +8,11 @@ lastmod: 2018-09-11
 categories: ["local-services", "support", "videos", "training", "PGDs"]
 tags: ["smoking", "NRT", "varenicline"]
 menu:
-docs:
+  docs:
     parent: "training"
-    weight: 90
-weight: 90
-sections_weight: 90
+    weight: 20
+weight: 20
+sections_weight: 20
 draft: false
 aliases: []
 toc: true
