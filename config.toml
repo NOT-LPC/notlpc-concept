@@ -219,3 +219,21 @@ watch = true
   identifier = "psnc"
   post = "external"
   url = "https://psnc.org.uk/"
+
+# Hugo GDPR Privacy
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
