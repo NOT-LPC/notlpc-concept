@@ -5,7 +5,7 @@ description: "Past events and training opportunities"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01
-categories: ["events"]
+categories: ["archive"]
 tags: []
 weight: 1
 draft: false
@@ -21,7 +21,7 @@ If you would like to attend a committee meeting, please email [lpc@northoftynelp
 We hold three meetings a year in each locality for Healthy Living Champions to network and get updates on health and wellbeing iniatives. 
 We also run frequent training events for pharmacists and pharmacy teams.  
 
-Forthcoming events can be found [here](/events/).  
+Upcoming events can be found [here](/events/).  
 
 
 
