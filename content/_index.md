@@ -44,7 +44,7 @@ events:
     cta: View our events
     link: '/events/'
     color_classes: bg-primary-color white
-    image: /images/homepage-example-1.jpg
+    image: /images/IMG0452.JPG
     copy: >-
       To support pharmacy contractors, the LPC runs
       regular training events including our Healthy Living Champions training
@@ -53,15 +53,16 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: North of Tyne LPC AGM and Community Pharmacy Awards 2018
-    cta: 'Further Information'
-    link: 'https://www.northoftynelpc.com/events/20180905-agm/'
+  - heading: North of Tyne LPC Community Pharmacy Awards 2018
+    cta: "Further Information"
+    link: "https://www.northoftynelpc.com/news/20180905-Awards/"
     color_classes: bg-primary-color-light black
-    image: '/meetings/2018/Agenda-LPC-AGM-05-09-2018-Rev-18-08-A.png'
+    image: "/images/agm/2018/teams-2018.jpg"
     copy: >-
       
-      North of Tyne LPC's AGM will take place on Wednesday 5th September 2018.  
-      The AGM will be followed by the North of Tyne Community Pharmacy Awards and a talk by Simon Dukes, CEO, PSNC.  
+      Following our AGM on the 5th September 2018, we presented the North of Tyne LPC Community Pharmacy Awards 2018.  
+      We had a lot of very strong entries that highlighted the excellent work done by community pharmacy in our region and 
+      we would like to thank everyone who entered and those who attended to support the winners.  
 
 published: true
 ---

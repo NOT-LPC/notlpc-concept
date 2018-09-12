@@ -20,7 +20,7 @@ toc: false
 
 The following local pharmacy services are commissioned in Newcastle:
 
-![Newcastle - Locally Commissioned Services Map](/images/Newcastle-Locally-Commissioned-Services.png)
+![Newcastle - Locally Commissioned Services Map](/images/services/Newcastle-Locally-Commissioned-Services.png)
 
 All services are hosted on PharmOutcomes and the service specifications are linked there.  
 

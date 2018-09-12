@@ -20,7 +20,7 @@ toc: false
 
 The following local pharmacy services are commissioned in Northumberland:  
 
-![Northumberland - Locally Commissioned Services Map](/images/Northumberland-Locally-Commissioned-Services.png)
+![Northumberland - Locally Commissioned Services Map](/images/services/Northumberland-Locally-Commissioned-Services.png)
 
 All services, other than those of Northumberland County Council, are hosted on PharmOutcomes and the service specifications are linked there.  
 

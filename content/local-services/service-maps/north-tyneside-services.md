@@ -20,7 +20,7 @@ toc: false
 
 The following local pharmacy services are commissioned in North Tyneside:  
 
-![North Tyneside - Locally Commissioned Services Map](/images/North-Tyneside-Locally-Commissioned-Services.png)
+![North Tyneside - Locally Commissioned Services Map](/images/services/North-Tyneside-Locally-Commissioned-Services.png)
 
 All services are hosted on PharmOutcomes and the service specifications are linked there.  
 

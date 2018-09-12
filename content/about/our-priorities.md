@@ -41,25 +41,25 @@ toc: false
           <td class="pa3"><b>To secure a fair level of payment and conditions for all services</b></td>
         </tr> 
       </tbody>
-	  <tbody class="lh-copy">
+      <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To work in the best interest of all community pharmacy contractors across the North of Tyne region</td>
           <td class="pa3"><b>To strive to ensure that existing services are recommissioned or expanded</b></td>
         </tr> 
       </tbody>
-	  <tbody class="lh-copy">
+      <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To represent contractors’ interests with all commissioners and other stakeholders</td>
           <td class="pa3">To support community pharmacy contractors in delivering high quality, consistent services of benefit to patients</td>
         </tr> 
       </tbody>
-	  <tbody class="lh-copy">
+      <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To respond to local and national consultations relevant to community pharmacy</td>
           <td class="pa3">To support the effective implementation of new services</td>
         </tr> 
       </tbody>
-	  <tbody class="lh-copy">
+      <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To respond to market entry and relocation consultations</td>
           <td class="pa3">To support all pharmacies in the delivery of core services and the compliance with regulatory standards and guidance</td>
@@ -77,19 +77,19 @@ toc: false
           <td class="pa3"><b>To promote community pharmacy to patients, public and stakeholders</b></td>
         </tr> 
       </tbody>
-	  <tbody class="lh-copy">
+      <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To develop business opportunities for community pharmacy</td>
           <td class="pa3">To build and maintain effective links with internal & external stakeholders including: other LPCs & LRCs, commissioners, third sector organisations, the public, and, community pharmacy contractors</td>
         </tr> 
       </tbody>
-	  <tbody class="lh-copy">
+      <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To develop a sustainable vision and future for community pharmacy</td>
           <td class="pa3"></td>
         </tr> 
       </tbody>
-	  <tbody class="lh-copy">
+      <tbody class="lh-copy">
         <tr class="stripe-dark">
           <td class="pa3">To develop the skills of community pharmacists and pharmacy teams via training and sharing best practice to enable effective service delivery</td>
           <td class="pa3"></td>
@@ -104,7 +104,7 @@ We envisage a future where, through working in partnership with sustainability a
 community pharmacy is aligned and integrated with the local health economy and delivering a wide range of services supporting patients and the NHS.   
 
   
-![North of Tyne LPC Community Pharmacy Forward View](/images/NoTLPC-CPFV.png)
+![North of Tyne LPC Community Pharmacy Forward View](/images/about/NoTLPC-CPFV.png)
 
 # Our Objectives  
 
