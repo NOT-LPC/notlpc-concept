@@ -6,7 +6,7 @@ date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01
 categories: ["archive"]
-tags: []
+tags: ["archive"]
 weight: 1
 draft: false
 aliases: []
