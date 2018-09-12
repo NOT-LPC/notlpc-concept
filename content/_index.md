@@ -55,7 +55,7 @@ events:
 sections:
   - heading: North of Tyne LPC Community Pharmacy Awards 2018
     cta: "Further Information"
-    link: "https://www.northoftynelpc.com/news/20180905-Awards/"
+    link: "/news/20180905-awards/"
     color_classes: bg-primary-color-light black
     image: "/images/agm/2018/teams-2018.jpg"
     copy: >-
