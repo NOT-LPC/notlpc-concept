@@ -36,9 +36,9 @@ toc: false
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">[Wed, 05 September 2018](/meetings/2018/Minutes-of-AGM-Meeting-05-09-2018-Rev-1809A.pdf)  
+          <td class="pa3">[Wed, 05 September 2018](/meetings/2018/Minutes-of-AGM-Meeting-05-09-2018-Rev-1809A.pdf)</td>
+          <td class="pa3">LPC Annual General Meeting  
 		[Annual Report & Accounts](/meetings/2018/NoT-LPC-Annual-Report-Financial-Statements-2018-Rev-18-08-B.pdf)</td>
-          <td class="pa3">LPC Annual General Meeting</td>
         </tr> 
       </tbody>
 	  <tbody class="lh-copy">
