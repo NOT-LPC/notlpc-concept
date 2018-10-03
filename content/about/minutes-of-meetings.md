@@ -18,6 +18,8 @@ aliases: []
 toc: false
 ---
 
+Approved Minutes of Meeting can be accessed by clicking the relevant meeting date.
+
 # 2018 Meetings  
 
   <div class="overflow-auto">
