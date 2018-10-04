@@ -55,7 +55,7 @@ events:
 sections:
   - heading: North of Tyne aTIV Stock
     cta: "Current Stock Levels"
-    link: "/advanced-services/aTIVStock/"
+    link: "/advanced-services/ativstock/"
     color_classes: bg-primary-color-light black
     image: "/images/services/Flu-injection.jpg"
     copy: >-
