@@ -53,16 +53,15 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: North of Tyne LPC Community Pharmacy Awards 2018
-    cta: "Further Information"
-    link: "/news/20180905-awards/"
+  - heading: North of Tyne aTIV Stock
+    cta: "Current Stock Levels"
+    link: "/advanced-services/aTIVStock/"
     color_classes: bg-primary-color-light black
-    image: "/images/agm/2018/teams-2018.jpg"
+    image: "/images/services/flu-injection.jpg"
     copy: >-
-      
-      Following our AGM on the 5th September 2018, we presented the North of Tyne LPC Community Pharmacy Awards 2018.  
-      We had a lot of very strong entries that highlighted the excellent work done by community pharmacy in our region and 
-      we would like to thank everyone who entered and those who attended to support the winners.  
+      Community pharmacy contractors are requested to regularly submit their aTIV stock levels 
+      using the form link in our PharmOutcomes message.  This will automatically update the current stock levels and allow GPs and 
+      other pharmacies to direct patients to locations where stock is available.  
 
 published: true
 ---
