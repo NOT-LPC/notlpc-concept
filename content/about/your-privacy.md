@@ -10,9 +10,9 @@ tags: ["privacy", "GDPR"]
 menu:
   about:
     parent: "about"
-    weight: 80
-weight: 80
-sections_weight: 80
+    weight: 90
+weight: 90
+sections_weight: 90
 draft: false
 aliases: []
 toc: false
