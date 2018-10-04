@@ -57,7 +57,7 @@ sections:
     cta: "Current Stock Levels"
     link: "/advanced-services/aTIVStock/"
     color_classes: bg-primary-color-light black
-    image: "/images/services/flu-injection.jpg"
+    image: "/images/services/Flu-injection.jpg"
     copy: >-
       Community pharmacy contractors are requested to regularly submit their aTIV stock levels 
       using the form link in our PharmOutcomes message.  This will automatically update the current stock levels and allow GPs and 
