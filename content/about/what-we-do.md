@@ -44,4 +44,10 @@ public relations and lobbying to create an environment for community pharmacy to
 The LPCs is therefore a committee with statutory powers and is highly influential. We are a local leadership body
 representing, promoting and supporting the community pharmacies that we serve.  
  
+We represent the following community pharmacies:
 
+<!-- Place this tag where you want the Awesome Table Widget to render -->
+<div data-type="AwesomeTableView" data-viewID="-LNyeN5JuxkqUJDGvMsZ"></div>
+
+<!-- Place this within the <head> tag or just before the end of your <body> tag. -->
+<script src="https://awesome-table.com/AwesomeTableInclude.js"></script>
