@@ -2,17 +2,17 @@
 title: "Specialist Drugs"
 linktitle: 'Specialist Medicines Supply Services"
 description: "On this page you will find details of the specialist medicines supply services commissioned in our region."
-date: 2018-09-01
-publishdate: 2018-09-01
-lastmod: 2018-09-04
+date: 2018-10-05
+publishdate: 2018-10-05
+lastmod: 2018-10-05
 categories: ["local-services"]
 tags: ["specialist-medicines"]
 menu:
   docs:
     parent: "local-services"
-    weight: 30
-weight: 30
-sections_weight: 30
+    weight: 35
+weight: 35
+sections_weight: 35
 draft: false
 aliases: []
 toc: true
