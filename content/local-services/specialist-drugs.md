@@ -1,12 +1,12 @@
 ---
 title: "Specialist Drugs"
-linktitle: 'Specialist Medicines Supply Services"
-description: "On this page you will find details of the specialist medicines supply services commissioned in our region."
+linktitle: 'Specialist Drug Supply Services"
+description: "On this page you will find details of the specialist drugs supply services commissioned in our region."
 date: 2018-10-05
 publishdate: 2018-10-05
 lastmod: 2018-10-05
 categories: ["local-services"]
-tags: ["specialist-medicines"]
+tags: ["specialist-drugs"]
 menu:
   docs:
     parent: "local-services"
