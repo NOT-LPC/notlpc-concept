@@ -78,7 +78,7 @@ please contact Ann Gunning on [07832 967622](Tel:07832967622) or [ann.gunning@ps
 
 **The following is the minimum quantity of drugs to be held by the stockist pharmacies.**  
 Alfentanil injection 500micrograms/ml, 10 x 2ml ampoules  
-*Apixaban 5mg tablets x 28(Kingston Park Boots & Northumberland pharmacies)  
+Apixaban 5mg tablets x 28 **(Kingston Park Boots & Northumberland pharmacies)**  
 Ciprofloxacin suspension 250mg/5ml, 1 x 100ml  
 Ciprofloxacin tablets 250mg, 1 x 10  
 Cyclizine injection 50mg/ml x 10  
@@ -119,7 +119,7 @@ Sodium chloride injection 0.9% 10ml ampoules x 10
 Vancomycin 125mg capsules x 20  
 Water for injection 10ml ampoules x 10  
   
-Specialist advice on palliative care prescribing can be obtained from:  
+**Specialist advice on palliative care prescribing can be obtained from:**  
 Newcastle team	  - 0191 226 1315  
 North Tyneside Team - 0191 220 5905  
 North Northumberland - 01665 626713  
