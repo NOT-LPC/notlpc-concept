@@ -1,6 +1,6 @@
 ---
 title: "Specialist Drugs"
-linktitle: "Specialist Drug Supply Services"
+linktitle: "On Demand Availability of Specialist Drugs"
 description: "On this page you will find details of the specialist drugs supply services commissioned in our region."
 date: 2018-10-05
 publishdate: 2018-10-05
