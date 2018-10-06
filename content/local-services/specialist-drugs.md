@@ -18,7 +18,7 @@ aliases: []
 toc: true
 ---
 
-# Northumberland, Newcastle and North Tynside  
+# Northumberland, Newcastle and North Tyneside  
 
 ## On Demand Availability of Specialist Drugs  
 
@@ -111,10 +111,10 @@ Morphine sulphate M/R tablets (APC formulary brand is MST) 10mg, 30mg, 60mg x 60
 Oxycodone injection 10mg/ml 1ml x 10  
 Oxycodone injection 50mg/ml 1ml x 10  
 Oxycodone oral solution 5mg/5ml x 250ml  
-Oxycodone M/R tablets 10mg, 20mg x 56 (APC formulary brand is Longtec)  
+Oxycodone M/R tablets 10mg, 20mg x 56 **(APC formulary brand is Longtec)**  
 Rifampicin syrup 100mg/5ml, 1 x 100ml  
 Rifampicin 150mg capsules x 100   
-*Rivaroxaban 15mg tablets x 28 (Kingston Park Boots & Northumberland pharmacies)  
+*Rivaroxaban 15mg tablets x 28 **(Kingston Park Boots & Northumberland pharmacies)**  
 Sodium chloride injection 0.9% 10ml ampoules x 10  
 Vancomycin 125mg capsules x 20  
 Water for injection 10ml ampoules x 10  
