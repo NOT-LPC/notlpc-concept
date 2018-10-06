@@ -2,7 +2,7 @@ box: golang
 build:
   steps:
       - arjen/hugo-build:
-        version: "HEAD"
+        version: "0.17"
         theme: notlpc-theme
         flags: --buildDrafts=true -D -F -v
         config: config.toml
@@ -11,7 +11,7 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client
-    - lvivier/gh-pages:
+    - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
         domain: www.northoftynelpc.com
         basedir: public
