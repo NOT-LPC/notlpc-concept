@@ -1,17 +1,19 @@
-box: golang
+box: debian
 build:
   steps:
-    - arjen/hugo-build:
-        version: "HEAD"
-        theme: notlpc-theme
-        flags: --buildDrafts=true -D -F -v
-        config: config.toml
-        disable_pygments: true
+  - install-packages:
+    packages: git
+  - arjen/hugo-build:
+      version: "0.37"
+      theme: notlpc-theme
+      flags: --buildDrafts=true -D -F -v
+      config: config.toml
+      disable_pygments: true
 deploy:
   steps:
-    - install-packages:
-        packages: git ssh-client
-    - lukevivier/gh-pages@0.2.1:
-        token: $GIT_TOKEN
-        domain: www.northoftynelpc.com
-        basedir: public
+  - install-packages:
+      packages: git ssh-client
+  - lukevivier/gh-pages@0.2.1:
+      token: $GIT_TOKEN
+      domain: www.northoftynelpc.com
+      basedir: public
