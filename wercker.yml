@@ -1,8 +1,8 @@
-box: golang
+box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "HEAD"
+        version: "0.48"
         theme: notlpc-theme
         flags: --buildDrafts=true -D -F -v
         config: config.toml
