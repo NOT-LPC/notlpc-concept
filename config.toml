@@ -23,10 +23,8 @@ relativeURLs = false
 # Display memory and timing of different steps of the program
 stepAnalysis = true
 
-
 # This is the top-level, global site title
 title = "North of Tyne LPC"
-
 
 # Change this once you've created your theme
 theme = "notlpc-theme"
@@ -39,8 +37,6 @@ verboseLog = false
 watch = true
 
 # SectionPagesMenu = "docs"
-
-
 
 #CUSTOM PARAMS
 [params]
@@ -58,7 +54,6 @@ watch = true
   ## Google Tag Manager
   gtmid = ""
 
-
   flex_box_interior_classes = "flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height"
 
   #sidebar_direction = "sidebar_left"
@@ -70,7 +65,6 @@ watch = true
 	hrefTargetBlank = true
   angledQuotes = false
   latexDashes = true
-
 
 ## As of v0.20, all content files include a default "categories" value that's the same as the section. This was a cheap future-proofing method and should/could be changed accordingly.
 [taxonomies]
