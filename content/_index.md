@@ -53,15 +53,16 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: North of Tyne aTIV Stock
-    cta: "Current Stock Levels"
-    link: "/advanced-services/ativstock/"
+  - heading: NHS Long Term Plan Published
+    cta: "PSNC response"
+    link: "https://psnc.org.uk/our-news/nhs-long-term-plan-published/"
     color_classes: bg-primary-color-light black
-    image: "/images/services/Flu-injection.jpg"
+    image: "/images/frontpage.jpg"
     copy: >-
-      Community pharmacy contractors are requested to regularly submit their aTIV stock levels 
-      using the form link in our PharmOutcomes message.  This will automatically update the current stock levels and allow GPs and 
-      other pharmacies to direct patients to locations where stock is available.  
+      NHS England will work with Government to make greater use of community pharmacists’ skills and opportunities to engage patients;  
+      NHS England and the Government will explore further efficiencies through reform of reimbursement and wider supply arrangements;  
+      NHS England will work with community pharmacists and others to provide opportunities for the public to check their health, through tests for high blood pressure and other high-risk conditions; and  
+      NHS 111 will start direct booking into GP practices across the country, as well as referring on to community pharmacies who can support urgent care and promote patient self-care and self-management.  
 
 published: true
 ---
