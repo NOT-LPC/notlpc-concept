@@ -53,16 +53,14 @@ events:
       Committee meetings and all are encouraged to attend our AGM.
 
 sections:
-  - heading: NHS Long Term Plan Published
-    cta: "PSNC response"
+  - heading: NHS Long Term Plan
+    cta: "PSNC overview & response"
     link: "https://psnc.org.uk/our-news/nhs-long-term-plan-published/"
     color_classes: bg-primary-color-light black
     image: "/images/frontpage.jpg"
     copy: >-
-      NHS England will work with Government to make greater use of community pharmacists’ skills and opportunities to engage patients;  
-      NHS England and the Government will explore further efficiencies through reform of reimbursement and wider supply arrangements;  
-      NHS England will work with community pharmacists and others to provide opportunities for the public to check their health, through tests for high blood pressure and other high-risk conditions; and  
-      NHS 111 will start direct booking into GP practices across the country, as well as referring on to community pharmacies who can support urgent care and promote patient self-care and self-management.  
+      NHS England will work with Government to make greater use of community pharmacists’ skills and opportunities to engage patients.  
+      NHS England and the Government will explore further efficiencies through reform of reimbursement and wider supply arrangements.
 
 published: true
 ---
