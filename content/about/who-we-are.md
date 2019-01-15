@@ -174,9 +174,9 @@ Currently, there are 8 CCA members and 5 independent members.
           <td class="pa3"> </td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Andy Watson</td>
+          <td class="pa3">Debbie Baird-Palmer</td>
           <td class="pa3">Vice-Chair</td>
-          <td class="pa3">[andy.watson@northoftynelpc.com](mailto:andy.watson@northoftynelpc.com)</td>
+          <td class="pa3">[debbie.baird-palmer@northoftynelpc.com](mailto:debbie.baird-palmer@northoftynelpc.com)</td>
           <td class="pa3"> </td>
         </tr>
         <tr class="stripe-dark">
@@ -186,10 +186,10 @@ Currently, there are 8 CCA members and 5 independent members.
           <td class="pa3"> </td>
         </tr>
         <tr class="stripe-dark">
-          <td class="pa3">Stephen Blackman</td>
+          <td class="pa3">Vacant</td>
           <td class="pa3">Chief Officer</td>
-          <td class="pa3">[stephen.blackman@northoftynelpc.com](mailto:stephen.blackman@northoftynelpc.com)</td>
-          <td class="pa3">[07976 132006](Tel:07976132006)</td>
+          <td class="pa3">  </td>
+          <td class="pa3">  </td>
         </tr>
         <tr class="stripe-dark">
           <td class="pa3">Ann Gunning</td>
