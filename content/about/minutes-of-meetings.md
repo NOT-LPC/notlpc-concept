@@ -45,7 +45,7 @@ Approved Minutes of Meeting can be accessed by clicking the relevant meeting dat
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">Wed, 05 September 2018</td>
+          <td class="pa3">[Wed, 05 September 2018](/meetings/2018/Minutes-of-LPC-Meeting-05-09-2018-Rev-1809A.pdf)</td>
           <td class="pa3">LPC Committee Meeting</td>
         </tr> 
       </tbody>
