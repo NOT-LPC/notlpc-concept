@@ -112,13 +112,13 @@ watch = true
     facebook= "NoTLPC"
   [params.contacts.StephenBlackman]
     #Required for each!
-    name  = "Stephen Blackman"
-    email = "stephen.blackman@northoftynelpc.com"
-    phone = "07976132006"
+    name  = "Ann Gunning"
+    email = "ann.gunning@northoftynelpc.com"
+    phone = "07832967622"
     #Optional
-    linkedin = "sablackman"
-    twitter = "NoT_LPC_CO"
-    facebook= "NoTLPC"
+    linkedin = "ann-gunning-15713829"
+    twitter = "NoT_LPC"
+    facebook= "NoTLPC"     
   [params.contacts.AnnGunning]
     #Required for each!
     name  = "Ann Gunning"
