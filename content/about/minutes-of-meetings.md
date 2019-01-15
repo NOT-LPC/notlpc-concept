@@ -20,6 +20,62 @@ toc: false
 
 Approved Minutes of Meeting can be accessed by clicking the relevant meeting date.
 
+# 2019 Meetings  
+
+  <div class="overflow-auto">
+    <table class="f6 w-100 mw8 center" cellspacing="0">
+      <thead>
+        <tr class="stripe-dark">
+          <th class="fw6 tl pa3 bg-white">Date</th>
+          <th class="fw6 tl pa3 bg-white">Meeting Type</th>
+        </tr>
+      </thead>
+      <tbody class="lh-copy">
+        <tr class="stripe-dark">
+          <td class="pa3">Wed, 06 November 2019</td>
+          <td class="pa3">LPC Committee Meeting</td>
+        </tr> 
+      </tbody>
+	  <tbody class="lh-copy">
+        <tr class="stripe-dark">
+          <td class="pa3">Wed, 04 September 2019</td>
+          <td class="pa3">LPC Annual General Meeting  
+		Annual Report & Accounts</td>
+        </tr> 
+      </tbody>
+	  <tbody class="lh-copy">
+        <tr class="stripe-dark">
+          <td class="pa3">Wed, 04 September 2019</td>
+          <td class="pa3">LPC Committee Meeting</td>
+        </tr> 
+      </tbody>
+	  <tbody class="lh-copy">
+        <tr class="stripe-dark">
+          <td class="pa3">Wed, 03 July 2019</td>
+          <td class="pa3">LPC Committee Meeting</td>
+        </tr> 
+      </tbody>
+	  <tbody class="lh-copy">
+        <tr class="stripe-dark">
+          <td class="pa3">Wed, 01 May 2019</td>
+          <td class="pa3">LPC Committee Meeting</td>
+        </tr> 
+      </tbody>
+	  <tbody class="lh-copy">
+        <tr class="stripe-dark">
+          <td class="pa3">Wed, 06 March 2019</td>
+          <td class="pa3">LPC Committee Meeting</td>
+        </tr> 
+      </tbody>
+	  <tbody class="lh-copy">
+        <tr class="stripe-dark">
+          <td class="pa3">Wed, 23 January 2019</td>
+          <td class="pa3">LPC Committee Meeting</td>
+        </tr> 
+      </tbody>
+    </table>
+  </div>
+
 # 2018 Meetings  
 
   <div class="overflow-auto">
@@ -75,6 +131,7 @@ Approved Minutes of Meeting can be accessed by clicking the relevant meeting dat
       </tbody>
     </table>
   </div>
+
 # 2017 Meetings  
 
   <div class="overflow-auto">
