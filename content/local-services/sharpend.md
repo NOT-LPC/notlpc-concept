@@ -20,7 +20,9 @@ toc: true
 
 # Northumberland
 
-This service is managed by PSNE Limited on behalf of NHS Northumberland CCG.  All claims should be submitted via PharmOutcomes.
+This service is managed by PSNE Limited on behalf of NHS Northumberland CCG. 
+Pharmacies should register on PharmOutcomes. Services provided in accordance with the [service specification](/services/local/sharp/N-Sharpend.pdf) 
+should be claimed via PharmOutcomes.
 
 If you need an additional waste collection please contact Margaret Middlemiss at NHS England on 0113 824 9923 or [margaret.middlemiss@nhs.net](margaret.middlemiss@nhs.net) 
 
