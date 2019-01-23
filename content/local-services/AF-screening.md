@@ -1,6 +1,6 @@
 ---
 title: "AF Screening"
-linktitle: "AF Screening"'
+linktitle: "AF Screening"
 description: "On this page you will find details of the AF screening services commissioned in our region."
 date: 2018-09-01
 publishdate: 2018-09-01
