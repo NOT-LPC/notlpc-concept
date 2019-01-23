@@ -10,9 +10,9 @@ tags: ["AF", "AHSN"]
 menu:
   docs:
     parent: "local-services"
-    weight: 80
-weight: 80
-sections_weight: 80
+    weight: 75
+weight: 75
+sections_weight: 75
 draft: false
 aliases: []
 toc: true
