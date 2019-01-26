@@ -16,9 +16,9 @@ contacts:
     email: "keith.kendall@northoftynelpc.com"
     mobile:
 
-  - name: "[Vacancy](https://www.indeed.co.uk/jobs?q=north%20of%20tyne%20lpc&l=North%20East&vjk=d06cc3810118ebec)"
+  - name: "Vacancy"
     position: "Chief Officer"
-    email: 
+    email: "Apply [here](https://www.indeed.co.uk/jobs?q=north%20of%20tyne%20lpc&l=North%20East&vjk=d06cc3810118ebec)"
     mobile: ""
 
   - name: "Ann Gunning"
