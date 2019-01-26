@@ -16,10 +16,10 @@ contacts:
     email: "keith.kendall@northoftynelpc.com"
     mobile:
 
-  - name: "Stephen Blackman"
+  - name: "Vacancy"
     position: "Chief Officer"
-    email: "stephen.blackman@northoftynelpc.com"
-    mobile: "07976 132006"
+    email: 
+    mobile: ""
 
   - name: "Ann Gunning"
     position: "Head of Services & Support"
