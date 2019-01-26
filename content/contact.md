@@ -17,8 +17,7 @@ contacts:
     mobile:
 
   - name: "Vacancy"
-    position: "Chief Officer - Apply [here](https://www.indeed.co.uk/jobs?q=north%20of%20tyne%20lpc&l=North%20East&vjk=d06cc3810118ebec)"
-    email: ""
+    position: "Chief Officer"
     mobile: ""
 
   - name: "Ann Gunning"
