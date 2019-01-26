@@ -16,7 +16,7 @@ contacts:
     email: "keith.kendall@northoftynelpc.com"
     mobile:
 
-  - name: "Vacancy"
+  - name: "[Vacancy](https://www.indeed.co.uk/jobs?q=north%20of%20tyne%20lpc&l=North%20East&vjk=d06cc3810118ebec)"
     position: "Chief Officer"
     email: 
     mobile: ""
