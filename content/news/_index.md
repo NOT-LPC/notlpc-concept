@@ -19,4 +19,8 @@ The newsletter covers a range of topics relating to NHS community pharmacy such 
 Drug Tariff updates and funding arrangements, as well as updates to the wider healthcare landscape. Those signed up to 
 this list also receive [price concession alerts and updates](https://psnc.org.uk/dispensing-supply/supply-chain/generic-shortages/).  
 
+
+North of Tyne LPC s currently recruiting for a Chief Officer. Vacancy details can be found [here](https://www.indeed.co.uk/jobs?q=north%20of%20tyne%20lpc&l=North%20East&vjk=d06cc3810118ebec)
+
+
 Archived news can be found [here](/news/archive/).  
