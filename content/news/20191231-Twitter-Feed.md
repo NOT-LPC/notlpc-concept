@@ -1,5 +1,5 @@
 ---
-date: 2019-12-31
+
 title: "North of Tyne LPC Twitter Feed"
 description: "Our latest tweets"
 contact: "stephenblackman"
