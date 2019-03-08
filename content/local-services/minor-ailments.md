@@ -1,7 +1,7 @@
 ---
 title: "Minor Ailments"
 linktitle: "Minor Ailment Services"
-description: "On this page you will find details of the minor ailment services commissioned in our region."
+description: "All resources for the Minor Ailments scheme commissioned in the three locailities of the LPC are found on PharmOutcomes"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-04
