@@ -1,7 +1,7 @@
 ---
 title: "Supervised Consumption"
 linktitle: "Supervised Consumption Services"
-description: "On this page you will find details of the supervised consumption services commissioned in our region."
+description: "Details of the supervised consumption services commissioned in our region can be found only on PharmOutcomes."
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-04
