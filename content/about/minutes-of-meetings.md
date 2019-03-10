@@ -69,7 +69,7 @@ Approved Minutes of Meeting can be accessed by clicking the relevant meeting dat
       </tbody>
 	  <tbody class="lh-copy">
         <tr class="stripe-dark">
-          <td class="pa3">[Wed, 23 January 2019](/meetings/2019/Attach-01c-Minutes-of-LPC-Meeting-23-01-2019.pdf)</td>
+          <td class="pa3">[Wed, 23 January 2019](/meetings/2019/Attach-01c-Minutes-of-LPC-Meeting-23-01-2019)</td>
           <td class="pa3">LPC Committee Meeting</td>
         </tr> 
       </tbody>
