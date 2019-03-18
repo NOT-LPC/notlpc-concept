@@ -16,7 +16,7 @@ contacts:
     email: "keith.kendall@northoftynelpc.com"
     mobile:
 
-  - name: "Vacancy"
+  - name: "To Be Announced, March 2019"
     position: "Chief Officer"
     mobile: ""
 
