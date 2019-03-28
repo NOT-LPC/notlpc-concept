@@ -16,8 +16,9 @@ contacts:
     email: "keith.kendall@northoftynelpc.com"
     mobile:
 
-  - name: "To Be Announced, March 2019"
+  - name: "Paul Conroy"
     position: "Chief Officer"
+    email: "paul.conroy@northoftynelpc.com"
     mobile: ""
 
   - name: "Ann Gunning"
@@ -32,7 +33,5 @@ contacts:
 ## Azure Business Centre  |  High Street  |  Newburn  |  Tyne & Wear  | NE15 8LN  
 
 **E  |** [lpc@northoftynelpc.com](mailto:lpc@northoftynelpc.com)  
-
-**T  |** [0191 645 7799](Tel:01916457799)  
 
 **Skype  |** North of Tyne LPC  
