@@ -19,7 +19,19 @@ The newsletter covers a range of topics relating to NHS community pharmacy such 
 Drug Tariff updates and funding arrangements, as well as updates to the wider healthcare landscape. Those signed up to 
 this list also receive [price concession alerts and updates](https://psnc.org.uk/dispensing-supply/supply-chain/generic-shortages/).  
 
-Appointment of North of Tyne LPC Chief Officer.
+title: "Appointment of North of Tyne LPC Chief Officer"
+description: "Community Pharmacy News"
+date: 2018-09-01
+publishdate: 2018-09-01
+lastmod: 2018-09-01
+categories: ["News"]
+tags: []
+weight: 1
+draft: false
+aliases: []
+toc: false
+
+Appointment of North of Tyne LPC Chief Officer
 
 After three successful years as Chief Officer of North of Tyne LPC, Stephen Blackman has moved to a new role with NHS England in the North East supporting the integration of Pharmacy from all sectors within the Integrated Care System(ICS). We wish him success in his new role, and look forward to working with him in this different capacity.
 
