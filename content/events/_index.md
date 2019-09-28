@@ -13,7 +13,7 @@ aliases: []
 toc: false
 ---
 
-North of Tyne Local Pharmaceutical Committee usually meets on the first Wednesday of Jan, Mar, May, Jul, Sep and Nov. 
+TEST North of Tyne Local Pharmaceutical Committee usually meets on the first Wednesday of Jan, Mar, May, Jul, Sep and Nov. 
 Community pharmacy contractors are welcome to observe our [committee meetings](/about/our-meetings.html). 
 We invite representatives of our stakeholders to meet and present to the committee. 
 If you would like to attend a committee meeting, please email [lpc@northoftynelpc.com](mailto:lpc@northoftynelpc.com).  
