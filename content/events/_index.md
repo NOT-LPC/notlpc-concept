@@ -1,7 +1,7 @@
 ---
 title: "Events"
 linktitle: "Events"
-description: "Local events and training opportunities"
+description: "Local events and training opportunities for Contractors and Pharmacists"
 date: 2018-09-01
 publishdate: 2018-09-01
 lastmod: 2018-09-01
