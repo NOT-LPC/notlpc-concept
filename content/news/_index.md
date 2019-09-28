@@ -21,7 +21,7 @@ Places can be booked at https://www.eventbrite.co.uk/e/cpcf-event-2-tickets-7276
 
 The event is at the Holiday Inn, Seaton Burn and will commence with a hot three course buffet available from 6.30pm.
 Places are limited, so please book as soon as possible.
-We look forward to seeing you there
+We look forward to seeing you there!
 
 
 
