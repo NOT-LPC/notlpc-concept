@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/events/</link>
+    <description>Recent content in Events on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>North Tyneside Locality HLP Meeting</title>
+      <link>https://www.northoftynelpc.com/events/20191120-hlp-nt/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/events/20191120-hlp-nt/</guid>
+      <description>Date: Wednesday 20th November 2019
+Time: 10.00 – 12.00
+Location: - North Tyneside Council | The Silverlink North | Newcastle upon Tyne | United Kingdom | NE27 0BY
+Registration: -
+Refreshments: - Tea and coffee will be available
+Notes:
+This meeting is for all North Tyneside community pharmacies accredited as Healthy Living Pharmacies (HLP) or working towards HLP accreditation.
+This meeting is open to those staff who will be or are currently training to be Health Champions.</description>
+    </item>
+    
+    <item>
+      <title>Newcastle Locality HLP Meeting</title>
+      <link>https://www.northoftynelpc.com/events/20191016-hlp-newcl/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/events/20191016-hlp-newcl/</guid>
+      <description>Date: Wednesday 16th October 2019
+Time: 10.00 – 12.00
+Location: -
+Registration: -
+Refreshments: - Tea and coffee provided
+Notes:
+This meeting is for all Newcastle community pharmacies accredited as Healthy Living Pharmacies (HLP) or working towards HLP accreditation.
+This meeting is open to those staff who will be or are currently training to be Health Champions. The only restriction, to keep the meeting managable, is that each pharmacy should send no more than ONE representative to the meeting.</description>
+    </item>
+    
+  </channel>
+</rss>

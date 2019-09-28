@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brexit on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/brexit/</link>
+    <description>Recent content in Brexit on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/brexit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brexit</title>
+      <link>https://www.northoftynelpc.com/news/archive/20180903-brexit/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/news/archive/20180903-brexit/</guid>
+      <description>DHSC letter published 23rd August 2018, advises that hospitals, GPs and community pharmacies throughout the UK do not need to take any steps to stockpile additional medicines, beyond their business as usual stock levels. There is also no need for clinicians to write longer NHS prescriptions. Local stockpiling is not necessary and any incidences involving the over ordering of medicines will be investigated and followed up with the relevant Chief or Responsible Pharmacist directly.</description>
+    </item>
+    
+  </channel>
+</rss>

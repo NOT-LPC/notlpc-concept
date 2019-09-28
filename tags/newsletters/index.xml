@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletters on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/newsletters/</link>
+    <description>Recent content in Newsletters on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/newsletters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our newsletters</title>
+      <link>https://www.northoftynelpc.com/about/our-newsletters/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/our-newsletters/</guid>
+      <description>Newsletter Subscription Please join our mailing list to get regular newsletters with information about community pharmacy contracts, local services, news, training and local events. You can subscribe by submitting your email using the box at the foot of this page.
+Newsletter Privacy Policy We use MailChimp to serve our newsletters and store contact details. We believe this is the most efficient and secure method. Readers should refer to the MailChimp Privacy Policy.</description>
+    </item>
+    
+  </channel>
+</rss>

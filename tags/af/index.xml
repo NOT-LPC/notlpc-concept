@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Af on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/af/</link>
+    <description>Recent content in Af on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/af/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AF Screening</title>
+      <link>https://www.northoftynelpc.com/local-services/af-screening/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/local-services/af-screening/</guid>
+      <description> AHSN North East AF Service </description>
+    </item>
+    
+    <item>
+      <title>NHS Health Checks</title>
+      <link>https://www.northoftynelpc.com/local-services/nhshealthchecks/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/local-services/nhshealthchecks/</guid>
+      <description> Northumberland Newcastle North Tyneside </description>
+    </item>
+    
+  </channel>
+</rss>

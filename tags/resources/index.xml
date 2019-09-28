@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/resources/</link>
+    <description>Recent content in Resources on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Local Pharmacy Contracts &amp; Services</title>
+      <link>https://www.northoftynelpc.com/local-services/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/local-services/</guid>
+      <description>Locally Commissioned Services Maps The following service maps provide an overview of local pharmacy services that are commissioned in each area:
+Northumberland - Locally Commissioned Services Map
+Newcastle - Locally Commissioned Services Map
+North Tyneside - Locally Commissioned Services Map
+All services, other than those of Northumberland County Council, are hosted on PharmOutcomes and the service specifications are linked there.
+Further details on each service can be found in the service pages linked below.</description>
+    </item>
+    
+    <item>
+      <title>Essential Services</title>
+      <link>https://www.northoftynelpc.com/essential-services/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/essential-services/</guid>
+      <description> Essential Services </description>
+    </item>
+    
+    <item>
+      <title>Advanced Services</title>
+      <link>https://www.northoftynelpc.com/advanced-services/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/advanced-services/</guid>
+      <description> Advanced Services </description>
+    </item>
+    
+    <item>
+      <title>Pharmacy Contractual Framework &amp; IT</title>
+      <link>https://www.northoftynelpc.com/pharmacy-contract/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/pharmacy-contract/</guid>
+      <description> Pharmacy Contractual Framework &amp;amp; IT </description>
+    </item>
+    
+    <item>
+      <title>Dispensing &amp; Supply</title>
+      <link>https://www.northoftynelpc.com/dispensing/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/dispensing/</guid>
+      <description> Dispensing &amp;amp; Supply </description>
+    </item>
+    
+    <item>
+      <title>Training &amp; Support</title>
+      <link>https://www.northoftynelpc.com/training/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/training/</guid>
+      <description> Training &amp;amp; Support </description>
+    </item>
+    
+    <item>
+      <title>Other Resources</title>
+      <link>https://www.northoftynelpc.com/other-resources/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/other-resources/</guid>
+      <description> Other Resources </description>
+    </item>
+    
+  </channel>
+</rss>

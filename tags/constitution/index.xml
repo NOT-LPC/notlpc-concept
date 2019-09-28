@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constitution on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/constitution/</link>
+    <description>Recent content in Constitution on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/constitution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our constitution</title>
+      <link>https://www.northoftynelpc.com/about/our-constitution/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/our-constitution/</guid>
+      <description>Constitution of the North of Tyne Local Pharmaceutical Committee 1. Definitions  In this Constitution –
+“The Act” means the National Health Service Act 2006, as amended.
+“Chief Officer” means the person employed or engaged by the Committee as its Chief Officer, Secretary, or Chief Executive Officer.
+“The Committee” and “LPC” mean the Local Pharmaceutical Committee recognised by the NHS Commissioning Board (NHSCB) under the provisions of the Act as representative of the persons providing pharmaceutical services and persons providing local pharmaceutical services from premises in the area for which the Committee is formed.</description>
+    </item>
+    
+  </channel>
+</rss>

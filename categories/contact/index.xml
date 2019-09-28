@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/categories/contact/</link>
+    <description>Recent content in Contact on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/categories/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.northoftynelpc.com/contact/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/contact/</guid>
+      <description>North of Tyne Local Pharmaceutical Committee Azure Business Centre | High Street | Newburn | Tyne &amp;amp; Wear | NE15 8LN E | lpc@northoftynelpc.com
+Skype | North of Tyne LPC</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gdpr on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/gdpr/</link>
+    <description>Recent content in Gdpr on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your privacy</title>
+      <link>https://www.northoftynelpc.com/about/privacy/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/privacy/</guid>
+      <description>North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 167 of the NHS Act 2006, as the statutory body representing the community pharmacies in Northumberland, Newcastle and North Tyneside. We gather data from our stakeholders so we can undertake our legitimate business purpose. We will never share or sell your data for marketing purposes. For more information, see our privacy policy, terms of use and cookie policy.</description>
+    </item>
+    
+    <item>
+      <title>Your privacy</title>
+      <link>https://www.northoftynelpc.com/about/your-privacy/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/your-privacy/</guid>
+      <description>North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 167 of the NHS Act 2006, as the statutory body representing the community pharmacies in Northumberland, Newcastle and North Tyneside. We gather data from our stakeholders so we can undertake our legitimate business purpose. We will never share or sell your data for marketing purposes. For more information, see our privacy policy, terms of use and cookie policy.</description>
+    </item>
+    
+  </channel>
+</rss>

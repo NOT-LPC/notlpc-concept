@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervised Consumption on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/supervised-consumption/</link>
+    <description>Recent content in Supervised Consumption on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/supervised-consumption/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supervised Consumption</title>
+      <link>https://www.northoftynelpc.com/local-services/supervised-consumption/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/local-services/supervised-consumption/</guid>
+      <description> Northumberland Newcastle North Tyneside </description>
+    </item>
+    
+  </channel>
+</rss>

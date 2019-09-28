@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Committee on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/committee/</link>
+    <description>Recent content in Committee on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/committee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About North of Tyne LPC</title>
+      <link>https://www.northoftynelpc.com/about/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/</guid>
+      <description>North of Tyne Local Pharmaceutical Committee (LPC) is recognised, under section 167 of the NHS Act 2006, as the statutory body representing the community pharmacies in Northumberland, Newcastle and North Tyneside.
+We represent 192 community pharmacies across our region.</description>
+    </item>
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://www.northoftynelpc.com/about/privacy/privacy-policy/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/privacy/privacy-policy/</guid>
+      <description>Privacy Policy This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.northoftynelpc.com/ (the “Site”).
+Personal Information We Collect When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site.</description>
+    </item>
+    
+    <item>
+      <title>Terms of use</title>
+      <link>https://www.northoftynelpc.com/about/privacy/terms-of-use/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/privacy/terms-of-use/</guid>
+      <description>TERMS OF SERVICE OVERVIEW This website is operated by North of Tyne LPC. Throughout the site, the terms “we”, “us” and “our” refer to North of Tyne LPC. North of Tyne LPC offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
+By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink.</description>
+    </item>
+    
+  </channel>
+</rss>

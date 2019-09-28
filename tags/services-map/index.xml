@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services Map on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/services-map/</link>
+    <description>Recent content in Services Map on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/services-map/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Newcastle Commissioned Services Map</title>
+      <link>https://www.northoftynelpc.com/local-services/service-maps/newcastle-services/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/local-services/service-maps/newcastle-services/</guid>
+      <description>The following local pharmacy services are commissioned in Newcastle:
+All services are hosted on PharmOutcomes and the service specifications are linked there.
+Further details on each service can be found from the locally commissioned services overview. We will add service specifications as they become available to us. If you cannot find the information you require, please email lpc@northoftynelpc.com.</description>
+    </item>
+    
+    <item>
+      <title>North Tyneside Commissioned Services Map</title>
+      <link>https://www.northoftynelpc.com/local-services/service-maps/north-tyneside-services/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/local-services/service-maps/north-tyneside-services/</guid>
+      <description>The following local pharmacy services are commissioned in North Tyneside:
+All services are hosted on PharmOutcomes and the service specifications are linked there.
+Further details on each service can be found from the locally commissioned services overview. We will add service specifications as they become available to us. If you cannot find the information you require, please email lpc@northoftynelpc.com.</description>
+    </item>
+    
+    <item>
+      <title>Northumberland Commissioned Services Map</title>
+      <link>https://www.northoftynelpc.com/local-services/service-maps/northumberland-services/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/local-services/service-maps/northumberland-services/</guid>
+      <description>The following local pharmacy services are commissioned in Northumberland:
+All services, other than those of Northumberland County Council, are hosted on PharmOutcomes and the service specifications are linked there.
+Further details on each service can be found from the locally commissioned services overview. We will add service specifications as they become available to us. If you cannot find the information you require, please email lpc@northoftynelpc.com.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numsas on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/categories/numsas/</link>
+    <description>Recent content in Numsas on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/categories/numsas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advanced Services</title>
+      <link>https://www.northoftynelpc.com/advanced-services/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/advanced-services/</guid>
+      <description> Advanced Services </description>
+    </item>
+    
+  </channel>
+</rss>

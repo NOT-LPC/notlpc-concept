@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numsas on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/numsas/</link>
+    <description>Recent content in Numsas on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 31 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/numsas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NUMSAS pilot extended</title>
+      <link>https://www.northoftynelpc.com/news/archive/20180831-numsas/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/news/archive/20180831-numsas/</guid>
+      <description>Updated Directions for NUMSAS have been published today, 31st August 2018, and extend the NUMSAS pilot to 31st March 2019.
+Note that the Directions include a slight change to the use of the NHS summary care record.</description>
+    </item>
+    
+  </channel>
+</rss>

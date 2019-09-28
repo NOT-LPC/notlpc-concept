@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharpend on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/sharpend/</link>
+    <description>Recent content in Sharpend on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/sharpend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SharpEnd</title>
+      <link>https://www.northoftynelpc.com/local-services/sharpend/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/local-services/sharpend/</guid>
+      <description>Northumberland This service is managed by PSNE Limited on behalf of NHS Northumberland CCG. Pharmacies should register on PharmOutcomes. Services provided in accordance with the service specification should be claimed via PharmOutcomes.
+If you need an additional waste collection please contact Margaret Middlemiss at NHS England on 0113 824 9923 or margaret.middlemiss@nhs.net
+Newcastle No service.
+North Tyneside No service.</description>
+    </item>
+    
+  </channel>
+</rss>

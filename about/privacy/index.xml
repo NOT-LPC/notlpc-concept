@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your privacy on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/about/privacy/</link>
+    <description>Recent content in Your privacy on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/about/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://www.northoftynelpc.com/about/privacy/privacy-policy/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/privacy/privacy-policy/</guid>
+      <description>Privacy Policy This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.northoftynelpc.com/ (the “Site”).
+Personal Information We Collect When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site.</description>
+    </item>
+    
+    <item>
+      <title>Terms of use</title>
+      <link>https://www.northoftynelpc.com/about/privacy/terms-of-use/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/privacy/terms-of-use/</guid>
+      <description>TERMS OF SERVICE OVERVIEW This website is operated by North of Tyne LPC. Throughout the site, the terms “we”, “us” and “our” refer to North of Tyne LPC. North of Tyne LPC offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
+By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink.</description>
+    </item>
+    
+    <item>
+      <title>Cookie policy</title>
+      <link>https://www.northoftynelpc.com/about/privacy/cookie-policy/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/about/privacy/cookie-policy/</guid>
+      <description>This website and its third-party tools use cookies which are essential to its functioning and are required to achieve the purposes outlined in our cookie policy. By closing our cookie banner, scrolling webpages, clicking a link or continuing to browse you agree to the use of cookies.
+If you want to know more, please refer to the cookie policy below.
+Cookie Policy Newsletter Cookie Policy We use MailChimp to serve our newsletters and store contact details.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/archive/</link>
+    <description>Recent content in Archive on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Archived Events</title>
+      <link>https://www.northoftynelpc.com/events/archive/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/events/archive/</guid>
+      <description>North of Tyne Local Pharmaceutical Committee usually meets on the first Wednesday of Jan, Mar, May, Jul, Sep and Nov. Community pharmacy contractors are welcome to observe our committee meetings. We invite representatives of our stakeholders to meet and present to the committee. If you would like to attend a committee meeting, please email lpc@northoftynelpc.com.
+We hold three meetings a year in each locality for Healthy Living Champions to network and get updates on health and wellbeing iniatives.</description>
+    </item>
+    
+    <item>
+      <title>Archived News</title>
+      <link>https://www.northoftynelpc.com/news/archive/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/news/archive/</guid>
+      <description>Current news can be found here.</description>
+    </item>
+    
+  </channel>
+</rss>

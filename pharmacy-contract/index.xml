@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pharmacy Contractual Framework &amp; IT on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/pharmacy-contract/</link>
+    <description>Recent content in Pharmacy Contractual Framework &amp; IT on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/pharmacy-contract/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contract &amp; IT News</title>
+      <link>https://www.northoftynelpc.com/pharmacy-contract/contract--it-news/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/pharmacy-contract/contract--it-news/</guid>
+      <description>Contract &amp;amp; IT News We recommend that all community pharmacy contractors register for the PSNC newsletter which contains updates from their site, providing subscribers with details and links to the most relevant news articles. The newsletter covers a range of topics relating to NHS community pharmacy such as changes to contractual requirements, Drug Tariff updates and funding arrangements, as well as updates to the wider healthcare landscape. Those signed up to this list also receive price concession alerts and updates.</description>
+    </item>
+    
+  </channel>
+</rss>

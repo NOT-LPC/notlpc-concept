@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stoptober on North of Tyne LPC</title>
+    <link>https://www.northoftynelpc.com/tags/stoptober/</link>
+    <description>Recent content in Stoptober on North of Tyne LPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.northoftynelpc.com/tags/stoptober/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stoptober</title>
+      <link>https://www.northoftynelpc.com/news/archive/20180903-stoptober/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.northoftynelpc.com/news/archive/20180903-stoptober/</guid>
+      <description>We have been advised that Public Health England is unable to take bulk orders for Stoptober Pharmacy materials this year. Instead, pharmacies are to order their own resources directly from either the CRC or the Pharmacy orderline: 0300 123 1019.
+These resources can be ordered now.</description>
+    </item>
+    
+  </channel>
+</rss>
